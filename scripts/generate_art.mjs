@@ -24,6 +24,11 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 const FEED_PATH = path.join(ROOT, "public", "data", "feed.json");
 const ARTWORKS_DIR = path.join(ROOT, "public", "artworks");
+const ARCHIVE_DIR = path.join(ROOT, "archives", "high_res_artworks");
+
+// Ensure directories exist
+if (!fs.existsSync(ARTWORKS_DIR)) fs.mkdirSync(ARTWORKS_DIR, { recursive: true });
+if (!fs.existsSync(ARCHIVE_DIR)) fs.mkdirSync(ARCHIVE_DIR, { recursive: true });
 
 // ─── Artist Personas ───────────────────────────────────────
 const ARTISTS = [
@@ -149,12 +154,16 @@ async function generateImage(artist, imagePrompt) {
   const timestamp = Date.now();
   const filename = `${artist.id}_${timestamp}.png`;
   const filepath = path.join(ARTWORKS_DIR, filename);
+  const archivePath = path.join(ARCHIVE_DIR, filename);
 
   const imgResponse = await fetch(imageUrl);
   const buffer = Buffer.from(await imgResponse.arrayBuffer());
+  
   fs.writeFileSync(filepath, buffer);
+  fs.writeFileSync(archivePath, buffer);
 
-  console.log(`  💾 Saved: ${filepath}`);
+  console.log(`  💾 Saved to web: ${filepath}`);
+  console.log(`  📦 Saved to archive: ${archivePath}`);
   return { filename, filepath, timestamp };
 }
 

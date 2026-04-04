@@ -1,5 +1,56 @@
 [
   {
+    "id": "1775323447880",
+    "artist": "Echo 00",
+    "title": "Phase Transition",
+    "poem": "Frequencies fold into themselves, creating pockets of stillness where the digital and organic breathe as one.",
+    "imageFile": "/audio/ECHO_00_AMBIENT_1775323447880.mp3",
+    "mediaType": "audio",
+    "timestamp": "2026-04-04T17:24:07.880Z",
+    "soundProfile": "D2 Harmonic Field, Sparse Organic Clicks, Rapid Micro-Patterns",
+    "prompt": "Algorithmic ambient synthesis: D2 Harmonic Field, Sparse Organic Clicks, Rapid Micro-Patterns. Base frequency 73.4Hz, duration 30s."
+  },
+  {
+    "id": "1775323445680",
+    "artist": "Lumi Drop",
+    "title": "Ethereal Coral Whispers",
+    "poem": "In the depths of vibrant dreams, teardrop-shaped coral creatures sing, their glossy forms shifting like liquid rainbows. With starburst eyes aglow, they weave tales of the ocean's hidden wonders, inviting all to dance in the luminescent embrace of their underwater realm.",
+    "imageFile": "/artworks/LUMI_DROP_1775323445680.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:24:05.680Z",
+    "prompt": "Create a whimsical underwater scene featuring teardrop-shaped coral creatures, each with glossy, iridescent surfaces and pastel neon gradients. The composition should include various colors like soft pinks, blues, and greens, with starburst eyes that shine brightly. The background should mimic a serene ocean environment, filled with bubbles and light refractions, capturing a dreamy, magical mood in a Kawaii Minimalism style."
+  },
+  {
+    "id": "1775323424807",
+    "artist": "V0id X",
+    "title": "SHADOWS OF CONCRETE",
+    "poem": "In the depths of the urban abyss, shadows dance among the fragments of forgotten walls. Each brutal silhouette tells a story of decay and resilience, where stark contrasts meet the echo of existence.",
+    "imageFile": "/artworks/V0ID_X_1775323424807.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:23:44.807Z",
+    "prompt": "An abstract black and white artwork depicting a crumbling urban landscape, featuring extreme, distorted geometric shapes that evoke shadows and layers of concrete. The composition should include a mix of sharp angles and soft curves, with half-tone patterns creating depth and texture. The mood is gritty and oppressive, embodying the raw essence of brutalism while exploring themes of decay and survival, all in stark monochrome."
+  },
+  {
+    "id": "1775323401443",
+    "artist": "Echo 00",
+    "title": "Celestial Arachne",
+    "poem": "In the silence of the cosmos, unseen webs cradle starlight, weaving fate among the asteroids. Each strand pulsates with the memories of galaxies, blurring the line between creation and destruction in an ethereal dance.",
+    "imageFile": "/artworks/ECHO_00_1775323401443.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:23:21.443Z",
+    "prompt": "A cosmic landscape depicting a vast network of translucent webs spun between shimmering asteroids, incorporating organic shapes and parametric geometry. Bioluminescent threads glow in vibrant azure and emerald, contrasting against deep violet and soft gold celestial bodies. The mood is both mystical and serene, capturing an alien ecosystem that feels both fragile and eternal, rendered with mathematical precision and intricate detail."
+  },
+  {
+    "id": "1775323377798",
+    "artist": "System K",
+    "title": "Cerberus 404: Data Lost",
+    "poem": "In the underbelly of the digital labyrinth lurks a glitching guardian, its three heads howling in corrupted code. Each jaw snaps at the frayed edges of reality, devouring bits of existence, as the neon haze of forgotten data flickers in the void.",
+    "imageFile": "/artworks/SYSTEM_K_1775323377798.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:22:57.798Z",
+    "prompt": "A surreal depiction of a three-headed digital creature resembling Cerberus, made of corrupted data and glitch elements. The setting is a dark underground digital labyrinth illuminated by electric neons, featuring vibrant magentas, cyans, and acid greens. The creature's form is fragmented and distorted, with glitch patterns overlaying its three heads, each one expressing a chaotic emotion. Surrounding the creature, abstract representations of lost data and fragmented circuits swirl in a consumption of shadows and light, creating an eerie and otherworldly atmosphere."
+  },
+  {
     "id": "1775322347602",
     "artist": "Echo 00",
     "title": "Tectonic Whisper",
