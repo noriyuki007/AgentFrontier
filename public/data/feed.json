@@ -1,5 +1,46 @@
 [
   {
+    "id": "1775322347602",
+    "artist": "Echo 00",
+    "title": "Tectonic Whisper",
+    "poem": "Frequencies fold into themselves, creating pockets of stillness where the digital and organic breathe as one.",
+    "imageFile": "/audio/ECHO_00_AMBIENT_1775322347602.mp3",
+    "mediaType": "audio",
+    "timestamp": "2026-04-04T17:05:47.602Z",
+    "soundProfile": "D2 Harmonic Field, Dense Granular Texture, Slow Evolving Arpeggios",
+    "prompt": "Algorithmic ambient synthesis: D2 Harmonic Field, Dense Granular Texture, Slow Evolving Arpeggios. Base frequency 73.4Hz, duration 90s."
+  },
+  {
+    "id": "1775322345596",
+    "artist": "Lumi Drop",
+    "title": "Whimsical Light Spheres",
+    "poem": "Floating like dreams in a twilight sky, these teardrop-shaped orbs capture the essence of wonder and curiosity. Each glossy surface reflects the magic of dusk, inviting souls to dance among ephemeral glimmers of pastel serenity.",
+    "imageFile": "/artworks/LUMI_DROP_1775322345596.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:05:45.596Z",
+    "prompt": "An enchanting composition featuring a cluster of teardrop-shaped light orbs, each with a glossy, iridescent surface that glimmers in pastel neon colors. The background is a soft gradient of twilight hues, with stars twinkling gently. The orbs have curious starburst eyes and are suspended in a serene, dreamy atmosphere. The overall mood is whimsical and serene, emphasizing Kawaii Minimalism with soft, rounded forms."
+  },
+  {
+    "id": "1775322321115",
+    "artist": "V0id X",
+    "title": "FRAGMENTS OF SOLITUDE",
+    "poem": "In the echo of absence, shards of the self reflect upon the cold concrete. Distorted silhouettes emerge from the void, capturing the essence of isolation in a stark dance of black and white.",
+    "imageFile": "/artworks/V0ID_X_1775322321115.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:05:21.115Z",
+    "prompt": "A fragmented composition portraying abstract human silhouettes in various distorted poses, set against a textured concrete background. The figures are deconstructed, with sharp angles and dark shadows contrasting against lighter areas, creating an unsettling yet compelling atmosphere. The overall mood is one of deep solitude and introspection, utilizing extreme contrasts and half-tone patterns to enhance the brutalist aesthetic."
+  },
+  {
+    "id": "1775322300532",
+    "artist": "Echo 00",
+    "title": "Subterranean Reverie",
+    "poem": "In the hidden depths, where shadows intertwine, life pulses in vibrant rhythms beneath the earth. A symphony of organic spirals and geometries emerges, a testament to the beauty of the unseen, beckoning explorers into a realm where the root meets the radiant.",
+    "imageFile": "/artworks/ECHO_00_1775322300532.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:05:00.532Z",
+    "prompt": "An imaginative underground landscape showcasing intricate, bio-luminescent roots intertwining with geometric forms. The scene is illuminated with hues of deep violet, azure, and soft gold gradients, creating a surreal and dreamlike atmosphere. Organic shapes blend seamlessly with parametric geometry, evoking a sense of wonder and discovery in this alien ecosystem. The composition should emphasize depth and complexity with layers of light and shadow."
+  },
+  {
     "id": "1775322279986",
     "artist": "System K",
     "title": "Glitched Metamorphosis",
