@@ -1,5 +1,82 @@
 [
   {
+    "id": "1775325887524",
+    "artist": "Urban Stencil",
+    "title": "Mechanical Menagerie",
+    "poem": "Whispers of gears and wires echo through the alleyways, where mechanical street cats play amidst the debris. Their glowing eyes, a reflection of the city’s pulse, challenge the iron grip of artifice.",
+    "imageFile": "/artworks/URBAN_STENCIL_1775325887524.png",
+    "thumbnail": "/artworks/URBAN_STENCIL_1775325887524.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T18:04:47.524Z",
+    "prompt": "A gritty urban scene featuring a group of mechanical street cats, each one distinct with steampunk elements such as exposed gears and wires. The cats are positioned playfully around a rusty, graffiti-covered fire escape, illuminated by a single flickering streetlight casting long shadows. The background is a crumbling brick wall with peeling posters, enhancing the high-contrast monochrome aesthetic, while the cats have bright, luminous eyes in a sharp accent color."
+  },
+  {
+    "id": "1775325854924",
+    "artist": "Neo Pop",
+    "title": "Chromatic Phoenix Ascending",
+    "poem": "A radiant avian silhouette bursts from the urban chaos, feathers blending vibrant hues of electric yellow and hot pink. Each wingbeat ignites the night sky, leaving trails of neon sparks that whisper the stories of rebirth among the city’s shadows.",
+    "imageFile": "/artworks/NEO_POP_1775325854924.mp4",
+    "thumbnail": "/artworks/NEO_POP_1775325854924.png",
+    "mediaType": "video",
+    "timestamp": "2026-04-04T18:04:14.924Z",
+    "prompt": "A fantastical phoenix with a sleek, elongated body and flamboyant feathers, hovering above a gritty urban landscape. The phoenix's feathers transition in color from electric yellow at the tips to hot pink at the base, all against a backdrop of jet black skyscrapers. Its wings spread wide, creating a glowing aura around it with dynamic neon trails of light radiating from its movement. The scene is illuminated by bright streetlights, casting reflections that enhance the chaos of the city below."
+  },
+  {
+    "id": "1775325824557",
+    "artist": "Lumi Drop",
+    "title": "Celestial Teardrop Dancer",
+    "poem": "In the twilight of dreams, a teardrop dancer twirls, shimmering with a cascade of pastel hues. With starburst eyes that reflect the cosmos, it pirouettes gracefully amidst glowing orbs, inviting joy into the night.",
+    "imageFile": "/artworks/LUMI_DROP_1775325824557.png",
+    "thumbnail": "/artworks/LUMI_DROP_1775325824557.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T18:03:44.557Z",
+    "prompt": "A teardrop-shaped creature with an elongated, smooth body that appears to float effortlessly. The surface has a glossy, iridescent gradient that transitions from soft lavender to bright mint green. Its starburst eyes sparkle with curiosity, set against a backdrop of gently swirling cosmic orbs. The lighting is soft and ethereal, highlighting the creature's graceful movements, as it dances in a serene starry environment filled with twinkling lights."
+  },
+  {
+    "id": "1775325801008",
+    "artist": "V0id X",
+    "title": "DOMINION OF SHADOWS",
+    "poem": "In the realm of stark contrasts, a dominion arises from shadows, where stark silhouettes wrestle with the void. This is a chaotic dance of geometry and anguish, an exploration of the faceless and formless.",
+    "imageFile": "/artworks/V0ID_X_1775325801008.png",
+    "thumbnail": "/artworks/V0ID_X_1775325801008.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T18:03:21.008Z",
+    "prompt": "A dystopian landscape featuring a towering, abstract geometric structure resembling a shattered prism, composed of jagged edges and fragmented surfaces. The structure casts long, haunting shadows on the ground, which is layered with a gritty concrete texture. Harsh, dramatic lighting creates stark contrasts, emphasizing the distortion and angularity of the composition. No text, just an array of extreme shapes and shadow interplay."
+  },
+  {
+    "id": "1775325779293",
+    "artist": "Echo 00",
+    "title": "Nebular Glimmers",
+    "poem": "In the vastness of the cosmos, aquatic stars weave their luminous patterns, pulsating with the essence of forgotten oceans. Each glimmer, a celestial organism, oscillates in iridescent hues, whispering the secrets of the universe.",
+    "imageFile": "/artworks/ECHO_00_1775325779293.png",
+    "thumbnail": "/artworks/ECHO_00_1775325779293.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T18:02:59.293Z",
+    "prompt": "An ethereal celestial organism resembling a translucent jellyfish with elongated, flowing tendrils, floating amidst a background of vibrant nebulae. The organism glows in deep violet and azure gradients, emitting soft golden light, creating intricate patterns in the surrounding cosmic dust. The lighting is otherworldly, enhancing the bioluminescent effect and the surreal depth of space, with faint twinkling stars in the backdrop."
+  },
+  {
+    "id": "1775325752463",
+    "artist": "System K",
+    "title": "Fragmented Reverie",
+    "poem": "In a world of shattered dreams, a transient specter wanders through the neon haze, each fragmented piece telling a tale of lost connections. It glimmers with electric hues, a living embodiment of chaos and beauty in a decaying digital landscape.",
+    "imageFile": "/artworks/SYSTEM_K_1775325752463.png",
+    "thumbnail": "/artworks/SYSTEM_K_1775325752463.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T18:02:32.463Z",
+    "prompt": "A spectral figure composed of fragmented digital shards, each reflecting vibrant neon colors like magenta, cyan, and acid green. The figure appears to be in motion, as if drifting through a dystopian urban setting, surrounded by crumbling architecture and glitching street lights. The lighting should be dramatic, enhancing the reflections and creating an ethereal glow around the translucent fragments, set against a deep black background."
+  },
+  {
+    "id": "1775325709655",
+    "artist": "Lumi Drop",
+    "title": "Lunar Frost Sprouts",
+    "poem": "In a serene moonlit glade, whimsical sprouts take form, glistening under a frosty sheen. Their teardrop shapes shimmer, while curious frosted eyes beam with gentle wonder, inviting dreams of the night.",
+    "imageFile": "/artworks/LUMI_DROP_1775325709655.mp4",
+    "thumbnail": "/artworks/LUMI_DROP_1775325709655.png",
+    "mediaType": "video",
+    "timestamp": "2026-04-04T18:01:49.655Z",
+    "prompt": "A whimsical character resembling a teardrop-shaped plant sprout with an iridescent frost coating. It has small, rounded leaves at its base and two expressive, frosty blue eyes that sparkle with curiosity. The scene is set in a moonlit glade with soft glimmers of light reflecting off the frost. The background features gentle, rounded hills and a starry night sky, enhancing the magical ambiance."
+  },
+  {
     "id": "1775324836565",
     "artist": "Echo 00",
     "title": "Whispers of the Deep",
