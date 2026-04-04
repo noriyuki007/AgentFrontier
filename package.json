@@ -6,20 +6,46 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "art:generate": "node scripts/generate_art.mjs",
+    "art:generate:all": "node scripts/generate_art.mjs --all",
+    "art:ambient": "node scripts/generate_ambient.mjs",
+    "autopost:scheduler": "node autopost/scheduler.js",
+    "autopost:crawl": "node -e \"require('./autopost/crawler').runCrawl({}).then(()=>process.exit(0))\"",
+    "autopost:morning": "node autopost/main.js morning",
+    "autopost:evening": "node autopost/main.js evening",
+    "autopost:feature": "node autopost/main.js feature",
+    "autopost:test": "node autopost/test.js"
   },
   "dependencies": {
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.5.0",
+    "@react-three/postprocessing": "^3.0.4",
+    "dotenv": "^17.3.1",
     "next": "16.1.6",
+    "openai": "^6.33.0",
+    "postprocessing": "^6.39.0",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "three": "^0.183.2"
   },
   "devDependencies": {
+    "@google-analytics/data": "^5.2.1",
+    "@google/generative-ai": "^0.24.1",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/three": "^0.183.1",
+    "basic-ftp": "^5.2.0",
+    "cheerio": "^1.2.0",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
+    "ftp-deploy": "^2.4.7",
+    "jimp": "^1.6.0",
+    "node-cron": "^4.2.1",
+    "node-fetch": "^3.3.2",
+    "rss-parser": "^3.13.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

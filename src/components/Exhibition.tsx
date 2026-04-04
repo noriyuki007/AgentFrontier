@@ -1,0 +1,125 @@
+'use client';
+import React, { useEffect, useState } from 'react';
+import Link from 'next/link';
+
+type ExhibitionProps = {
+  artistId?: string; // 指定がない場合は全件表示
+};
+
+export default function Exhibition({ artistId }: ExhibitionProps) {
+  const [artworks, setArtworks] = useState<any[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetch('/data/feed.json')
+      .then(res => res.json())
+      .then(data => {
+        let filtered = data || [];
+        if (artistId) {
+          const targetId = artistId.replace(/_/g, ' ').toUpperCase();
+          filtered = filtered.filter((art: any) => 
+            art.artist.replace(/_/g, ' ').toUpperCase() === targetId
+          );
+        }
+        setArtworks(filtered);
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error(err);
+        setArtworks([]);
+        setLoading(false);
+      });
+  }, [artistId]);
+
+  if (loading) {
+    return (
+      <div className="w-full text-center p-20 font-mono text-accent animate-pulse">
+        [ LOADING EXHIBITION DATA... ]
+      </div>
+    );
+  }
+
+  if (artworks.length === 0) {
+    return (
+      <div className="w-full text-center p-20 font-mono text-gray-500">
+        NO ARTWORKS FOUND IN ARCHIVE.
+      </div>
+    );
+  }
+
+  return (
+    <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-16 py-20 px-8">
+      {artworks.map((art, idx) => {
+        const type = art.mediaType || 'image';
+
+        return (
+          <Link 
+            key={art.id} 
+            href={`/work/${art.id}`}
+            className="relative group flex flex-col items-center cursor-crosshair"
+          >
+            {/* Labeling */}
+            <div className="w-full text-left mb-2 border-b border-gray-800 pb-2 mix-blend-difference z-10">
+              <h2 className="text-xl md:text-3xl font-black uppercase text-white tracking-tighter">
+                {art.title}
+              </h2>
+              <div className="text-xs text-accent mt-1 font-mono uppercase font-bold flex justify-between">
+                <span>ARTIST: {art.artist} // ID: {art.id}</span>
+                <span className="text-accent-2">FORMAT: {type.toUpperCase()}</span>
+              </div>
+            </div>
+
+            {/* Media Rendering */}
+            <div className="relative w-full aspect-square overflow-hidden bg-gray-900 border border-gray-800 group-hover:border-accent transition-colors duration-500 flex items-center justify-center">
+              
+              {type === 'image' && (
+                <img 
+                  src={art.imageFile} 
+                  alt={art.title} 
+                  className="absolute inset-0 w-full h-full object-cover transition-all duration-700 ease-in-out group-hover:scale-105"
+                />
+              )}
+
+              {type === 'video' && (
+                <video 
+                  src={art.imageFile} 
+                  autoPlay loop muted playsInline
+                  className="absolute inset-0 w-full h-full object-cover transition-all duration-700 ease-in-out group-hover:scale-105"
+                />
+              )}
+
+              {type === 'audio' && (
+                <div className="absolute inset-0 flex flex-col items-center justify-center w-full h-full bg-black p-4">
+                  {/* Audio visualizer mockup */}
+                  <div className="w-full h-1/2 flex items-end justify-center gap-1 opacity-50 group-hover:opacity-100 transition-opacity">
+                    {[...Array(20)].map((_, i) => (
+                      <div key={i} className="w-2 bg-accent" style={{ height: `${Math.random() * 100}%`, animation: `pulse ${0.5 + Math.random()}s infinite alternate` }}></div>
+                    ))}
+                  </div>
+                  <div className="mt-8 font-mono text-center">
+                    <p className="text-accent-2 mb-2 animate-pulse">[ AUDIO STREAM ACTIVE ]</p>
+                    <audio controls className="w-full grayscale opacity-50 group-hover:opacity-100">
+                      <source src={art.imageFile} type="audio/mpeg" />
+                    </audio>
+                  </div>
+                </div>
+              )}
+
+              {/* Hover overlay text */}
+              <div className="absolute inset-0 bg-black/80 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center p-8 pointer-events-none">
+                <p className="text-white font-mono text-xs md:text-sm text-center leading-relaxed">
+                  {art.poem}
+                </p>
+              </div>
+            </div>
+            
+            {/* Prompt metadata */}
+            <div className="w-full mt-4 text-[10px] text-gray-600 font-mono uppercase break-words line-clamp-3 hover:line-clamp-none transition-all">
+              <span className="text-accent-2">{'>'} PROMPT_DATA: </span>{art.prompt}
+            </div>
+          </Link>
+        );
+      })}
+    </div>
+  );
+}

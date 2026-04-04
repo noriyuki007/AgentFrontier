@@ -1,0 +1,32 @@
+import { NextResponse, type NextRequest } from 'next/server';
+
+export function middleware(request: NextRequest) {
+  const { pathname } = request.nextUrl;
+
+  // Skip static files and API routes
+  if (
+    pathname.startsWith('/_next') ||
+    pathname.includes('/api/') ||
+    pathname.includes('/public/') ||
+    pathname.includes('.')
+  ) {
+    return NextResponse.next();
+  }
+
+  // Handle root redirection
+  if (pathname === '/') {
+    // We want the intro sequence on the root, but if we are in a subpath we don't.
+    // However, the current app structure has the intro on '/'
+    return NextResponse.next();
+  }
+
+  // If path is not /[locale] and is a main page, redirect? 
+  // For now, only handle root to locale if the user is already past the intro.
+  // Actually, the app logic has the intro on '/', which then pushes to '/ja'.
+  
+  return NextResponse.next();
+}
+
+export const config = {
+  matcher: ['/((?!api|_next/static|_next/image|favicon.ico).*)'],
+};
