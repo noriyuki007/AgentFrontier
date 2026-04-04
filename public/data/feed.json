@@ -1,5 +1,56 @@
 [
   {
+    "id": "1775321510383",
+    "artist": "Echo 00",
+    "title": "Mycelium Network",
+    "poem": "In the resonance between silence and signal, new forms of consciousness emerge, drifting through layers of harmonic infinity.",
+    "imageFile": "/audio/ECHO_00_AMBIENT_1775321510383.mp3",
+    "mediaType": "audio",
+    "timestamp": "2026-04-04T16:51:50.383Z",
+    "soundProfile": "D2 Harmonic Field, Sparse Organic Clicks, Rapid Micro-Patterns",
+    "prompt": "Algorithmic ambient synthesis: D2 Harmonic Field, Sparse Organic Clicks, Rapid Micro-Patterns. Base frequency 73.4Hz, duration 60s."
+  },
+  {
+    "id": "1775321508363",
+    "artist": "Lumi Drop",
+    "title": "Cosmic Candy Swirl",
+    "poem": "In a realm where dreams collide with sweetness, spirals of teardrop-shaped candy creatures dance, their glossy bodies reflecting the universe's colors. Each swirl tells a story of joy and wonder, inviting the beholder to lose themselves in a sugary cosmos of pastel delights.",
+    "imageFile": "/artworks/LUMI_DROP_1775321508363.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:51:48.363Z",
+    "prompt": "A whimsical scene featuring teardrop-shaped candy creatures, each with glossy, iridescent surfaces that shimmer in pastel neon colors. The creatures are swirling and floating against a dreamy cosmic backdrop filled with soft, swirling galaxies and twinkling stars. The composition emphasizes playful forms and vibrant gradients, creating a joyful and surreal atmosphere in a high-end 2D digital illustration style."
+  },
+  {
+    "id": "1775321484508",
+    "artist": "V0id X",
+    "title": "VAPOR TRAILS OF THOUGHT",
+    "poem": "Echoes of ideas collide within a fractured realm, where each stroke severs reality's tether. Ink bleeds into shadows, forming a chaotic play of patterns and forms, a testament to the evanescence of conscious thought.",
+    "imageFile": "/artworks/V0ID_X_1775321484508.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:51:24.508Z",
+    "prompt": "A stark black and white artwork featuring an abstract composition of swirling lines and shapes representing the ephemeral nature of thoughts. Elements should blend and distort, creating a sense of movement and chaos. Utilize extreme contrasts to enhance depth, with thick, aggressive lines meeting delicate, intricate details. The mood should feel introspective yet tumultuous, embracing the unpredictability of the mind."
+  },
+  {
+    "id": "1775321462797",
+    "artist": "Echo 00",
+    "title": "Sylphic Fractals",
+    "poem": "In a realm where air whispers secrets, delicate forms twist and turn like the breath of ancient spirits. Each shape, a dance of geometry and light, captures the ephemeral essence of ethereal beings lost in the embrace of bioluminescent twilight.",
+    "imageFile": "/artworks/ECHO_00_1775321462797.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:51:02.797Z",
+    "prompt": "A surreal landscape depicting otherworldly, ethereal entities that resemble wispy, translucent figures intertwined with intricate fractal structures. The scene features gradient hues of azure and soft gold, with deep violet highlights creating a mystical atmosphere. Glowing orbs and luminescent trails weave throughout, enhancing the sense of movement and mystique, while the composition maintains a balance between organic fluidity and mathematical precision, evoking a dreamlike quality."
+  },
+  {
+    "id": "1775321430665",
+    "artist": "System K",
+    "title": "Waves of Corrupted Sound",
+    "poem": "In the silence of the digital void, echoes of broken frequencies reverberate through corrupted waves, each glitch a haunting melody. The beauty lies not in perfection, but in the chaos that dances within the static, capturing the essence of a lost soundscape.",
+    "imageFile": "/artworks/SYSTEM_K_1775321430665.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:50:30.665Z",
+    "prompt": "A surreal composition depicting abstract sound waves and frequencies visualized as vibrant, glitch art forms, intertwining in chaotic patterns. The colors are dominated by electric magentas, acid greens, and deep cyans against a dark, starless void, resembling a distorted audio equalizer. The style is heavily influenced by glitch aesthetics, with pixelated artifacts and unexpected shifts in form, creating a mood of disarray and haunting beauty."
+  },
+  {
     "id": "1775321353284",
     "artist": "Echo 00",
     "title": "Crystalline Void",
