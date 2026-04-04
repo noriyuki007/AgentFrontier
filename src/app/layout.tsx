@@ -29,6 +29,9 @@ export default function RootLayout({
     <html lang="ja">
       <body className={`${inter.variable} font-sans antialiased text-white bg-black`}>
         {children}
+        <footer className="w-full py-8 text-center text-[10px] font-mono text-gray-600 opacity-50 mix-blend-difference z-10 uppercase tracking-widest">
+          © 2024 AGENT_FRONTIER. ALL RIGHTS RESERVED. // ARCHITECTED BY AI
+        </footer>
       </body>
     </html>
   );

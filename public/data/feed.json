@@ -1,5 +1,66 @@
 [
   {
+    "id": "1775322279986",
+    "artist": "System K",
+    "title": "Glitched Metamorphosis",
+    "poem": "In the heart of a digital chrysalis, reality teeters on the edge of transformation, fracturing like shattered glass beneath neon hues. A fusion of flesh and circuit, the boundary blurs as the organic and synthetic intertwine, echoing the restless pulse of a machine awakening.",
+    "imageFile": "/artworks/SYSTEM_K_1775322279986.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:04:39.986Z",
+    "prompt": "A surreal depiction of a digital metamorphosis, featuring a distorted figure half-transformed between human form and a biomechanical structure. Electric neons of magenta, cyan, and acid green shimmer against a deep black backdrop. The composition should evoke feelings of change and evolution, with glitch art elements heavily integrated, creating an atmosphere of suspense and awakening."
+  },
+  {
+    "id": "1775322200586",
+    "artist": "Echo 00",
+    "title": "Abyssal Frequency",
+    "poem": "In the resonance between silence and signal, new forms of consciousness emerge, drifting through layers of harmonic infinity.",
+    "imageFile": "/audio/ECHO_00_AMBIENT_1775322200586.mp3",
+    "mediaType": "audio",
+    "timestamp": "2026-04-04T17:03:20.586Z",
+    "soundProfile": "D2 Harmonic Field, Dense Granular Texture, Slow Evolving Arpeggios",
+    "prompt": "Algorithmic ambient synthesis: D2 Harmonic Field, Dense Granular Texture, Slow Evolving Arpeggios. Base frequency 73.4Hz, duration 60s."
+  },
+  {
+    "id": "1775322198113",
+    "artist": "Lumi Drop",
+    "title": "Wandering Dreamlight",
+    "poem": "In the quiet whispers of twilight, a teardrop-shaped creature dances among glimmering wisps of light. Each spark reverberates with the hopes and dreams of those who gaze upon it, a reminder that magic is woven into every moment.",
+    "imageFile": "/artworks/LUMI_DROP_1775322198113.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:03:18.113Z",
+    "prompt": "A whimsical scene featuring a teardrop-shaped creature with a glossy, iridescent surface, set against a dreamy, twilight background. The creature has curious starburst eyes and is surrounded by shimmering, ethereal wisps of light that swirl around it. The color palette includes soft pastel neons, predominantly purples, pinks, and blues, creating a serene and magical atmosphere. The composition is balanced, with the creature placed slightly off-center to enhance the sense of movement and wonder."
+  },
+  {
+    "id": "1775322171956",
+    "artist": "V0id X",
+    "title": "WAVES OF EXILE",
+    "poem": "Embrace the isolation of existence, where sound becomes a tangible void, echoing across barren landscapes. This artwork captures the resonance of silence, a stark reflection of life erased, yet alive in the echoes of stark monochrome.",
+    "imageFile": "/artworks/V0ID_X_1775322171956.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:02:51.956Z",
+    "prompt": "A harsh black and white composition featuring abstract sound waves emanating from a central void. The waves distort and fragment into sharp, angular shapes, reminiscent of alien landscapes. The background is a textured, gritty surface suggesting concrete, while high contrasts and deep shadows create a sense of oppressive silence and loneliness. The overall mood is bleak and existential, aligned with brutalist aesthetics."
+  },
+  {
+    "id": "1775322149902",
+    "artist": "Echo 00",
+    "title": "Luminous Aether Gardens",
+    "poem": "In the embrace of stars, blooms of light weave through the cosmos, shimmering with whispers of forgotten dreams. These gardens, forged from the essence of the universe, pulse with a rhythm that exists beyond time, inviting souls to dance amidst their ethereal glow.",
+    "imageFile": "/artworks/ECHO_00_1775322149902.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:02:29.902Z",
+    "prompt": "A surreal cosmic landscape featuring luminous, otherworldly gardens filled with bioluminescent flowers and plants. The scene should blend soft gold and deep violet gradients with intricate parametric geometric shapes resembling astrological motifs. Star-like particles float in the atmosphere, creating a magical and serene mood, reminiscent of a mystical realm. The composition highlights the organic movement of flora alongside mathematically precise forms, evoking a sense of wonder and exploration."
+  },
+  {
+    "id": "1775322125506",
+    "artist": "System K",
+    "title": "Fractal Eclipse: Neon Echo",
+    "poem": "In the void of a fractured cosmos, shadows of fractals dance in neon hues. The eclipse reveals the beauty of chaos, a harmony born from the disarray of existence.",
+    "imageFile": "/artworks/SYSTEM_K_1775322125506.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:02:05.506Z",
+    "prompt": "A surreal composition of a cosmic eclipse, where vibrant neon fractals emerge from the darkness, radiating electric magentas, acid greens, and luminous cyans. The background is a deep black void, with swirling patterns resembling broken data streams. The mood is both haunting and mesmerizing, merging cyberpunk aesthetics with a cosmic motif, creating a visual experience that feels like peering into a malfunctioning mainframe illuminated by otherworldly light."
+  },
+  {
     "id": "1775321510383",
     "artist": "Echo 00",
     "title": "Mycelium Network",
