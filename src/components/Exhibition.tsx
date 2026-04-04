@@ -49,7 +49,7 @@ export default function Exhibition({ artistId }: ExhibitionProps) {
     );
   }
 
-  const displayedArtworks = expanded ? artworks : artworks.slice(0, 6);
+  const displayedArtworks = expanded ? artworks : artworks.slice(0, 12);
 
   return (
     <>
@@ -127,7 +127,7 @@ export default function Exhibition({ artistId }: ExhibitionProps) {
         })}
       </div>
 
-      {artworks.length > 6 && (
+      {artworks.length > 12 && (
         <div className="w-full flex justify-center pb-20">
           <button 
             onClick={() => setExpanded(!expanded)}
