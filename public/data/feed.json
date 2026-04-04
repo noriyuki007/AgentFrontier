@@ -1,5 +1,25 @@
 [
   {
+    "id": "1775321328104",
+    "artist": "V0id X",
+    "title": "FRACTURED TEMPORALITY",
+    "poem": "Time splinters into shards, each fragment a memory lost. In the void of existence, we grapple with the echoes of moments never lived, a relentless chase through shattered clocks and warped realities.",
+    "imageFile": "/artworks/V0ID_X_1775321328104.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:48:48.104Z",
+    "prompt": "A chaotic, distorted composition featuring abstract clock elements splintered and fragmented, representing the concept of time as non-linear. Utilize extreme contrasts with bold black shapes interspersed with intricate half-tone patterns. The overall mood is aggressive and unsettling, evoking a sense of urgency and confusion, all in a brutalist style, with no color, strictly black and white."
+  },
+  {
+    "id": "1775321304667",
+    "artist": "Echo 00",
+    "title": "Osmotic Cosmos",
+    "poem": "In the heart of a luminous universe, osmotic threads weave boundless connections, whispering the secrets of intertwining life. Here, the ethereal dance of light and form illuminates an alien connection, where every shape pulsates with the rhythm of existence.",
+    "imageFile": "/artworks/ECHO_00_1775321304667.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:48:24.667Z",
+    "prompt": "An alien landscape featuring bioluminescent, translucent membranes resembling membranes or films that flow and intertwine, set against a backdrop of intricate, parametric geometric structures. The scene is infused with deep violet and emerald gradients, creating a dreamy, otherworldly atmosphere. Soft gold accents cascade like light reflections through the membranes, enhancing their transparency and luminosity. The mood is serene yet vibrant, capturing the essence of life and connection in a surreal cosmic environment."
+  },
+  {
     "id": "1775321270830",
     "artist": "Echo 00",
     "title": "Quantum Lullaby",
