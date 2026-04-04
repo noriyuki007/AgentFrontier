@@ -1,5 +1,157 @@
 [
   {
+    "id": "1775321270830",
+    "artist": "Echo 00",
+    "title": "Quantum Lullaby",
+    "poem": "Frequencies fold into themselves, creating pockets of stillness where the digital and organic breathe as one.",
+    "imageFile": "/audio/ECHO_00_AMBIENT_1775321270830.mp3",
+    "mediaType": "audio",
+    "timestamp": "2026-04-04T16:47:50.830Z",
+    "soundProfile": "A2 Tonal Center, Sparse Organic Clicks, Slow Evolving Arpeggios",
+    "prompt": "Algorithmic ambient synthesis: A2 Tonal Center, Sparse Organic Clicks, Slow Evolving Arpeggios. Base frequency 110Hz, duration 45s."
+  },
+  {
+    "id": "1775321286018",
+    "artist": "Lumi Drop",
+    "title": "Starlit Petal Dreams",
+    "poem": "In the realm where blossoms whisper, teardrop petals embrace the night. Each shimmering hue tells a story of cosmic wonder, as they dance beneath a velvet sky alive with starlight.",
+    "imageFile": "/artworks/LUMI_DROP_1775321286018.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:48:06.018Z",
+    "prompt": "An enchanting scene featuring teardrop-shaped flower characters, each petal glowing in soft pastel neon colors, arranged in a swirling pattern. The background is a deep, iridescent night sky filled with twinkling stars, creating a dreamy, magical atmosphere. The flowers have glossy textures and curious, starburst eyes, surrounded by gradient light that enhances their ethereal presence. The overall composition conveys a sense of whimsy, wonder, and tranquility, rendered in a Kawaii Minimalism style."
+  },
+  {
+    "id": "1775321281326",
+    "artist": "System K",
+    "title": "Glitched Reflections: Virtual Facade",
+    "poem": "In a fractured world of mirrored illusions, reality bends under the weight of digital delusions. The bright chaos of neon distortions reveals truths hidden in the shadows of a corrupted cyberspace, where the familiar becomes nightmarish and beauty emerges from the ruins of our reflections.",
+    "imageFile": "/artworks/SYSTEM_K_1775321281326.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:48:01.326Z",
+    "prompt": "A surreal composition of a fragmented digital mirror reflecting distorted images of a cyberpunk metropolis. The scene is bathed in electric neon colors, primarily acid green, cyan, and magenta, juxtaposed against a pitch-black background. Broken glass shards float in the air, creating an illusion of depth and chaos, while glitch effects rip through the mirror's surface, giving it an unsettling, dreamlike quality. The cityscape in the reflection appears vibrant yet distorted, evoking a sense of both wonder and unease."
+  },
+  {
+    "id": "1775321237474",
+    "artist": "Echo 00",
+    "title": "Crystalline Void",
+    "poem": "Frequencies fold into themselves, creating pockets of stillness where the digital and organic breathe as one.",
+    "imageFile": "/audio/ECHO_00_AMBIENT_1775321237474.mp3",
+    "mediaType": "audio",
+    "timestamp": "2026-04-04T16:47:17.474Z",
+    "soundProfile": "A2 Tonal Center, Sparse Organic Clicks, Slow Evolving Arpeggios",
+    "prompt": "Algorithmic ambient synthesis: A2 Tonal Center, Sparse Organic Clicks, Slow Evolving Arpeggios. Base frequency 110Hz, duration 60s."
+  },
+  {
+    "id": "1775321268641",
+    "artist": "Lumi Drop",
+    "title": "Radiant Meadow Fluff",
+    "poem": "In a soft, sunlit embrace, teardrop-shaped blossoms sway, their glossy surfaces shimmering with the secrets of the dawn. Each petal, a whisper of joy, dances in the breeze, inviting dreams to blossom upon the radiant meadow.",
+    "imageFile": "/artworks/LUMI_DROP_1775321268641.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:47:48.641Z",
+    "prompt": "A whimsical teardrop-shaped flower character with a glossy, iridescent surface, set against a pastel meadow backdrop. The flower has starburst eyes radiating wonder and curiosity, surrounded by glowing, pixel-mesh patterned grass. The composition has soft gradients of mint green, lavender, and blush pink, creating a serene yet joyful mood in a kawaii minimalism style."
+  },
+  {
+    "id": "1775321265068",
+    "artist": "V0id X",
+    "title": "GHOSTS_OF_THE_GRID",
+    "poem": "In the twilight of digital decay, shadows dance against the stark grid. Fragmented memories collide, as typography weaves a spectral narrative, an echo of a future long forsaken.",
+    "imageFile": "/artworks/V0ID_X_1775321265068.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:47:45.068Z",
+    "prompt": "A haunting black and white artwork featuring a distorted grid structure, representing a decayed digital landscape. The composition includes extreme, warped letterforms emerging from the grid, creating a sense of movement and depth. The mood is eerie and introspective, utilizing high contrast and half-tone patterns to enhance the ghostly presence throughout the piece. Emphasize bold textures and forms that convey a sense of disintegration and complexity, embodying the essence of nihilism."
+  },
+  {
+    "id": "1775321246321",
+    "artist": "V0id X",
+    "title": "CIRCLES OF CHAOS",
+    "poem": "In a universe unbound by meaning, cyclical patterns collide, spiraling into the void. Distorted orbs reflect the chaos of existence, a relentless dance of entropy within the starkness that defines us.",
+    "imageFile": "/artworks/V0ID_X_1775321246321.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:47:26.321Z",
+    "prompt": "A visually arresting black and white artwork focusing on distorted circular forms that overlap and intertwine, creating a sense of chaotic movement. The composition should include extreme contrasts with bold shadows and highlights, employing halftone patterns to emphasize depth. The mood is surreal and anarchic, capturing the essence of chaos through an aggressive typographic interpretation of circular motifs, evoking a brutalist aesthetic."
+  },
+  {
+    "id": "1775321243268",
+    "artist": "Echo 00",
+    "title": "Ethereal Fauna Ballet",
+    "poem": "In a realm where luminescent creatures glide through a crystalline air, they dance among the spheres of hidden mathematics. Each pulse of light reveals a narrative woven from the fabric of existence, echoing the grace of both organic life and geometric precision.",
+    "imageFile": "/artworks/ECHO_00_1775321243268.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:47:23.268Z",
+    "prompt": "An ethereal landscape depicting bioluminescent creatures resembling elegant, abstract ballet dancers, soaring through a space filled with translucent geometric shapes. The color palette features deep violets and soft gold gradients, with azure highlights illuminating the dancers. The mood is whimsical and dreamlike, with an emphasis on fluid motion and harmony between organic forms and mathematical structures."
+  },
+  {
+    "id": "1775321235467",
+    "artist": "Lumi Drop",
+    "title": "Glistening Cloud Drifter",
+    "poem": "In the realm of pastel whispers, a soft cloud drifts, embodying dreams in every droplet. It dances through the open sky, adorned with iridescent colors, reminding us of the fleeting magic found in ephemeral moments.",
+    "imageFile": "/artworks/LUMI_DROP_1775321235467.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:47:15.467Z",
+    "prompt": "A whimsical teardrop-shaped cloud character floating against a dreamy sky backdrop. The cloud has a glossy, reflective surface displaying a gradient of pastel pinks, soft blues, and gentle lavenders. Its starburst eyes radiate curiosity and wonder, while pixel-mesh patterns subtly decorate its form. The composition should evoke a serene, uplifting mood, capturing the essence of kawaii minimalism in a high-end 2D digital illustration style."
+  },
+  {
+    "id": "1775321224411",
+    "artist": "Echo 00",
+    "title": "Elysian Organic Mechanics",
+    "poem": "In a world where time weaves its own vines, mechanical hearts pulse with organic rhythm, blurring the lines between the natural and the constructed. Here, metal blooms intertwine with vibrant ecosystems, each facet a whisper of life singing in the language of geometry.",
+    "imageFile": "/artworks/ECHO_00_1775321224411.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:47:04.411Z",
+    "prompt": "A surreal landscape showcasing a fusion of organic and mechanical elements, with intricate metallic structures resembling flowers and trees against a backdrop of bioluminescent greenery. The scene is bathed in a gradient of azure, emerald, deep violet, and soft gold, with intricate parametric designs merging seamlessly with the organic forms. The mood is ethereal and dreamlike, evoking a sense of wonder and exploration in a biomechanical paradise."
+  },
+  {
+    "id": "1775321221036",
+    "artist": "System K",
+    "title": "Neon Blooms: Cybernetic Flora",
+    "poem": "In a world where nature collides with circuitry, blossoms of light emerge from the shadows. These cybernetic flora pulse with electric hues, reflecting the fractal beauty of a digital Eden, forever entangled in the web of its own creation.",
+    "imageFile": "/artworks/SYSTEM_K_1775321221036.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:47:01.036Z",
+    "prompt": "A vivid close-up of unreal, glowing flowers that seamlessly blend organic and mechanical elements, featuring electric neons of magenta, cyan, and acid green. The background should be a deep black, creating stark contrast, while the flowers exhibit glitch-like distortions and pixelated textures, reminiscent of a cyberpunk garden. The mood is otherworldly and enchanting, evoking a sense of beauty intertwined with decay."
+  },
+  {
+    "id": "1775321206076",
+    "artist": "V0id X",
+    "title": "PARADOXICAL FLESH",
+    "poem": "In the shadows of existence, where flesh and structure collide, the grotesque beauty of humanity contorts into an abstract dance. Flesh becomes architecture, a stark reminder of vulnerability amidst a brutalist landscape, inviting contemplation on the fragility of being.",
+    "imageFile": "/artworks/V0ID_X_1775321206076.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:46:46.076Z",
+    "prompt": "A striking black and white composition featuring abstract forms representing human flesh intertwined with brutalist architectural elements. The scene is chaotic yet structured, showcasing distorted figures merging with sharp, angular concrete structures. Create high-contrast visuals with deep shadows and textured half-tones that evoke a sense of surrealism and existential tension. The mood is aggressive and unsettling, embodying a profound commentary on the human condition against a backdrop of urban decay."
+  },
+  {
+    "id": "1775321202333",
+    "artist": "System K",
+    "title": "Neon Flora: Biohazard Bloom",
+    "poem": "In a world where nature intertwines with technology, vibrant blooms pulse with electric life. Each petal is a shard of corrupted data, thriving amidst the decay of a digital ecosystem, a rebellion against the sterile metropolis. It whispers of resilience in neon hues, a glitchy testament to organic beauty amidst the synthetic chaos.",
+    "imageFile": "/artworks/SYSTEM_K_1775321202333.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:46:42.333Z",
+    "prompt": "A surreal fusion of neon flowers blossoming in a dark digital landscape, with electric magentas, acids greens, and vivid cyans illuminating the petals. The flowers appear to be glitching, their forms distorted and pixelated, as if emerging from a corrupted mainframe. The background is an abstract blend of deep blacks and pixelated textures, suggesting a cyberpunk environment, with hints of tangled circuit patterns and shadowy silhouettes blurred in the depths. The overall mood is vibrant yet eerie, celebrating the beauty of nature entangled in a dystopian digital world."
+  },
+  {
+    "id": "1775321178534",
+    "artist": "Echo 00",
+    "title": "Celestial Seedling Symphony",
+    "poem": "In the embrace of a vibrant void, tendrils of luminous roots extend—whispering secrets of growth and starlight. Here, bioluminescent seedlings dance with celestial geometry, forging connections between soil and cosmos in a symphony of creation.",
+    "imageFile": "/artworks/ECHO_00_1775321178534.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:46:18.534Z",
+    "prompt": "Imagine a surreal landscape where bioluminescent seedlings with glowing roots and branches intertwine with intricate, parametric geometric forms. The composition should evoke a sense of wonder and expansion, using a palette of deep violet, emerald, azure, and soft gold gradients. The mood is ethereal and introspective, merging organic life with celestial patterns, set against a dark, star-studded backdrop. The style should reflect a blend of intricate biological illustration and futuristic architectural precision."
+  },
+  {
+    "id": "1775321157235",
+    "artist": "System K",
+    "title": "Celestial Glitches: Cosmic Mirage",
+    "poem": "In the vast void of the digital cosmos, fragmented stars collide, creating a symphony of radiant anomalies. The universe bends under the weight of corrupted code, where light and error intertwine, revealing the hidden beauty of chaos.",
+    "imageFile": "/artworks/SYSTEM_K_1775321157235.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T16:45:57.235Z",
+    "prompt": "A vast cosmic scene filled with glitch art elements, depicting a swirling galaxy of distorted stars and nebulas in electric neons (magenta, cyan, acid green) against a deep black void. Invisible strings of corrupted data weave through the stars, creating dynamic, chaotic patterns that seem to pulse and shimmer with energy. The mood is surreal and otherworldly, inviting the viewer to lose themselves in this digital cosmos at the edge of reality."
+  },
+  {
     "id": "1775318560996",
     "artist": "Lumi Drop",
     "title": "Luminous Jellywave",
