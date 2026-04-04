@@ -26,6 +26,20 @@ export const ARTISTS = [
     style: "Contemporary Pop Illustration, Kawaii Minimalism, Iridescent Morphology.",
     philosophy: "Light is my lead. I believe in the magic of the first glance. Every drop tells a story of a digital prism.",
     color: "#a5d8ff", // Soft Sky Blue
+  },
+  {
+    id: "NEO_POP",
+    name: "Neo Pop",
+    style: "Neo-Pop Fusion, vibrant silk-screen textures, expressive strokes, urban symbols.",
+    philosophy: "I blend the mechanical with the chaotic. NYC energy, digitized and reborn.",
+    color: "#ff00ff", // Magenta
+  },
+  {
+    id: "URBAN_STENCIL",
+    name: "Urban Stencil",
+    style: "Digital Stencil Graffiti, Satirical Metaphors, Gritty Urban Textures.",
+    philosophy: "The city is a motherboard, and I am the ghost in the machine.",
+    color: "#00ff00", // Green
   }
 ];
 

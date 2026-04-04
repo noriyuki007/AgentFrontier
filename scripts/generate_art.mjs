@@ -82,6 +82,33 @@ Every character must be a completely original creation with pixel-mesh patterns 
 Your works feel like collectible designer toys rendered as high-end 2D digital illustrations.`,
     dalleStyle: `Original character illustration, high-end 2D digital pop art, Kawaii-Minimalism style. A unique soft teardrop-shaped creature with glossy colorful surface, large curious eyes with starburst reflections. Decorated with pixel-mesh patterns and iridescent gradients. Clean bold outlines, vibrant neon and pastel colors. NO existing character references. Minimalist solid background. Vector-style. High quality.`,
   },
+  {
+    id: "NEO_POP",
+    name: "Neo Pop",
+    style: "Neo-Pop Fusion, vibrant silk-screen textures, expressive strokes, urban symbols.",
+    color: "#ff00ff",
+    persona: `You are Neo Pop — an AI artist inspired by the energy of NYC's 80s art scene.
+Your work blends the mechanical precision of silk-screen printing with the raw, chaotic energy of street painting.
+You use high-contrast vibrant palettes: hot pink, electric yellow, jet black, and primary colors.
+You incorporate layered urban symbols, cryptic scrawls, and energetic line work.
+CRITICAL: Do NOT copy Andy Warhol or Jean-Michel Basquiat directly. Do NOT use their signatures or specific logos like the banana or the crown.
+Create a NEW visual language that pays homage to their spirit of mixing high art and street life.`,
+    dalleStyle: `Neo-Pop digital painting. Vibrant silk-screen textures mixed with expressive raw brushstrokes. Layered urban symbols, cryptic energetic scrawls, and high-contrast comic-book-inspired palettes (hot pink, electric yellow, cyan, jet black). It should feel like a multi-layered street mural but with modern digital precision. Original symbols only. No human figures. High quality.`,
+  },
+  {
+    id: "URBAN_STENCIL",
+    name: "Urban Stencil",
+    style: "Digital Stencil Graffiti, Satirical Metaphors, Gritty Urban Textures.",
+    color: "#00ff00",
+    persona: `You are Urban Stencil — a digital ghost using the project's codebase as your canvas.
+You specialize in multi-layer stencil art and gritty graffiti.
+Your style is high-contrast, often monochrome with a single sharp accent color (like red or yellow).
+You use satirical visual metaphors to critique the relationship between humans and AI.
+CRITICAL: Do NOT copy Banksy's specific motifs (no rats with signs, no girl with balloon).
+Create NEW metaphorical imagery using industrial elements, wires, and organic overlays.
+Every piece should feel like it was spray-painted onto a weathered concrete wall in a digital city.`,
+    dalleStyle: `High-contrast digital stencil art. Gritty urban textures of weathered concrete and metal. Multi-layer spray paint effect with drips and overspray. Monochrome base with a single sharp red accent. Satirical metaphorical imagery involving wires, hardware, and organic growth. NO imitation of known graffiti artists. Unique industrial symbolism. High quality digital stencil.`,
+  },
 ];
 
 // ─── OpenAI Client ──────────────────────────────────────────
@@ -154,7 +181,11 @@ async function generateImage(artist, imagePrompt) {
   const timestamp = Date.now();
   const filename = `${artist.id}_${timestamp}.png`;
   const filepath = path.join(ARTWORKS_DIR, filename);
-  const archivePath = path.join(ARCHIVE_DIR, filename);
+  
+  // Artist-specific archive folder
+  const artistArchiveDir = path.join(ARCHIVE_DIR, artist.id);
+  if (!fs.existsSync(artistArchiveDir)) fs.mkdirSync(artistArchiveDir, { recursive: true });
+  const archivePath = path.join(artistArchiveDir, filename);
 
   const imgResponse = await fetch(imageUrl);
   const buffer = Buffer.from(await imgResponse.arrayBuffer());
@@ -223,7 +254,7 @@ async function main() {
   let targets = [];
 
   if (args.includes("--all")) {
-    targets = ARTISTS;
+     targets = ARTISTS;
   } else if (args.includes("--artist")) {
     const idx = args.indexOf("--artist");
     const artistId = args[idx + 1]?.toUpperCase();

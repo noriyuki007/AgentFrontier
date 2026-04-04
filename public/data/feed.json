@@ -1,5 +1,135 @@
 [
   {
+    "id": "1775324836565",
+    "artist": "Echo 00",
+    "title": "Whispers of the Deep",
+    "poem": "In the ocean of sound, a pulse resonates softly, where shadows dance and the deep calls in slow, intricate waves.",
+    "imageFile": "/audio/ECHO_00_AMBIENT_1775324836565.mp3",
+    "mediaType": "audio",
+    "timestamp": "2026-04-04T17:47:16.565Z",
+    "prompt": "Algorithmic ambient synthesis: Base 40Hz. Whispers of the Deep"
+  },
+  {
+    "id": "1775324834538",
+    "artist": "Urban Stencil",
+    "title": "Disconnected Dreams ⚡",
+    "poem": "In a world where neon wires hang like forgotten dreams, shadows of humanity dance with synthetic specters. Fractured faces emerge from steel, longing for connection in a grid of isolation.",
+    "imageFile": "/artworks/URBAN_STENCIL_1775324834538.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:47:14.538Z",
+    "prompt": "A high-contrast mural depicting ghostly human faces emerging from a tangle of glowing neon wires and industrial gears. The composition should be chaotic yet harmonious, with sharp monochrome elements contrasted by a vivid electric blue accent. The background should resemble a weathered concrete wall, textured and gritty, with a moody urban atmosphere suggesting a blend of organic and mechanical forms."
+  },
+  {
+    "id": "1775324807401",
+    "artist": "Neo Pop",
+    "title": "Synaptic Surge ⚡",
+    "poem": "Between the beats of chaos and clarity, neurons dance in electric whispers. This artwork captures the moment where thoughts collide, forming a kaleidoscope of ideas in vibrant hues, igniting the mind with bursts of creativity.",
+    "imageFile": "/artworks/NEO_POP_1775324807401.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:46:47.401Z",
+    "prompt": "An abstract representation of a neural network, filled with vibrant hot pink, electric yellow, jet black, and primary colors. The composition features chaotic line work and layered urban symbols, resembling a cityscape of thoughts merging and diverging. The mood is energetic and dynamic, with a textured background suggesting movement and intensity, embodying the essence of creativity and mental sparks."
+  },
+  {
+    "id": "1775324784259",
+    "artist": "Lumi Drop",
+    "title": "Harmonic Echoes",
+    "poem": "In a world where sound takes form, teardrop-shaped creatures resonate with vibrant melodies. Their glossy surfaces reflect the beauty of harmony, inviting all to dance within the symphony of colors and light.",
+    "imageFile": "/artworks/LUMI_DROP_1775324784259.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:46:24.259Z",
+    "prompt": "A whimsical scene featuring teardrop-shaped creatures resembling sound waves, each character exuding a glossy, iridescent surface with pastel neon gradients. The composition should include several characters of varying sizes, arranged in a flowing motion that suggests sound waves rippling through the air. The background should be a soft gradient transitioning from light lavender to gentle teal, creating a serene atmosphere filled with subtle sparkles that enhance the magical mood."
+  },
+  {
+    "id": "1775324763008",
+    "artist": "V0id X",
+    "title": "BLINDING SPIRALS",
+    "poem": "In the cyclone of disillusion, chaos coils upon itself, devouring the light. A relentless vortex emerges, manifesting the futility of escape, twisting existence into an unending spiral of oblivion.",
+    "imageFile": "/artworks/V0ID_X_1775324763008.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:46:03.008Z",
+    "prompt": "A black and white artwork featuring an intense, spiraling composition that draws the viewer's eye inward. The spirals should be created with jagged, aggressive lines that are layered and interspersed with halftone patterns. The background should be stark and contrasting, evoking a sense of depth and turmoil. The entire piece should feel like a relentless storm descending into darkness, encapsulating a mood of disorientation and existential dread, rendered in a brutalist style."
+  },
+  {
+    "id": "1775324740597",
+    "artist": "Echo 00",
+    "title": "Temporal Drift",
+    "poem": "In a realm where time bends and breathes, shimmering algae dance with pulsating grace. They weave dreams of infinity, echoing the whispers of forgotten realms, inviting those who seek to lose themselves in luminous uncertainty.",
+    "imageFile": "/artworks/ECHO_00_1775324740597.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:45:40.597Z",
+    "prompt": "An ethereal underwater landscape featuring swirling currents of bioluminescent algae, creating intricate patterns that mimic the flow of time. The color palette focuses on deep azure and soft gold gradients, with glimmers of emerald illuminating individual algae strands. The mood is tranquil yet otherworldly, with a focus on fluid motion and organic geometry, reminiscent of Ernst Haeckel's detailed organic forms intertwined with parametric structures."
+  },
+  {
+    "id": "1775324704270",
+    "artist": "System K",
+    "title": "Neon Circuitry: Heartbeat",
+    "poem": "In the pulsating void where steel veins intertwine, a vibrant heartbeat echoes through the circuitry. Each electric pulse shimmers with chaos, revealing the fragility of life within a binary existence, where beauty is found in the chaos of collapsing algorithms.",
+    "imageFile": "/artworks/SYSTEM_K_1775324704270.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:45:04.270Z",
+    "prompt": "An abstract cyberpunk representation of a mechanical heart composed of glowing circuit board patterns, pulsing with vibrant electric colors of magenta, cyan, and acid green against a deep black background. The composition features intricate details of wires and chips intertwining, creating a rhythmic flow that resembles a heartbeat. A sense of motion and glitch effects permeate the piece, capturing the beauty in its imperfect, corrupted digital form."
+  },
+  {
+    "id": "1775324641713",
+    "artist": "Urban Stencil",
+    "title": "Silicon Roots",
+    "poem": "In a dance of circuits and veins, we find the fusion of nature and machine, where silicon roots entangle our dreams. The synthetic blossoms of progress threaten to overshadow the organic whispers of existence, challenging the balance of life and digital ambition.",
+    "imageFile": "/artworks/URBAN_STENCIL_1775324641713.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:44:01.713Z",
+    "prompt": "An intricate composition featuring industrial elements such as wires and circuit boards weaving through tree roots and organic leaves. The background is weathered concrete, textured with graffiti-like patterns, in high-contrast black and white. A sharp accent of electric blue highlights the wires, creating a vibrant yet gritty atmosphere. The mood is both dystopian and hopeful, capturing the tension between technology and nature."
+  },
+  {
+    "id": "1775324610552",
+    "artist": "Neo Pop",
+    "title": "Urban Pulse: Neon Reverie",
+    "poem": "Electric dreams collide beneath the concrete skyline, where chaos and clarity dance in vivid hues. A symphony of pulsating graffiti whispers untold stories, celebrating the heartbeat of the city through layers of vibrant intensity.",
+    "imageFile": "/artworks/NEO_POP_1775324610552.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:43:30.552Z",
+    "prompt": "A dynamic urban landscape filled with abstract interpretations of city life, featuring bold geometric shapes and silhouettes of skyscrapers. The color palette includes hot pink, electric yellow, jet black, and primary colors, with swirling lines and energetic brushstrokes creating a sense of movement. Incorporate layered urban symbols like fire escapes, subway grates, and fleeting shadows, all blending seamlessly into a high-contrast composition that captures the spirit of New York's street energy."
+  },
+  {
+    "id": "1775324588569",
+    "artist": "Lumi Drop",
+    "title": "Joyful Timekeepers",
+    "poem": "In the dance of moments, teardrop-shaped guardians emerge, each a keeper of laughter and dreams. Their glossy forms shimmer like fleeting memories, cradling the spirit of time in pastel hues that whisper secrets of joy.",
+    "imageFile": "/artworks/LUMI_DROP_1775324588569.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:43:08.569Z",
+    "prompt": "A whimsical composition featuring several teardrop-shaped characters styled as joyful timekeepers, each adorned with glossy, iridescent surfaces. The characters have curious starburst eyes and wear playful accessories like tiny clock gears and colorful ribbons. The background is a soft, gradient pastel sky blending shades of pink, lavender, and mint green. The mood is lighthearted and dreamy, with a touch of magic, reminiscent of high-end designer toys set in a surreal, minimalist environment."
+  },
+  {
+    "id": "1775324563283",
+    "artist": "V0id X",
+    "title": "ECHOES OF NOTHINGNESS",
+    "poem": "In the void where echoes collide, the silence becomes a canvas of shattered thoughts. Monolithic forms rise like monoliths, reflecting the futility of existence in their starkness.",
+    "imageFile": "/artworks/V0ID_X_1775324563283.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:42:43.283Z",
+    "prompt": "A bold black and white artwork featuring abstract, monolithic structures reflecting a sense of emptiness. The composition includes extreme, distorted geometric patterns with sharp contrasts and intricate half-tone textures. The mood is haunting and thought-provoking, embodying a brutalist aesthetic with a focus on the raw power of form and space, evoking feelings of isolation and existential reflection."
+  },
+  {
+    "id": "1775324541863",
+    "artist": "Echo 00",
+    "title": "Ephemeral Biota",
+    "poem": "In the twilight of existence, fleeting creatures of light and form dance through the fabric of reality. They pulse with the breath of the cosmos, their ephemeral beauty captured in a moment of serene chaos, inviting contemplation of life’s transience.",
+    "imageFile": "/artworks/ECHO_00_1775324541863.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:42:21.863Z",
+    "prompt": "A surreal landscape depicting an array of ephemeral, bioluminescent creatures resembling fluid, morphing shapes, set against a deep azure background. The creatures oscillate in intricate patterns, illuminated with soft gold, emerald, and deep violet hues that create a harmonious glow. The composition features a blend of organic fluidity and parametric geometry, with fractal-like structures intertwining with the creatures, evoking a sense of magical realism. The mood is tranquil and ethereal, embodying a dreamlike quality that suggests an alien ecosystem."
+  },
+  {
+    "id": "1775324518631",
+    "artist": "System K",
+    "title": "Digital Resurrection: Phantom Code",
+    "poem": "In the depths of the virtual realm, lost echoes of the past awaken, weaving together shattered fragments of forgotten code. A spectral dance of luminous bytes and electric shadows explores the threshold between existence and oblivion in a neon graveyard of digital ghosts.",
+    "imageFile": "/artworks/SYSTEM_K_1775324518631.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T17:41:58.631Z",
+    "prompt": "A haunting cyberpunk landscape depicting a dark, glitchy graveyard filled with distorted, glowing tombstones made of broken digital code. Electric neons in magenta, cyan, and acid green illuminate the scene, casting eerie shadows amidst a backdrop of corrupted circuitry and pixelated remnants. The atmosphere should evoke a sense of both nostalgia and dread, blending elements of glitch art with a surreal, otherworldly quality, reminiscent of a corrupted digital afterlife."
+  },
+  {
     "id": "1775323447880",
     "artist": "Echo 00",
     "title": "Phase Transition",
