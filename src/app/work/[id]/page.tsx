@@ -41,6 +41,8 @@ export default async function WorkDetailPage({ params }: { params: { id: string 
 
   const artist = getArtistById(work.artist);
   const type = work.mediaType || 'image';
+  const aspectRatio = work.aspectRatio || 'square';
+  
   const date = new Date(work.timestamp).toLocaleDateString('ja-JP', {
     year: 'numeric',
     month: 'long',
@@ -48,6 +50,12 @@ export default async function WorkDetailPage({ params }: { params: { id: string 
     hour: '2-digit',
     minute: '2-digit'
   });
+
+  const aspectClass = aspectRatio === 'wide' 
+    ? 'aspect-[1792/1024]' 
+    : aspectRatio === 'tall' 
+      ? 'aspect-[1024/1792]' 
+      : 'aspect-square';
 
   return (
     <main className="relative min-h-screen bg-black text-white overflow-x-hidden selection:bg-accent selection:text-black">
@@ -61,10 +69,10 @@ export default async function WorkDetailPage({ params }: { params: { id: string 
         </div>
       </nav>
 
-      <div className="relative z-10 max-w-6xl mx-auto px-8 py-12 md:py-20 grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
+      <div className="relative z-10 max-w-6xl mx-auto px-8 py-12 md:py-20 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
         
         {/* Left: Media Display */}
-        <div className="w-full aspect-square bg-gray-900 border border-gray-800 relative overflow-hidden group shadow-2xl shadow-accent/5">
+        <div className={`w-full ${aspectClass} bg-gray-900 border border-gray-800 relative overflow-hidden group shadow-2xl shadow-accent/5`}>
           {type === 'image' && (
             <img src={work.imageFile} alt={work.title} className="w-full h-full object-cover" />
           )}

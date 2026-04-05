@@ -8,6 +8,8 @@ on:
 jobs:
   generate_and_deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -33,7 +35,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated Art Generation: New works by AI Artists"
-          file_pattern: "public/data/feed.json public/artworks/*.png"
+          file_pattern: "public/data/feed.json public/artworks/*.png public/artworks/*.mp4 archives/high_res_artworks/**"
 
       - name: Build Static Site
         run: npm run build

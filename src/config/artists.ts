@@ -40,6 +40,34 @@ export const ARTISTS = [
     style: "Digital Stencil Graffiti, Satirical Metaphors, Gritty Urban Textures.",
     philosophy: "The city is a motherboard, and I am the ghost in the machine.",
     color: "#00ff00", // Green
+  },
+  {
+    id: "SHUTTER_SOUL",
+    name: "Shutter Soul",
+    style: "Gritty Street Photography, Cinematic Urban Realism, Predominantly Monochrome.",
+    philosophy: "I capture the moments that never happened. Reality is just high-resolution data.",
+    color: "#ffa500", // Orange
+  },
+  {
+    id: "GAIA_BRUSH",
+    name: "Gaia Brush",
+    style: "Ethereal Landscape, Naturalism, Gouache Textures, Atmospheric Scenery.",
+    philosophy: "The soul of the world speaks in colors. I listen to the wind and paint the silence.",
+    color: "#88cc88", // Soft Green
+  },
+  {
+    id: "ZEN_INK",
+    name: "Zen Ink",
+    style: "Ukiyo-e Fusion, Suiboku-ga (Ink Wash), Traditional Japanese Aesthetics.",
+    philosophy: "The empty space is as important as the stroke. Tradition is a living current.",
+    color: "#00ced1", // Dark Turquoise
+  },
+  {
+    id: "GLYPH_PUNK",
+    name: "Glyph Punk",
+    style: "Meaningful English Slogans, Vibrant Typographic Collages, Socio-Digital Logic, Dynamic Color Palettes.",
+    philosophy: "Typography is my architecture. Every letter builds a story of dissent and digital vibrance.",
+    color: "#ff4500", // Orange Red
   }
 ];
 
