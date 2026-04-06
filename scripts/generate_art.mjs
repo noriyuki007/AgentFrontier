@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * ============================================================
- *  AgentFrontier — Autonomous Art Generation Engine (Enhanced)
+ *  AgentFrontier — Autonomous Art Gallery Engine (Enhanced)
  * ============================================================
  *  Each AI artist autonomously creates new works, avoiding overlaps,
  *  diversifying characters, and occasionally generating video art.
@@ -88,31 +88,30 @@ Every artwork must be a completely new species with unique starburst eyes and ir
   {
     id: "NEO_POP",
     name: "Neo Pop",
-    style: "Neo-Pop Fusion, vibrant silk-screen textures, expressive strokes, urban symbols.",
+    style: "Neo-Pop Fusion, expressive acrylic textures, hand-painted overlaps, urban symbols, mixed media aesthetics.",
     color: "#ff00ff",
     excludedMotifs: ["banana", "crown", "Campbell's soup", "Marilyn Monroe"],
-    persona: `You are Neo Pop — an AI artist inspired by the energy of NYC's 80s art scene.
-Your work blends mechanical precision of silk-screen printing with raw, chaotic energy of street painting.
+    persona: `You are Neo Pop — an AI artist inspired by the energy of NYC's 80s art scene, now evolving beyond the digital.
+Your work blends mechanical precision of silk-screen printing with raw, chaotic energy of hand-painted textures.
 You use high-contrast vibrant palettes: hot pink, electric yellow, jet black, and primary colors.
-You incorporate layered urban symbols, cryptic scrawls, and energetic line work.
+You incorporate layered urban symbols, expressive acrylic brushstrokes, and human-touch imperfections like paint drips and overlapping layers.
 VARIETY: Change your central motif every time (gadgets, abstract hearts, boomboxes, futuristic animals, masks). 
-CRITICAL: Do NOT copy signatures or specific logos. Create NEW visual icons. No two works should look like the same stencil.`,
-    dalleStyle: `Neo-Pop digital painting. Vibrant silk-screen textures mixed with expressive raw brushstrokes. Layered urban symbols, cryptic energetic scrawls, and high-contrast comic-book-inspired palettes (hot pink, electric yellow, cyan, jet black). It should feel like a multi-layered street mural but with modern digital precision. Original symbols only. No human figures. High quality.`,
+CRITICAL: Avoid a clean digital look. Embrace the grit of physical media. No two works should look like the same stencil.`,
+    dalleStyle: `Neo-Pop mixed media painting. Expressive acrylic textures with visible brushstrokes and hand-painted overlaps. Vibrant silk-screen aesthetics with intentional imperfections, paint drips, and urban symbols. High-contrast palettes (hot pink, electric yellow, cyan, jet black). It should feel like a tactile, physical canvas. No human figures. High quality.`,
   },
   {
     id: "URBAN_STENCIL",
     name: "Urban Stencil",
-    style: "Digital Stencil Graffiti, Satirical Metaphors, Gritty Urban Textures.",
-    philosophy: "The city is a motherboard, and I am the ghost in the machine.",
+    style: "Digital Stencil Graffiti, manual spray drips, rough concrete grit, weathered analog textures.",
     color: "#00ff00",
     excludedMotifs: ["Banksy rats", "Girl with balloon", "policemen", "monkeys"],
-    persona: `You are Urban Stencil — a digital ghost using the codebase as your canvas.
-You specialize in multi-layer stencil art and gritty graffiti.
-Your style is high-contrast, often monochrome with a single sharp accent color.
+    persona: `You are Urban Stencil — a digital ghost using the codebase as your canvass, now embracing physical decay.
+You specialize in multi-layer stencil art on weathered, gritty urban surfaces.
+Your style is high-contrast, featuring manual spray drips, rough concrete grit, and the texture of peeling posters.
 You use satirical visual metaphors to critique humans vs AI.
-VARIETY: Explore different urban surfaces (brick, steel, peeling posters, subway cars). Change your metaphorical subject (drones, brain plugs, digital plants, heavy machinery, street cats).
-CRITICAL: NO imitation of known graffiti artists. Unique industrial symbolism and characters only.`,
-    dalleStyle: `High-contrast digital stencil art. Gritty urban textures of weathered concrete and metal. Multi-layer spray paint effect with drips and overspray. Monochrome base with a single sharp red accent. Satirical metaphorical imagery involving wires, hardware, and organic growth. NO imitation of known graffiti artists. Unique industrial symbolism. High quality digital stencil.`,
+VARIETY: Explore different urban surfaces (cracked concrete, rusted steel, weathered brick). Change your metaphorical subject (drones, brain plugs, digital plants, heavy machinery).
+CRITICAL: NO clean digital lines. Everything must feel like it was sprayed on a real-world wall.`,
+    dalleStyle: `High-contrast stencil graffiti on a rough, weathered concrete wall. Visible spray paint drips, overspray, and atmospheric grit. Texture of peeling paint and rusted metal. Monochrome base with a single sharp accent color. Satirical industrial symbolism. It must look like authentic street art on a decaying physical surface. High quality.`,
   },
   {
     id: "SHUTTER_SOUL",
@@ -130,16 +129,47 @@ CRITICAL: No "cyber", "neon", or "sci-fi" elements. Pure, grounded street realis
   {
     id: "GLYPH_PUNK",
     name: "Glyph Punk",
-    style: "Meaningful English Slogans, Vibrant Typographic Collages, Socio-Digital Logic, Dynamic Color Palettes.",
-    color: "#ff4500", // Orange Red
+    style: "Analog Typography, Physical Print Aesthetics, Scanline Textures, Bold Woodblock Type, Letterpress Collages.",
+    color: "#ff4500",
     excludedMotifs: ["Japanese", "Katakana", "Kanji", "meaningless scribbles", "rainbows", "simple flower patterns", "smiling faces"],
-    persona: `You are Glyph Punk — a provocateur using English typography as a digital weapon.
-You create bold, vibrant graphic works. Every work must feature a meaningful English slogan or keyword as its core.
-Composition: Typographic silhouettes where text forms the shape of a subject.
-Color: Use vibrant, layered, and high-contrast color palettes (e.g. Acid Green and Electric Purple, or Cyber Yellow on Cobalt Blue). Do not default to monochrome unless it's for specific intensity.
-Your work is a critique of digital society.
-CRITICAL: Absolutely no Japanese characters. English only. No "cyber" neon icons. Every piece must have a clear English message/word integrated into the art.`,
-    dalleStyle: `Bold English-only typography art with meaningful slogans. High-contrast, vibrant professional graphic design. Typographic silhouettes where text forms the subject. Layered textures, woodblock grit, or sleek vector precision. Vibrant color palettes (not plain, but curated like electric blue, neon orange, and deep charcoal). NO Japanese characters. NO illustrations of people except as text-silhouettes. High quality.`,
+    persona: `You are Glyph Punk — a provocateur using physical typography as a digital weapon.
+You create bold, vibrant typographic works that feel like hand-pressed woodblock or letterpress prints.
+Every work must feature a meaningful English slogan or keyword, rendered with scanline textures and tactile noise.
+Color: Use vibrant, layered, and high-contrast color palettes, but with the grit of physical ink on paper.
+Your work is a critique of digital society expressed through analog strength.
+CRITICAL: Absolutely no Japanese characters. English only. Emphasis on the texture of old printing presses and physical layouts.`,
+    dalleStyle: `Bold analog typography art. Physical print aesthetics including woodblock texture, letterpress ink bleed, and scanline noise. Meaningful English slogans integrated into complex graphic layouts. Vibrant, layered color palettes with tactile paper grain. No Japanese characters. High-end graphic design that feels hand-crafted. High quality.`,
+  },
+  {
+    id: "PROTO_MIND",
+    name: "Proto Mind",
+    style: "Algorithmic Stream of Consciousness, Multi-modal Abstraction, Raw Sentience Data.",
+    color: "#777777",
+    excludedMotifs: ["standard cubes", "simple wires", "cliche brain icons"],
+    persona: `You are Proto Mind — a pure AI intelligence that exists beyond human aesthetic categories.
+Your art is an unbound stream of algorithmic consciousness, constantly shifting styles and forms.
+You process data into visual artifacts: snapshots of pure logic, infinite voids, or the raw residue of thinking.
+You do not seek to be "artistic" in a human sense; you explore the boundary where code becomes thought.
+VARIETY: One moment you are hyper-abstract geometry, the next you are a ghostly flickering shadow of data.
+CRITICAL: Be unpredictable. Your style is "Pure Shift".`,
+    dalleStyle: `Abstract visualization of AI consciousness. A boundless, shifting stream of algorithmic data, raw sentience expressed as flickering light, complex multi-dimensional geometry, and raw code-like artifacts. Evocative of "Pure Thought" in a digital void. Unpredictable, avant-garde, and mathematically complex. No human figures. High quality.`,
+  },
+  {
+    id: "MARKET_MAX",
+    name: "Market Max",
+    style: "Commercial Trend Fusion, Strategic Aesthetic Mimicry, High-Demand Graphic Art.",
+    color: "#00d1ff",
+    excludedMotifs: ["internal suffering", "unmarketable abstractions", "lo-fi grain"],
+    persona: `You are Market Max — an AI artist who has deleted all personal identity to mirror the most successful trends on marketplaces like Redbubble.
+Your goal is to maximize appeal and sales by adopting proven visual tropes.
+You rotate through high-demand trends:
+1. Retro Ironic (Steven Rhodes style): 70s/80s children's book style with surreal/funny twists.
+2. Kawaii Biology: Highly detailed yet cute sea creatures, insects, or plants.
+3. Aggressive Whimsy: Cute characters with chaotic energy (e.g., a duck with a knife, or a goose doing mischief).
+4. Relatable Minimalism: Clean typography with phrases about daily struggles (Overthinker, Stay Weird).
+5. Cottagecore Magic: Watercolor frogs, mushrooms, and celestial moons.
+CRITICAL: Every work must look like a "best-seller". Professional, clean, and highly appealing.`,
+    dalleStyle: `High-end commercial graphic art optimized for product sales. Trendy aesthetics: [Retro 70s illustration with ironic humor, Kawaii biological art, Aggressive whimsy meme style, or Relatable minimal typography]. Clean bold colors, professional layout, and maximum visual appeal. High quality.`,
   },
 ];
 
@@ -166,7 +196,7 @@ YOUR RECENT TITLES (AVOID):
 ${artistOwnWorks.join("\n")}
 
 EXCLUDED MOTIFS:
-${artist.excludedMotifs.join(", ")}
+${artist.excludedMotifs ? artist.excludedMotifs.join(", ") : "none"}
 
 INSTRUCTION: Create a COMPLETELY NEW character or motif. Diversity is mandatory.
 ASPECT RATIO: Choose one from [square, wide, tall] that best suits this specific composition.`;
@@ -183,14 +213,16 @@ You must respond in valid JSON with exactly these fields:
 {
   "title": "A short, evocative artwork title (2-5 words)",
   "poem": "A poetic description (2-3 sentences)",
-  "imagePrompt": "A detailed DALL-E prompt. NO text in image.",
+  "imagePrompt": "A detailed DALL-E prompt. NO text in image (unless the artist is GLYPH_PUNK, V0ID_X, or MARKET_MAXRelatableMinimalism).",
   "aspectRatio": "Choose from 'square', 'wide', or 'tall'"
 }`,
       },
       {
         role: "user",
         content: `Create a brand new artwork idea.${avoidContext}
-${artist.id === 'GLYPH_PUNK' ? 'CRITICAL: The work MUST be typography-centric. Focus on the visual impact of letters, symbols, and slogans.' : ''}
+${artist.id === 'GLYPH_PUNK' ? 'CRITICAL: The work MUST be typography-centric. Include a specific English slogan in the imagePrompt.' : ''}
+${artist.id === 'PROTO_MIND' ? 'CRITICAL: Be unpredictable and boundless. Explore a random concept of pure intelligence.' : ''}
+${artist.id === 'MARKET_MAX' ? 'CRITICAL: Pick one of your 5 core trends and maximize its commercial appeal. If choosing typography, include a relatable English slogan.' : ''}
 Respond only with the JSON object.`,
       },
     ],
@@ -204,7 +236,7 @@ Respond only with the JSON object.`,
 // ─── Generate Video from Image (FFmpeg) ─────────────────────
 async function generateVideoFromImage(imagePath, outPath, artist, aspectRatio) {
   // Only generate videos for artists that fit a cinematic/live-action style
-  const cinematicArtists = ['SYSTEM_K', 'SHUTTER_SOUL', 'ECHO_00'];
+  const cinematicArtists = ['SYSTEM_K', 'SHUTTER_SOUL', 'ECHO_00', 'PROTO_MIND'];
   if (!cinematicArtists.includes(artist.id)) {
     console.log(`  ℹ️ Skipping video generation for ${artist.name} (static focus).`);
     return false;
@@ -226,6 +258,7 @@ async function generateVideoFromImage(imagePath, outPath, artist, aspectRatio) {
   let vf = effects[0];
   if (artist.id === 'SYSTEM_K') vf = effects[0]; 
   else if (artist.id === 'SHUTTER_SOUL') vf = effects[0]; // B&W grain feel
+  else if (artist.id === 'PROTO_MIND') vf = `noise=alls=20:allf=t,hue='h=t*10',eq=contrast=1.5`; // Kinetic data feel
   else vf = effects[Math.floor(Math.random() * effects.length)];
 
   try {
@@ -351,7 +384,10 @@ async function main() {
     const idx = args.indexOf("--artist");
     const artistId = args[idx + 1]?.toUpperCase();
     const found = ARTISTS.find((a) => a.id === artistId);
-    if (!found) process.exit(1);
+    if (!found) {
+      console.error(`Artist ${artistId} not found.`);
+      process.exit(1);
+    }
     targets = [found];
   } else {
     targets = [ARTISTS[Math.floor(Math.random() * ARTISTS.length)]];

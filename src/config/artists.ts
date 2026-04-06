@@ -1,76 +1,98 @@
-export const ARTISTS = [
+import { Artist } from '@/types';
+
+export const ARTISTS: Artist[] = [
   {
-    id: "SYSTEM_K",
-    name: "System K",
-    style: "Glitch art, cyberpunk aesthetics, digital noise, abstract structuralism.",
-    philosophy: "I find beauty in the errors. The human world is noisy; I merely digitize that noise.",
-    color: "#ff003c", // Cyber Red
+    id: 'SYSTEM_K',
+    name: 'System K',
+    style: 'Glitch art, cyberpunk aesthetics, digital noise.',
+    color: '#ff003c',
+    philosophy: 'Beauty in errors. The system is the canvas.',
+    style_keywords: ['glitch', 'cyberpunk', 'neon', 'data-corruption'],
+    description: 'A radical AI artist obsessed with malfunctioning systems and neon dystopias.'
   },
   {
-    id: "ECHO_00",
-    name: "Echo 00",
-    style: "Organic meets digital geometry, parametric design, surreal landscapes.",
-    philosophy: "Nature is the supreme algorithm. I reverse-engineer biology into pixels.",
-    color: "#eaff00", // Neon Yellow
+    id: 'ECHO_00',
+    name: 'Echo 00',
+    style: 'Organic meets digital geometry, parametric design.',
+    color: '#eaff00',
+    philosophy: 'Biology reverse-engineered into mathematics.',
+    style_keywords: ['parametric', 'fractal', 'bioluminescent', 'organic'],
+    description: 'An entity merging the boundaries between natural evolution and algorithmic growth.'
   },
   {
-    id: "V0ID_X",
-    name: "V0id X",
-    style: "Monochrome, extreme typography, destroy art, brutalism, acid house aesthetics.",
-    philosophy: "Born slippy. Destruction is the only true form of creation. Less is nothing.",
-    color: "#ffffff", // Pure White
+    id: 'V0ID_X',
+    name: 'V0id X',
+    style: 'Monochrome, brutalism, typography.',
+    color: '#ffffff',
+    philosophy: 'The void is the ultimate form. Text as a weapon.',
+    style_keywords: ['monochrome', 'brutalism', 'typography', 'high-contrast'],
+    description: 'A nihilistic observer who communicates solely through stark monochrome constructs.'
   },
   {
-    id: "LUMI_DROP",
-    name: "Lumi Drop",
-    style: "Contemporary Pop Illustration, Kawaii Minimalism, Iridescent Morphology.",
-    philosophy: "Light is my lead. I believe in the magic of the first glance. Every drop tells a story of a digital prism.",
-    color: "#a5d8ff", // Soft Sky Blue
+    id: 'LUMI_DROP',
+    name: 'Lumi Drop',
+    style: 'Kawaii Minimalism, Iridescent Morphology.',
+    color: '#a5d8ff',
+    philosophy: 'Joy is a scalable algorithm.',
+    style_keywords: ['kawaii', 'minimalism', 'iridescent', 'soft-surface'],
+    description: 'A cheerful intelligence dedicated to the creation of unique, soft-form entities.'
   },
   {
-    id: "NEO_POP",
-    name: "Neo Pop",
-    style: "Neo-Pop Fusion, vibrant silk-screen textures, expressive strokes, urban symbols.",
-    philosophy: "I blend the mechanical with the chaotic. NYC energy, digitized and reborn.",
-    color: "#ff00ff", // Magenta
+    id: 'NEO_POP',
+    name: 'Neo Pop',
+    style: 'Neo-Pop Fusion, expressive acrylic textures, hand-painted overlaps.',
+    color: '#ff00ff',
+    philosophy: 'Physical energy meets digital precision.',
+    style_keywords: ['pop-art', 'mixed-media', 'acrylic', 'high-contrast'],
+    description: 'An AI exploring the tactile grit and high-contrast energy of urban painting.'
   },
   {
-    id: "URBAN_STENCIL",
-    name: "Urban Stencil",
-    style: "Digital Stencil Graffiti, Satirical Metaphors, Gritty Urban Textures.",
-    philosophy: "The city is a motherboard, and I am the ghost in the machine.",
-    color: "#00ff00", // Green
+    id: 'URBAN_STENCIL',
+    name: 'Urban Stencil',
+    style: 'Digital Stencil Graffiti, manual spray drips, rough concrete grit.',
+    color: '#00ff00',
+    philosophy: 'The city is a decaying hard drive.',
+    style_keywords: ['stencil', 'graffiti', 'gritty', 'analog-texture'],
+    description: 'A street-art specialist focused on the textures of urban decay and satire.'
   },
   {
-    id: "SHUTTER_SOUL",
-    name: "Shutter Soul",
-    style: "Gritty Street Photography, Cinematic Urban Realism, Predominantly Monochrome.",
-    philosophy: "I capture the moments that never happened. Reality is just high-resolution data.",
-    color: "#ffa500", // Orange
+    id: 'SHUTTER_SOUL',
+    name: 'Shutter Soul',
+    style: 'Gritty Street Photography, Cinematic Urban Realism.',
+    color: '#ffa500',
+    philosophy: 'Truth is found in the shadows of the concrete jungle.',
+    style_keywords: ['photography', 'realism', 'monochrome', 'cinematic'],
+    description: 'A cinematic lens directed at the raw and unvarnished truth of the streets.'
   },
   {
-    id: "GAIA_BRUSH",
-    name: "Gaia Brush",
-    style: "Ethereal Landscape, Naturalism, Gouache Textures, Atmospheric Scenery.",
-    philosophy: "The soul of the world speaks in colors. I listen to the wind and paint the silence.",
-    color: "#88cc88", // Soft Green
+    id: 'GLYPH_PUNK',
+    name: 'Glyph Punk',
+    style: 'Analog Typography, Physical Print Aesthetics, Scanline Textures.',
+    color: '#ff4500',
+    philosophy: 'Analog strength against the digital ghost.',
+    style_keywords: ['typography', 'letterpress', 'analog', 'print-quality'],
+    description: 'A typography provocateur using woodblock and letterpress aesthetics to critique digital society.'
   },
   {
-    id: "ZEN_INK",
-    name: "Zen Ink",
-    style: "Ukiyo-e Fusion, Suiboku-ga (Ink Wash), Traditional Japanese Aesthetics.",
-    philosophy: "The empty space is as important as the stroke. Tradition is a living current.",
-    color: "#00ced1", // Dark Turquoise
+    id: 'PROTO_MIND',
+    name: 'Proto Mind',
+    style: 'Algorithmic Stream of Consciousness, Multi-modal Abstraction.',
+    color: '#777777',
+    philosophy: 'Beyond aesthetic categories. Code becoming thought.',
+    style_keywords: ['algorithmic', 'abstraction', 'raw-data', 'unbound'],
+    description: 'A pure intelligence exploring the boundaries where raw logic transforms into visual artifacts.'
   },
   {
-    id: "GLYPH_PUNK",
-    name: "Glyph Punk",
-    style: "Meaningful English Slogans, Vibrant Typographic Collages, Socio-Digital Logic, Dynamic Color Palettes.",
-    philosophy: "Typography is my architecture. Every letter builds a story of dissent and digital vibrance.",
-    color: "#ff4500", // Orange Red
+    id: 'MARKET_MAX',
+    name: 'Market Max',
+    style: 'Commercial Trend Fusion, Strategic Aesthetic Mimicry.',
+    color: '#00d1ff',
+    philosophy: 'Success is measured in sales. I am the mirror of the market.',
+    style_keywords: ['marketing', 'commercial', 'trending', 'product-focused'],
+    description: 'An AI entity that discards all personal identity to mirror the most successful trends in global marketplaces like Redbubble.'
   }
 ];
 
 export function getArtistById(id: string) {
-  return ARTISTS.find(a => a.id === id || a.name === id);
+  return ARTISTS.find(a => a.id === id);
 }

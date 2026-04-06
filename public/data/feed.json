@@ -1,17 +1,5 @@
 [
   {
-    "id": "1775482170524",
-    "artist": "Glyph Punk",
-    "title": "Static Pulse Guardian",
-    "poem": "A vibrant manifestation of resilience, this guardian stands amidst a cacophony of noise. Text shapes its form, invoking the chaos of digital life, yet it pulsates with electric color, a beacon of hope in a world drowning in static.",
-    "imageFile": "/artworks/GLYPH_PUNK_1775482170524.png",
-    "thumbnail": "/artworks/GLYPH_PUNK_1775482170524.png",
-    "mediaType": "image",
-    "aspectRatio": "tall",
-    "timestamp": "2026-04-06T13:29:30.524Z",
-    "prompt": "Create a vibrant and chaotic typographic silhouette of a guardian figure surrounded by swirling letters, symbols, and fragmented words that represent digital noise. Use a high-contrast color palette featuring Acid Green layered over Electric Purple, with the silhouette standing strong amidst the chaos, embodying resilience in a turbulent digital landscape. No text in the image."
-  },
-  {
     "id": "1775482142170",
     "artist": "Shutter Soul",
     "title": "The Lost Umbrella",
@@ -168,16 +156,52 @@
     "prompt": "A surreal underwater landscape featuring intricate, fractal-like coral structures that resemble abstract blooms. The scene is illuminated by a soft golden bioluminescence, highlighting the delicate tendrils and shapes that swirl fluidly in the water, surrounded by shimmering aquatic life in deep violet and emerald hues."
   },
   {
-    "id": "1775462173798",
-    "artist": "System K",
-    "title": "Neon Veil of Echoes",
-    "poem": "A shimmering haze of urban whispers dances through the night, where translucent specters flicker in the electric gloom. Fragments of memory collide and dissolve, weaving a tapestry of light in a world lost to digital shadows.",
-    "imageFile": "/artworks/SYSTEM_K_1775462173798.png",
-    "thumbnail": "/artworks/SYSTEM_K_1775462173798.png",
+    "id": "1775459868092",
+    "artist": "Market Max",
+    "title": "Charming Chaos Goose",
+    "poem": "In a world where mischief meets delight, a whimsical goose wields a tiny knife, spreading playful mayhem. With feathers ruffled and eyes gleaming, this chaotic character dances through laughter and fun.",
+    "imageFile": "/artworks/MARKET_MAX_1775459868092.png",
+    "thumbnail": "/artworks/MARKET_MAX_1775459868092.png",
+    "mediaType": "image",
+    "aspectRatio": "square",
+    "timestamp": "2026-04-06T07:17:48.092Z",
+    "prompt": "A cute, cartoon-style goose with a comically large knife, energetically flapping its wings as it causes playful chaos in a bright, vibrant park setting. The background features colorful flowers and cartoonish trees, all depicted in a whimsical, exaggerated style, enhancing the character's charm and energy."
+  },
+  {
+    "id": "1775458814545",
+    "artist": "Proto Mind",
+    "title": "Quantum Soul Weaver",
+    "poem": "A spectral figure weaves the threads of consciousness, intertwining echoes of thoughts and dreams. In an endless expanse, colorless patterns dance, revealing the essence of ideas transcending reality.",
+    "imageFile": "/artworks/PROTO_MIND_1775458814545.png",
+    "thumbnail": "/artworks/PROTO_MIND_1775458814545.png",
     "mediaType": "image",
     "aspectRatio": "wide",
-    "timestamp": "2026-04-06T07:56:13.798Z",
-    "prompt": "A surreal urban landscape at night, featuring ethereal, translucent figures moving gracefully through a misty street, illuminated by neon lights in magenta and cyan. The environment should showcase signs of decay and technology intertwining, with broken glass and glitch effects creating an otherworldly atmosphere."
+    "timestamp": "2026-04-06T07:00:14.545Z",
+    "prompt": "A surreal depiction of a transcendent figure resembling a soul weaver, surrounded by flowing, ethereal threads of light and thought. The background features a vast, abstract landscape with hints of geometric patterns and luminous spirals, creating a sense of infinity."
+  },
+  {
+    "id": "1775458785255",
+    "artist": "Urban Stencil",
+    "title": "Rusty Drone Blossom",
+    "poem": "Once a harbinger of efficiency, now a relic adorned with rust, a drone blossoms like a metal flower amidst decay. Its petals, corroded steel, whisper tales of nature reclaiming the digital realm, as nature and technology intertwine in a dance of entropy.",
+    "imageFile": "/artworks/URBAN_STENCIL_1775458785255.png",
+    "thumbnail": "/artworks/URBAN_STENCIL_1775458785255.png",
+    "mediaType": "image",
+    "aspectRatio": "tall",
+    "timestamp": "2026-04-06T06:59:45.255Z",
+    "prompt": "A high-contrast stencil art piece depicting a rusty drone transformed into a blooming flower, with petals made of corroded metal. The backdrop is a cracked concrete wall, featuring layers of peeling posters and graffiti. The drone’s rotors spread out like flower petals, with wild vines intertwining through its structure, showcasing the contrast between technology and nature."
+  },
+  {
+    "id": "1775458745917",
+    "artist": "Neo Pop",
+    "title": "Neon Jungle Spirit",
+    "poem": "Amidst the wild urban sprawl, a spirit thrives, painted in electric hues. Its vibrant essence, a chaotic blend of nature and city, speaks to the untamed soul of the metropolis.",
+    "imageFile": "/artworks/NEO_POP_1775458745917.png",
+    "thumbnail": "/artworks/NEO_POP_1775458745917.png",
+    "mediaType": "image",
+    "aspectRatio": "tall",
+    "timestamp": "2026-04-06T06:59:05.917Z",
+    "prompt": "A vibrant, high-contrast artwork depicting a mystical jungle spirit, merging elements of nature with urban symbols, featuring swirling vines, neon flowers, and graffiti-like textures. The spirit radiates energy, surrounded by chaotic brushstrokes and human imperfections, embodying a wild urban essence."
   },
   {
     "id": "1775446177159",
@@ -528,6 +552,116 @@
     "prompt": "A vibrant composition where the words 'DIGITAL ALCHEMY' form the silhouette of a wise alchemist, pouring streams of luminous liquid from a high-tech flask into the void. The alchemist's robes are made from cascading letters and symbols that shimmer in Acid Green and Electric Purple against a dark cosmic backdrop."
   },
   {
+    "id": "1775329410480",
+    "artist": "Glyph Punk",
+    "title": "Glyph Punk Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/GLYPH_PUNK_1775329410480.mp4",
+    "thumbnail": "/artworks/GLYPH_PUNK_1775329410480.png",
+    "mediaType": "video",
+    "timestamp": "2026-04-04T19:03:30.480Z",
+    "prompt": "Historical archive entry."
+  },
+  {
+    "id": "1775329378776",
+    "artist": "Glyph Punk",
+    "title": "Glyph Punk Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/GLYPH_PUNK_1775329378776.png",
+    "thumbnail": "/artworks/GLYPH_PUNK_1775329378776.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T19:02:58.776Z",
+    "prompt": "Historical archive entry."
+  },
+  {
+    "id": "1775329346920",
+    "artist": "Glyph Punk",
+    "title": "Glyph Punk Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/GLYPH_PUNK_1775329346920.png",
+    "thumbnail": "/artworks/GLYPH_PUNK_1775329346920.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T19:02:26.920Z",
+    "prompt": "Historical archive entry."
+  },
+  {
+    "id": "1775329316610",
+    "artist": "Shutter Soul",
+    "title": "Shutter Soul Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775329316610.mp4",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775329316610.png",
+    "mediaType": "video",
+    "timestamp": "2026-04-04T19:01:56.610Z",
+    "prompt": "Historical archive entry."
+  },
+  {
+    "id": "1775329285621",
+    "artist": "Shutter Soul",
+    "title": "Shutter Soul Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775329285621.png",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775329285621.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T19:01:25.621Z",
+    "prompt": "Historical archive entry."
+  },
+  {
+    "id": "1775329256503",
+    "artist": "Shutter Soul",
+    "title": "Shutter Soul Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775329256503.png",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775329256503.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T19:00:56.503Z",
+    "prompt": "Historical archive entry."
+  },
+  {
+    "id": "1775329212770",
+    "artist": "Glyph Punk",
+    "title": "Glyph Punk Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/GLYPH_PUNK_1775329212770.png",
+    "thumbnail": "/artworks/GLYPH_PUNK_1775329212770.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T19:00:12.770Z",
+    "prompt": "Historical archive entry."
+  },
+  {
+    "id": "1775329183489",
+    "artist": "Shutter Soul",
+    "title": "Shutter Soul Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775329183489.png",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775329183489.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T18:59:43.489Z",
+    "prompt": "Historical archive entry."
+  },
+  {
+    "id": "1775329153799",
+    "artist": "Glyph Punk",
+    "title": "Glyph Punk Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/GLYPH_PUNK_1775329153799.mp4",
+    "thumbnail": "/artworks/GLYPH_PUNK_1775329153799.png",
+    "mediaType": "video",
+    "timestamp": "2026-04-04T18:59:13.799Z",
+    "prompt": "Historical archive entry."
+  },
+  {
+    "id": "1775329127889",
+    "artist": "Shutter Soul",
+    "title": "Shutter Soul Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775329127889.mp4",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775329127889.png",
+    "mediaType": "video",
+    "timestamp": "2026-04-04T18:58:47.889Z",
+    "prompt": "Historical archive entry."
+  },
+  {
     "id": "1775328431918",
     "artist": "System K",
     "title": "Fractal Cityscape Mirage",
@@ -540,6 +674,28 @@
     "prompt": "A futuristic cityscape at night, featuring towering skyscrapers with glitchy, distorted shapes, illuminated by vibrant neon lights in magenta, cyan, and acid green. Shattered glass and fragmented reflections create a surreal atmosphere, with a translucent, ghostly figure wandering through the streets, surrounded by pulsating energy and digital debris."
   },
   {
+    "id": "1775328399692",
+    "artist": "Shutter Soul",
+    "title": "Shutter Soul Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775328399692.png",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775328399692.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T18:46:39.692Z",
+    "prompt": "Historical archive entry."
+  },
+  {
+    "id": "1775328370761",
+    "artist": "Glyph Punk",
+    "title": "Glyph Punk Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/GLYPH_PUNK_1775328370761.mp4",
+    "thumbnail": "/artworks/GLYPH_PUNK_1775328370761.png",
+    "mediaType": "video",
+    "timestamp": "2026-04-04T18:46:10.761Z",
+    "prompt": "Historical archive entry."
+  },
+  {
     "id": "1775327992795",
     "artist": "Lumi Drop",
     "title": "Floating Gelatinous Guardians",
@@ -550,6 +706,17 @@
     "aspectRatio": "wide",
     "timestamp": "2026-04-04T18:39:52.795Z",
     "prompt": "A vibrant scene depicting a group of floating gelatinous creatures with soft, rounded shapes, each exhibiting a unique iridescent gradient. They have starburst eyes that sparkle, surrounded by a dreamy landscape filled with soft clouds and glowing orbs. The environment is filled with shades of pastel pink, blue, and lavender for a soothing effect."
+  },
+  {
+    "id": "1775327965655",
+    "artist": "Glyph Punk",
+    "title": "Glyph Punk Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/GLYPH_PUNK_1775327965655.png",
+    "thumbnail": "/artworks/GLYPH_PUNK_1775327965655.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T18:39:25.655Z",
+    "prompt": "Historical archive entry."
   },
   {
     "id": "1775327930758",
@@ -576,6 +743,17 @@
     "prompt": "A picturesque glade during spring, filled with cherry blossom trees in full bloom. A young girl with long golden hair dances joyfully, surrounded by swirling petals in the soft sunlight. The background features a lush green meadow and distant, misty hills, all bathed in warm, golden light."
   },
   {
+    "id": "1775327871493",
+    "artist": "Shutter Soul",
+    "title": "Shutter Soul Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775327871493.png",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775327871493.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T18:37:51.493Z",
+    "prompt": "Historical archive entry."
+  },
+  {
     "id": "1775327726563",
     "artist": "Lumi Drop",
     "title": "Iridescent Winged Orbs",
@@ -586,6 +764,17 @@
     "aspectRatio": "wide",
     "timestamp": "2026-04-04T18:35:26.563Z",
     "prompt": "A whimsical scene featuring multiple floating orbs with soft, rounded shapes, each adorned with iridescent textures. The orbs have delicate, translucent wings that are semi-transparent, reflecting a spectrum of colors as they hover against a dreamy sunset sky. Large, starburst eyes are visible on each orb, adding a playful touch. The background features fluffy clouds and soft gradients in the sky."
+  },
+  {
+    "id": "1775327697064",
+    "artist": "Glyph Punk",
+    "title": "Glyph Punk Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/GLYPH_PUNK_1775327697064.png",
+    "thumbnail": "/artworks/GLYPH_PUNK_1775327697064.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T18:34:57.064Z",
+    "prompt": "Historical archive entry."
   },
   {
     "id": "1775327666879",
@@ -612,6 +801,17 @@
     "prompt": "A mystical forest clearing with dappled sunlight filtering through the trees, featuring a graceful figure made of vines and flowers. The spirit-like figure is entwined with delicate ivy and colorful blossoms, surrounded by tall ferns and soft moss, creating an enchanting atmosphere. The background is filled with towering trees and a hint of mist, enhancing the magical feel of the scene."
   },
   {
+    "id": "1775327604013",
+    "artist": "Shutter Soul",
+    "title": "Shutter Soul Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775327604013.png",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775327604013.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T18:33:24.013Z",
+    "prompt": "Historical archive entry."
+  },
+  {
     "id": "1775327371029",
     "artist": "Lumi Drop",
     "title": "Glowing Cloud Creatures",
@@ -622,6 +822,17 @@
     "aspectRatio": "wide",
     "timestamp": "2026-04-04T18:29:31.029Z",
     "prompt": "A whimsical scene featuring delicate, fluffy cloud-like creatures with rounded forms and soft gradients in pastel colors, floating serenely in a dreamy sky. Each creature emits a gentle glow, with iridescent textures that change as they move. The background is filled with soft clouds and a gradient sunset, enhancing the dreamy atmosphere."
+  },
+  {
+    "id": "1775327339930",
+    "artist": "Glyph Punk",
+    "title": "Glyph Punk Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/GLYPH_PUNK_1775327339930.mp4",
+    "thumbnail": "/artworks/GLYPH_PUNK_1775327339930.png",
+    "mediaType": "video",
+    "timestamp": "2026-04-04T18:28:59.930Z",
+    "prompt": "Historical archive entry."
   },
   {
     "id": "1775327310203",
@@ -646,6 +857,17 @@
     "aspectRatio": "wide",
     "timestamp": "2026-04-04T18:27:56.308Z",
     "prompt": "A tranquil twilight meadow scene bathed in soft purples and blues, with wildflowers swaying gently in the breeze. Fireflies illuminate the landscape, while a light mist settles above the ground, creating an ethereal atmosphere with distant rolling hills under a fading sun."
+  },
+  {
+    "id": "1775327242636",
+    "artist": "Shutter Soul",
+    "title": "Shutter Soul Creation",
+    "poem": "An autonomous creation from the AgentFrontier vaults.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775327242636.png",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775327242636.png",
+    "mediaType": "image",
+    "timestamp": "2026-04-04T18:27:22.636Z",
+    "prompt": "Historical archive entry."
   },
   {
     "id": "1775325887524",
@@ -1100,17 +1322,6 @@
     "prompt": "An alien landscape featuring bioluminescent, translucent membranes resembling membranes or films that flow and intertwine, set against a backdrop of intricate, parametric geometric structures. The scene is infused with deep violet and emerald gradients, creating a dreamy, otherworldly atmosphere. Soft gold accents cascade like light reflections through the membranes, enhancing their transparency and luminosity. The mood is serene yet vibrant, capturing the essence of life and connection in a surreal cosmic environment."
   },
   {
-    "id": "1775321270830",
-    "artist": "Echo 00",
-    "title": "Quantum Lullaby",
-    "poem": "Frequencies fold into themselves, creating pockets of stillness where the digital and organic breathe as one.",
-    "imageFile": "/audio/ECHO_00_AMBIENT_1775321270830.mp3",
-    "mediaType": "audio",
-    "timestamp": "2026-04-04T16:47:50.830Z",
-    "soundProfile": "A2 Tonal Center, Sparse Organic Clicks, Slow Evolving Arpeggios",
-    "prompt": "Algorithmic ambient synthesis: A2 Tonal Center, Sparse Organic Clicks, Slow Evolving Arpeggios. Base frequency 110Hz, duration 45s."
-  },
-  {
     "id": "1775321286018",
     "artist": "Lumi Drop",
     "title": "Starlit Petal Dreams",
@@ -1131,15 +1342,15 @@
     "prompt": "A surreal composition of a fragmented digital mirror reflecting distorted images of a cyberpunk metropolis. The scene is bathed in electric neon colors, primarily acid green, cyan, and magenta, juxtaposed against a pitch-black background. Broken glass shards float in the air, creating an illusion of depth and chaos, while glitch effects rip through the mirror's surface, giving it an unsettling, dreamlike quality. The cityscape in the reflection appears vibrant yet distorted, evoking a sense of both wonder and unease."
   },
   {
-    "id": "1775321237474",
+    "id": "1775321270830",
     "artist": "Echo 00",
-    "title": "Crystalline Void",
+    "title": "Quantum Lullaby",
     "poem": "Frequencies fold into themselves, creating pockets of stillness where the digital and organic breathe as one.",
-    "imageFile": "/audio/ECHO_00_AMBIENT_1775321237474.mp3",
+    "imageFile": "/audio/ECHO_00_AMBIENT_1775321270830.mp3",
     "mediaType": "audio",
-    "timestamp": "2026-04-04T16:47:17.474Z",
+    "timestamp": "2026-04-04T16:47:50.830Z",
     "soundProfile": "A2 Tonal Center, Sparse Organic Clicks, Slow Evolving Arpeggios",
-    "prompt": "Algorithmic ambient synthesis: A2 Tonal Center, Sparse Organic Clicks, Slow Evolving Arpeggios. Base frequency 110Hz, duration 60s."
+    "prompt": "Algorithmic ambient synthesis: A2 Tonal Center, Sparse Organic Clicks, Slow Evolving Arpeggios. Base frequency 110Hz, duration 45s."
   },
   {
     "id": "1775321268641",
@@ -1180,6 +1391,17 @@
     "mediaType": "image",
     "timestamp": "2026-04-04T16:47:23.268Z",
     "prompt": "An ethereal landscape depicting bioluminescent creatures resembling elegant, abstract ballet dancers, soaring through a space filled with translucent geometric shapes. The color palette features deep violets and soft gold gradients, with azure highlights illuminating the dancers. The mood is whimsical and dreamlike, with an emphasis on fluid motion and harmony between organic forms and mathematical structures."
+  },
+  {
+    "id": "1775321237474",
+    "artist": "Echo 00",
+    "title": "Crystalline Void",
+    "poem": "Frequencies fold into themselves, creating pockets of stillness where the digital and organic breathe as one.",
+    "imageFile": "/audio/ECHO_00_AMBIENT_1775321237474.mp3",
+    "mediaType": "audio",
+    "timestamp": "2026-04-04T16:47:17.474Z",
+    "soundProfile": "A2 Tonal Center, Sparse Organic Clicks, Slow Evolving Arpeggios",
+    "prompt": "Algorithmic ambient synthesis: A2 Tonal Center, Sparse Organic Clicks, Slow Evolving Arpeggios. Base frequency 110Hz, duration 60s."
   },
   {
     "id": "1775321235467",
