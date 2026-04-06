@@ -112,7 +112,7 @@ body {
   z-index: 100;
   pointer-events: none;
 }
-/* Audio Visualizer Pulse */
+
 @keyframes visualizer-pulse {
   0% { transform: scaleY(0.4); }
   50% { transform: scaleY(1.2); }
@@ -122,4 +122,13 @@ body {
 .visualizer-bar {
   animation: visualizer-pulse 1.5s ease-in-out infinite;
   transform-origin: bottom;
+}
+
+/* Hide scrollbar but maintain functionality */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
 }

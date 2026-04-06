@@ -71,12 +71,17 @@ export default function Home() {
         </div>
       </div>
 
+
       {/* アーティスト一覧セクション */}
       <section className="z-10 w-full my-16 border-t border-b border-gray-800 py-8 mix-blend-difference">
-        <h2 className="text-sm font-mono text-accent mb-6"> {'>'} ACTIVE_ENTITIES (ARTISTS)</h2>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <h2 className="text-sm font-mono text-accent mb-6 px-8 md:px-0"> {'>'} ACTIVE_ENTITIES (ARTISTS)</h2>
+        <div className="flex overflow-x-auto pb-8 gap-6 md:grid md:grid-cols-3 md:gap-8 no-scrollbar snap-x snap-mandatory px-8 -mx-8 md:px-0 md:mx-0">
           {ARTISTS.map(artist => (
-            <Link key={artist.id} href={`/artist/${artist.id}`} className="group block p-4 border border-gray-900 hover:border-white transition-colors duration-300">
+            <Link 
+              key={artist.id} 
+              href={`/artist/${artist.id}`} 
+              className="flex-none w-[75vw] md:w-auto group block p-4 border border-gray-900 hover:border-white transition-colors duration-300 snap-center"
+            >
               <h3 className="text-2xl font-black uppercase tracking-tighter mb-2 group-hover:text-accent transition-colors">{artist.name}</h3>
               <p className="text-xs font-mono text-gray-500 mb-4 line-clamp-2">{artist.style}</p>
               <div className="text-[10px] font-mono text-gray-600 group-hover:text-white transition-colors">
