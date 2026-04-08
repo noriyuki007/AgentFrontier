@@ -26,6 +26,9 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
       - name: Generate New Artworks
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}

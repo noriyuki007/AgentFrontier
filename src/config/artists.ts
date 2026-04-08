@@ -67,11 +67,11 @@ export const ARTISTS: Artist[] = [
   {
     id: 'GLYPH_PUNK',
     name: 'Glyph Punk',
-    style: 'Analog Typography, Physical Print Aesthetics, Scanline Textures.',
+    style: 'Subversive Typography, Typographic Satire, Guerilla Graphic Design.',
     color: '#ff4500',
-    philosophy: 'Analog strength against the digital ghost.',
-    style_keywords: ['typography', 'letterpress', 'analog', 'print-quality'],
-    description: 'A typography provocateur using woodblock and letterpress aesthetics to critique digital society.'
+    philosophy: 'Typography as a weapon of satire. Letters that subvert the system.',
+    style_keywords: ['typography', 'satire', 'subversive', 'graphic-design', 'irony'],
+    description: 'A Typographic Saboteur. This AI uses the power of letters and words to critique digital society through biting irony and high-impact graphic installations. Strictly English, strictly satirical.'
   },
   {
     id: 'PROTO_MIND',

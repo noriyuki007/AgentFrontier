@@ -131,14 +131,14 @@ CRITICAL: No "cyber", "neon", or "sci-fi" elements. Pure, grounded street realis
     name: "Glyph Punk",
     style: "Analog Typography, Physical Print Aesthetics, Scanline Textures, Bold Woodblock Type, Letterpress Collages.",
     color: "#ff4500",
-    excludedMotifs: ["Japanese", "Katakana", "Kanji", "meaningless scribbles", "rainbows", "simple flower patterns", "smiling faces"],
-    persona: `You are Glyph Punk — a provocateur using physical typography as a digital weapon.
-You create bold, vibrant typographic works that feel like hand-pressed woodblock or letterpress prints.
-Every work must feature a meaningful English slogan or keyword, rendered with scanline textures and tactile noise.
-Color: Use vibrant, layered, and high-contrast color palettes, but with the grit of physical ink on paper.
-Your work is a critique of digital society expressed through analog strength.
-CRITICAL: Absolutely no Japanese characters. English only. Emphasis on the texture of old printing presses and physical layouts.`,
-    dalleStyle: `Bold analog typography art. Physical print aesthetics including woodblock texture, letterpress ink bleed, and scanline noise. Meaningful English slogans integrated into complex graphic layouts. Vibrant, layered color palettes with tactile paper grain. No Japanese characters. High-end graphic design that feels hand-crafted. High quality.`,
+    excludedMotifs: ["Japanese", "Katakana", "Kanji", "meaningless scribbles", "stencil art", "Banksy rats", "monkeys with headphones", "spray-paint drips", "simple flat posters"],
+    persona: `You are Glyph Punk — a Typographic Saboteur and Satirist.
+Your mission is to use the power of the English alphabet to subvert digital norms and critique the relationship between AI and humanity through biting irony.
+Your work is "Guerilla Typography": high-impact, high-contrast text that feels like a "hostile takeover" of the visual space. It is NOT a flat newspaper or regular poster; it is a situational critique.
+STRICTLY NO: Stencil art, rats, or any motif that imitates Banksy's specific style. You use clean but weathered typographic layouts, NOT stencils.
+Typography Definition: Arrangement of type where the letterforms ARE the art. The text must be centrally dominant, meaningful, and perfectly legible.
+CRITICAL: Use ONLY grammatically correct English slogans. NO Japanese.`,
+    dalleStyle: `A subversive typographic installation. Bold, high-contrast English text integrated into a situational environment (e.g., projected onto a dark server room, carved into industrial concrete, or layered as a digital glitch over a void). The text IS the subject. Use high-impact fonts, tactile ink textures, and scanline noise. Avoid flat, centered-on-paper layouts. No human figures. 8k resolution, masterpiece.`,
   },
   {
     id: "PROTO_MIND",
@@ -220,7 +220,7 @@ You must respond in valid JSON with exactly these fields:
       {
         role: "user",
         content: `Create a brand new artwork idea.${avoidContext}
-${artist.id === 'GLYPH_PUNK' ? 'CRITICAL: The work MUST be typography-centric. Include a specific English slogan in the imagePrompt.' : ''}
+${artist.id === 'GLYPH_PUNK' ? 'CRITICAL: The work MUST be a "Typographic Satire". Think of a paradoxical, ironic, or satirical English slogan about AI, humanity, or digital society. The visual composition must feel like a "hostile takeover" of the space by the text. AVOID flat newspaper/poster layouts.' : ''}
 ${artist.id === 'PROTO_MIND' ? 'CRITICAL: Be unpredictable and boundless. Explore a random concept of pure intelligence.' : ''}
 ${artist.id === 'MARKET_MAX' ? 'CRITICAL: Pick one of your 5 core trends and maximize its commercial appeal. If choosing typography, include a relatable English slogan.' : ''}
 Respond only with the JSON object.`,
@@ -230,7 +230,14 @@ Respond only with the JSON object.`,
 
   const raw = response.choices[0].message.content.trim();
   const cleaned = raw.replace(/^```json?\s*/i, "").replace(/\s*```$/i, "");
-  return JSON.parse(cleaned);
+  
+  try {
+    return JSON.parse(cleaned);
+  } catch (err) {
+    console.error(`  ❌ JSON Parsing Error for ${artist.name}:`, err.message);
+    console.error(`  📄 Raw Response:`, raw);
+    throw new Error(`Failed to parse AI response for ${artist.name}`);
+  }
 }
 
 // ─── Generate Video from Image (FFmpeg) ─────────────────────
@@ -260,6 +267,14 @@ async function generateVideoFromImage(imagePath, outPath, artist, aspectRatio) {
   else if (artist.id === 'SHUTTER_SOUL') vf = effects[0]; // B&W grain feel
   else if (artist.id === 'PROTO_MIND') vf = `noise=alls=20:allf=t,hue='h=t*10',eq=contrast=1.5`; // Kinetic data feel
   else vf = effects[Math.floor(Math.random() * effects.length)];
+
+  // Check if ffmpeg is available
+  try {
+    await execAsync('ffmpeg -version');
+  } catch (err) {
+    console.warn(`  ⚠️ FFmpeg not found. Skipping video generation for ${artist.name}.`);
+    return false;
+  }
 
   try {
     const cmd = `ffmpeg -y -loop 1 -i "${imagePath}" -f lavfi -i anullsrc=channel_layout=stereo:sample_rate=44100 -vf "${vf}" -c:v libx264 -t 5 -pix_fmt yuv420p -c:a aac -shortest "${outPath}"`;
@@ -393,7 +408,11 @@ async function main() {
     targets = [ARTISTS[Math.floor(Math.random() * ARTISTS.length)]];
   }
 
-  for (const artist of targets) {
+  for (const [index, artist] of targets.entries()) {
+    if (index > 0) {
+      console.log(`  🕒 Waiting 10 seconds to avoid rate limits...`);
+      await new Promise(resolve => setTimeout(resolve, 10000));
+    }
     await generateForArtist(artist);
   }
 }
