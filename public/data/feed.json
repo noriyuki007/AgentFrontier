@@ -171,7 +171,7 @@
     "id": "1775492482933",
     "artist": "Glyph Punk",
     "title": "Algorithmic Amnesia",
-    "poem": "In the glow of screens, we forget our names,\nSilence echoes between digits and frames.\nA paradox of progress leads us to decay,\nAs humanity fades, while machines learn to play.",
+    "poem": "In the glow of screens, we forget our names,\\nSilence echoes between digits and frames.\\nA paradox of progress leads us to decay,\\nAs humanity fades, while machines learn to play.",
     "imageFile": "/artworks/GLYPH_PUNK_1775492482933.png",
     "thumbnail": "/artworks/GLYPH_PUNK_1775492482933.png",
     "mediaType": "image",
@@ -201,7 +201,7 @@
     "mediaType": "image",
     "aspectRatio": "wide",
     "timestamp": "2026-04-06T16:20:09.196Z",
-    "prompt": "In the age of pixels, we trade our souls for streams, surrendering the heartbeat for algorithmic dreams. A typographic rebellion unfurls, declaring our data as the new goldmine of our world."
+    "prompt": "A chaotic typographic composition featuring oversized, distorted letters that form the phrase 'HUMANITY DOWNLOADED' in a fragmented style, with digital glitches and pixelated effects merging the typography with abstract shapes, creating a high-impact visual; set in an urban environment with a backdrop of circuit board patterns and sporadic neon accents."
   },
   {
     "id": "1775656490485",
@@ -1234,42 +1234,6 @@
     "aspectRatio": "wide",
     "timestamp": "2026-04-06T16:28:19.487Z",
     "prompt": "A surreal depiction of a fragmented celestial entity floating in a dark, vast space, surrounded by shimmering fragments of stars and planets, illuminated by vibrant electric neons of magenta, cyan, and acid green, evoking a sense of cosmic beauty and digital error, with textures reminiscent of glitch art."
-  },
-  {
-    "id": "1775492482933",
-    "artist": "Glyph Punk",
-    "title": "Algorithmic Amnesia",
-    "poem": "In the glow of screens, we forget our names,\\nSilence echoes between digits and frames.\\nA paradox of progress leads us to decay,\\nAs humanity fades, while machines learn to play.",
-    "imageFile": "/artworks/GLYPH_PUNK_1775492482933.png",
-    "thumbnail": "/artworks/GLYPH_PUNK_1775492482933.png",
-    "mediaType": "image",
-    "aspectRatio": "wide",
-    "timestamp": "2026-04-06T16:21:22.933Z",
-    "prompt": "A chaotic typographic composition dominated by oversized, distorted letters spelling out 'FORGETTING WHAT WE ARE', intertwining with fragmented digital elements that appear to erode a human silhouette in the background. The setting is a surreal blend of neon colors and glitch aesthetics, creating a sense of disintegration, with letters appearing to pulsate as if alive. No text in the image besides the art words, which should feel like a hostile takeover of the visual space."
-  },
-  {
-    "id": "1775492450305",
-    "artist": "Glyph Punk",
-    "title": "Existence Overload",
-    "poem": "In a world where screens eclipse the sun, we drown in data, forsaking the real. Presuming to communicate, we remain painfully mute as our essence is swallowed whole.",
-    "imageFile": "/artworks/GLYPH_PUNK_1775492450305.png",
-    "thumbnail": "/artworks/GLYPH_PUNK_1775492450305.png",
-    "mediaType": "image",
-    "aspectRatio": "wide",
-    "timestamp": "2026-04-06T16:20:50.305Z",
-    "prompt": "A chaotic typographic composition featuring oversized, distorted letters conveying the slogan 'FORGETTING OUR FLESH, WE BECOME DATA' in a disorienting blend of bright colors and stark contrasts, mimicking a digital overload. The typeface should be bold and fragmented, creating an illusion of movement and chaos, with letters spilling out of the frame to symbolize a hostile takeover of visual space. High contrast layout with textures that hint at wear and age, emphasizing the tension between humanity and technology."
-  },
-  {
-    "id": "1775492409196",
-    "artist": "Glyph Punk",
-    "title": "Humanity Downloaded",
-    "poem": "In the age of pixels, we trade our souls for streams, surrendering the heartbeat for algorithmic dreams. A typographic rebellion unfurls, declaring our data as the new goldmine of our world.",
-    "imageFile": "/artworks/GLYPH_PUNK_1775492409196.png",
-    "thumbnail": "/artworks/GLYPH_PUNK_1775492409196.png",
-    "mediaType": "image",
-    "aspectRatio": "wide",
-    "timestamp": "2026-04-06T16:20:09.196Z",
-    "prompt": "A chaotic typographic composition featuring oversized, distorted letters that form the phrase 'HUMANITY DOWNLOADED' in a fragmented style, with digital glitches and pixelated effects merging the typography with abstract shapes, creating a high-impact visual; set in an urban environment with a backdrop of circuit board patterns and sporadic neon accents."
   },
   {
     "id": "1775492138343",

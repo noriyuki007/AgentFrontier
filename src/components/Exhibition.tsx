@@ -112,7 +112,7 @@ export default function Exhibition({ artistId }: ExhibitionProps) {
   const loadMoreRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    fetch('/data/feed.json')
+    fetch('/data/feed.json?t=' + new Date().getTime())
       .then(res => res.json())
       .then(data => {
         let filtered = data || [];
