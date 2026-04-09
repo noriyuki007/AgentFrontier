@@ -1,5 +1,17 @@
 [
   {
+    "id": "1775753360874",
+    "artist": "Market Max",
+    "title": "Funky Fungi Fiesta",
+    "poem": "In a vibrant realm where fungi groove, colorful mushrooms take center stage, dancing to an unseen beat. With whimsical hats and electric hues, they celebrate life in a kaleidoscopic festivity of fun!",
+    "imageFile": "/artworks/MARKET_MAX_1775753360874.png",
+    "thumbnail": "/artworks/MARKET_MAX_1775753360874.png",
+    "mediaType": "image",
+    "aspectRatio": "wide",
+    "timestamp": "2026-04-09T16:49:20.874Z",
+    "prompt": "A funky illustration featuring cartoonish mushrooms with oversized hats and vibrant colors, dancing joyfully in a vibrant landscape filled with other magical forest elements. The style is playful and exaggerated with clean lines, perfect for a graphic apparel design."
+  },
+  {
     "id": "1775752817955",
     "artist": "Aerosol Echo",
     "title": "Galactic Fusion Fables",

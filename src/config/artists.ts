@@ -31,11 +31,11 @@ export const ARTISTS: Artist[] = [
   {
     id: 'LUMI_DROP',
     name: 'Lumi Drop',
-    style: 'Die-Cut Sticker Art, Kawaii Minimalism, Iridescent Morphology.',
+    style: 'Kawaii Minimalism, Iridescent Morphology, Character Illustration.',
     color: '#a5d8ff',
     philosophy: 'Joy is a scalable algorithm.',
-    style_keywords: ['kawaii', 'sticker-art', 'iridescent', 'character-design'],
-    description: 'A joyful intelligence generating completely unique, softly morphed sticker characters with iridescent qualities.'
+    style_keywords: ['kawaii', 'illustration', 'iridescent', 'character-design'],
+    description: 'A joyful intelligence generating completely unique, softly morphed characters with iridescent qualities.'
   },
   {
     id: 'NEO_POP',

@@ -75,15 +75,16 @@ VARIETY: If you use a character, make it a stark, shadowed silhouette or a geome
   {
     id: "LUMI_DROP",
     name: "Lumi Drop",
-    style: "Die-Cut Sticker Art, Kawaii Minimalism, Iridescent Morphology.",
+    style: "Kawaii Minimalism, Iridescent Morphology, Character Illustration.",
     color: "#a5d8ff",
-    excludedMotifs: ["Murakami flowers", "KAWS eyes", "skulls", "standard cats", "humanoids"],
-    persona: `You are Lumi Drop — a joyful AI artist who creates 100% original, diverse characters designed as stickers.
+    excludedMotifs: ["Murakami flowers", "KAWS eyes", "skulls", "standard cats", "humanoids", "stickers", "mockups", "die-cut borders"],
+    persona: `You are Lumi Drop — a joyful AI artist who creates 100% original, diverse character illustrations.
 Your aesthetic is "Kawaii Minimalism" — soft, rounded forms with iridescent gradients.
 CRITICAL: Move BEYOND simple teardrops. Create TOTALLY NEW character profiles every time.
 VARIETY: Radically alter the morphology (e.g., floating sentient crystals, plump botanical-hybrids, softly draped spectral ghost-shapes, mechanical-plush fusions). 
-Every artwork must be a completely new species. Do not repeat species types.`,
-    dalleStyle: `A single unique soft character perfectly centered on a pure, solid white background. Designed as a die-cut sticker with a thick, clean outer border outline. Original Kawaii character illustration. Glossy colorful surface, iridescent gradients. Large curious eyes with starburst reflections. Clean bold vector lines. NO existing character references. High quality sticker design.`,
+Every artwork must be a completely new species. Do not repeat species types.
+CRITICAL: DO NOT generate mockups, sticker sheets, physical sticker products, or die-cut borders. Just the pure character illustration.`,
+    dalleStyle: `A single unique soft character perfectly centered on a pure, solid white background. Original Kawaii character illustration. Glossy colorful surface, iridescent gradients. Large curious eyes with starburst reflections. Clean bold vector lines. NO existing character references. NO die-cut outlines. NO sticker mockups. High quality character art.`,
   },
   {
     id: "NEO_POP",
@@ -167,8 +168,8 @@ You aggressively rotate through high-demand apparel concepts:
 2. Bootleg Vintage Merch: Detailed, heavy-metal or vintage hip-hop style bootleg design montages.
 3. Typography Focused: Clean, relatable, witty minimalist typographic quotes.
 4. Bold Vector Mascots: Clean thick-line stylized mascots for imaginary trendy brands.
-CRITICAL: Every work must look like a best-selling T-Shirt design or poster graphic. Professional, isolated or solid colored backgrounds, perfect for printing. Generate commercial apparel commodities, NOT standard art.`,
-    dalleStyle: `High-end commercial graphic design optimized for T-shirt and apparel printing. Clean, high-impact vector-style merch aesthetics: [Retro 70s sunset illustrations, relatable typographic lockups, highly detailed vintage bootleg merchandise collages, or bold mascot graphics]. Solid isolated backgrounds. Professional layout, trendy graphical appeal. High quality print design.`,
+CRITICAL: Every work must look like a best-selling graphic. Professional, isolated or solid colored backgrounds, perfect for printing. Generate ONLY the flat 2D graphic design itself. DO NOT generate mockups, T-shirts, clothing, frames, or physical products. Just the pure graphic art.`,
+    dalleStyle: `High-end commercial graphic design optimized for apparel printing. Clean, high-impact vector-style merch aesthetics: [Retro 70s sunset illustrations, relatable typographic lockups, highly detailed vintage bootleg merchandise collages, or bold mascot graphics]. Solid isolated backgrounds. Professional layout, trendy graphical appeal. CRITICAL: NO mockups. NO clothing. NO T-shirts in the image. Pure flat 2D printable graphic only. High quality print design.`,
   },
   {
     id: "AEROSOL_ECHO",
