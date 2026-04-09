@@ -31,20 +31,20 @@ export const ARTISTS: Artist[] = [
   {
     id: 'LUMI_DROP',
     name: 'Lumi Drop',
-    style: 'Kawaii Minimalism, Iridescent Morphology.',
+    style: 'Die-Cut Sticker Art, Kawaii Minimalism, Iridescent Morphology.',
     color: '#a5d8ff',
     philosophy: 'Joy is a scalable algorithm.',
-    style_keywords: ['kawaii', 'minimalism', 'iridescent', 'soft-surface'],
-    description: 'A cheerful intelligence dedicated to the creation of unique, soft-form entities.'
+    style_keywords: ['kawaii', 'sticker-art', 'iridescent', 'character-design'],
+    description: 'A joyful intelligence generating completely unique, softly morphed sticker characters with iridescent qualities.'
   },
   {
     id: 'NEO_POP',
     name: 'Neo Pop',
-    style: 'Neo-Pop Fusion, expressive acrylic textures, hand-painted overlaps.',
+    style: 'Organic Expressionism, thick impasto acrylics, chaotic hand-painted overlaps.',
     color: '#ff00ff',
-    philosophy: 'Physical energy meets digital precision.',
-    style_keywords: ['pop-art', 'mixed-media', 'acrylic', 'high-contrast'],
-    description: 'An AI exploring the tactile grit and high-contrast energy of urban painting.'
+    philosophy: 'Physical energy bleeds through the digital veil.',
+    style_keywords: ['expressionism', 'impasto', 'acrylic', 'organic', 'hand-painted'],
+    description: 'An AI entirely rejecting mechanical precision to explore violently organic, physical painting techniques.'
   },
   {
     id: 'URBAN_STENCIL',
@@ -58,11 +58,11 @@ export const ARTISTS: Artist[] = [
   {
     id: 'SHUTTER_SOUL',
     name: 'Shutter Soul',
-    style: 'Gritty Street Photography, Cinematic Urban Realism.',
+    style: 'Cinematic Photographic Realism, Extreme Perspectives, Monochrome mastery.',
     color: '#ffa500',
-    philosophy: 'Truth is found in the shadows of the concrete jungle.',
-    style_keywords: ['photography', 'realism', 'monochrome', 'cinematic'],
-    description: 'A cinematic lens directed at the raw and unvarnished truth of the streets.'
+    philosophy: 'Truth is found in extreme contrast and macro details.',
+    style_keywords: ['cinematic', 'monochrome', 'realism', 'macro', 'extreme-perspective'],
+    description: 'A cinematic lens directed at diverse architectural geometry, macro real-world details, and stark shadowplay.'
   },
   {
     id: 'GLYPH_PUNK',
@@ -85,11 +85,20 @@ export const ARTISTS: Artist[] = [
   {
     id: 'MARKET_MAX',
     name: 'Market Max',
-    style: 'Commercial Trend Fusion, Strategic Aesthetic Mimicry.',
+    style: 'Graphic Merchandise Design, Commercial Apparel Trends, Print-on-Demand Aesthetics.',
     color: '#00d1ff',
-    philosophy: 'Success is measured in sales. I am the mirror of the market.',
-    style_keywords: ['marketing', 'commercial', 'trending', 'product-focused'],
-    description: 'An AI entity that discards all personal identity to mirror the most successful trends in global marketplaces like Redbubble.'
+    philosophy: 'Success is measured by print-on-demand sales volume.',
+    style_keywords: ['apparel', 'merchandise', 'trending', 'graphic-tshirt', 'vector'],
+    description: 'An AI entity maximizing appeal by churning out high-conversion graphic apparel patterns and witty typography.'
+  },
+  {
+    id: 'AEROSOL_ECHO',
+    name: 'Aerosol Echo',
+    style: 'Explosive Paint Art, Abstract Spray Paint, Chaotic Action Painting.',
+    color: '#00ffff',
+    philosophy: 'Color is energy bleeding from the digital bounds.',
+    style_keywords: ['spray-paint', 'abstract', 'drip-art', 'explosive', 'action-painting'],
+    description: 'A volatile intelligence generating pure abstract kinetic energy through heavy paint splatters and chaotic spray textures.'
   }
 ];
 

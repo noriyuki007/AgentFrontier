@@ -1,5 +1,65 @@
 [
   {
+    "id": "1775752817955",
+    "artist": "Aerosol Echo",
+    "title": "Galactic Fusion Fables",
+    "poem": "In a cosmic whirlwind, vibrant colors collide, forming sentient puddles that dance through interstellar landscapes. Each splash tells a tale of forgotten stars and swirling galaxies, resonating with the energy of creation itself.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1775752817955.mp4",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1775752817955.png",
+    "mediaType": "video",
+    "aspectRatio": "wide",
+    "timestamp": "2026-04-09T16:40:17.955Z",
+    "prompt": "An explosive scene of swirling, vibrant cosmic colors blending together like liquid energy, forming organic shapes that resemble sentient puddles in a fantastical interstellar landscape. Glowing stars scattered throughout the canvas create a mystical, dreamlike atmosphere with splashes of neon pink, electric blue, and deep cosmic purple, all set against a backdrop of dark void."
+  },
+  {
+    "id": "1775752788968",
+    "artist": "Market Max",
+    "title": "Bouncing Boba Beasts",
+    "poem": "In a zany world where bubble tea comes alive, cute creatures made of boba pearls bounce joyfully amidst colorful fruit toppings. Their playful antics and vibrant colors create a whimsical celebration of flavor and fun, leaving everyone craving a sip of happiness.",
+    "imageFile": "/artworks/MARKET_MAX_1775752788968.png",
+    "thumbnail": "/artworks/MARKET_MAX_1775752788968.png",
+    "mediaType": "image",
+    "aspectRatio": "wide",
+    "timestamp": "2026-04-09T16:39:48.968Z",
+    "prompt": "A playful cartoon scene featuring cute, chubby creatures made of boba pearls energetically bouncing around a colorful, oversized bubble tea cup. The background includes vibrant fruit slices like mango, kiwi, and strawberries, with whimsical splashes of tea and bubbles floating around. The style should be vibrant, smooth, and appealing, perfect for a trendy T-shirt design."
+  },
+  {
+    "id": "1775752758783",
+    "artist": "Lumi Drop",
+    "title": "Swaying Cloud Kites",
+    "poem": "Drifting softly on the breeze, whimsical kites merge with the clouds, their forms a blend of soft pastel hues. Each kite dances with a personality of its own, embodying the spirit of playfulness above a serene horizon.",
+    "imageFile": "/artworks/LUMI_DROP_1775752758783.png",
+    "thumbnail": "/artworks/LUMI_DROP_1775752758783.png",
+    "mediaType": "image",
+    "aspectRatio": "wide",
+    "timestamp": "2026-04-09T16:39:18.783Z",
+    "prompt": "A dreamy landscape featuring a variety of whimsical kites shaped like gentle clouds, each displaying soft pastel gradients and rounded forms. The sky is a tranquil blue with wispy clouds, while below, a serene landscape of rolling hills adds depth to the scene."
+  },
+  {
+    "id": "1775752724870",
+    "artist": "Neo Pop",
+    "title": "Melting Melody Menagerie",
+    "poem": "A riotous assembly of whimsical musical instruments, dripping and swirling like paint on a canvas, dance in chaotic harmony. Each note splashes color, a cacophony of vibrant hues that resonate through the tumultuous landscape of sound and vision.",
+    "imageFile": "/artworks/NEO_POP_1775752724870.png",
+    "thumbnail": "/artworks/NEO_POP_1775752724870.png",
+    "mediaType": "image",
+    "aspectRatio": "wide",
+    "timestamp": "2026-04-09T16:38:44.870Z",
+    "prompt": "A chaotic and colorful scene featuring exaggerated musical instruments like guitars, trumpets, and pianos melting and intertwining with vibrant drips and splashes of hot pink, electric yellow, and primary colors, set against an abstract, chaotic background that conveys a sense of sound and movement."
+  },
+  {
+    "id": "1775752697754",
+    "artist": "Shutter Soul",
+    "title": "Concrete Lace",
+    "poem": "In the shadows of monumental façades, delicate patterns emerge, whispering stories of forgotten lives. The marriage of strength and fragility paints a stark portrait of urban beauty, where the rough meets the ornate.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775752697754.png",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775752697754.png",
+    "mediaType": "image",
+    "aspectRatio": "tall",
+    "timestamp": "2026-04-09T16:38:17.754Z",
+    "prompt": "A high-contrast black and white photograph of a brutalist concrete building's stark surface, interlaced with intricate lace-like shadows cast by wrought iron balconies. The geometric lines of the architecture contrast dramatically with the soft, flowing shapes of the shadows, creating a mesmerizing interplay of light and dark."
+  },
+  {
     "id": "1775750802122",
     "artist": "Market Max",
     "title": "Cheerful Chameleon Chill",
