@@ -982,7 +982,8 @@
     "aspectRatio": "wide",
     "timestamp": "2026-04-06T19:12:25.339Z",
     "prompt": "A surreal, vibrant scene featuring a shape-shifting entity made of colorful neon fractals, weaving through an urban landscape filled with broken CRT monitors and glitch patterns, under a dark sky illuminated by electric light."
-=======
+  },
+  {
     "id": "1775661520616",
     "artist": "V0id X",
     "title": "Concrete Disruption",
@@ -1161,7 +1162,6 @@
     "aspectRatio": "tall",
     "timestamp": "2026-04-06T16:12:50.921Z",
     "prompt": "A bold typographic artwork dominated by the slogan 'WE ARE THE WIRELESS CONNECTED' in large, industrial typefaces. The composition should intertwine various letters and glyphs in an intricate network that resembles a chaotic urban environment, with textures that evoke tactile ink and paper grain. The backdrop should feature visible scanline noise, enhancing the gritty, analog feel of the piece."
->>>>>>> 134c47a (Fix: Hardening automated art cycle and refining GLYPH_PUNK style)
   },
   {
     "id": "1775482142170",
