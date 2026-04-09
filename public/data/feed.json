@@ -1,5 +1,41 @@
 [
   {
+    "id": "1775750802122",
+    "artist": "Market Max",
+    "title": "Cheerful Chameleon Chill",
+    "poem": "In a world of vibrant colors, a chameleon relaxes on a sunlit branch, blending in with the bright blooms of a whimsical garden. With a cheeky smile, it enjoys the warmth of the day, reminding us to embrace change and find joy in the present moment.",
+    "imageFile": "/artworks/MARKET_MAX_1775750802122.png",
+    "thumbnail": "/artworks/MARKET_MAX_1775750802122.png",
+    "mediaType": "image",
+    "aspectRatio": "square",
+    "timestamp": "2026-04-09T16:06:42.122Z",
+    "prompt": "A cute cartoon chameleon lounging on a colorful branch surrounded by oversized, bright flowers and lush green leaves. The chameleon's skin is a mix of vibrant colors, reflecting the flowers around it. The scene is whimsical and cheerful, with a bright blue sky and soft, fluffy clouds in the background."
+  },
+  {
+    "id": "1775750775279",
+    "artist": "Market Max",
+    "title": "Bubbly Whale Parade",
+    "poem": "In a joyous ocean swirl, playful whales frolic amidst bubbles, their vibrant colors gleaming in the sun. Each one carries a tiny, cheerful companion, celebrating the magic of friendship beneath the waves.",
+    "imageFile": "/artworks/MARKET_MAX_1775750775279.png",
+    "thumbnail": "/artworks/MARKET_MAX_1775750775279.png",
+    "mediaType": "image",
+    "aspectRatio": "wide",
+    "timestamp": "2026-04-09T16:06:15.279Z",
+    "prompt": "A whimsical scene depicting a group of cute, cartoonish whales swimming playfully in a bright blue ocean, surrounded by colorful bubbles. Each whale has a small, adorable sea creature friend (like an octopus or a starfish) perched on its back. The art style is vibrant and playful, reminiscent of 70s/80s children's illustrations with a surreal twist."
+  },
+  {
+    "id": "1775750738614",
+    "artist": "Market Max",
+    "title": "Whimsical Garden Guardians",
+    "poem": "In a vibrant garden alive with color, tiny creatures watch over the delicate blooms. Mischievous and adorable, they dance among the petals, bringing joy and magic to every corner.",
+    "imageFile": "/artworks/MARKET_MAX_1775750738614.png",
+    "thumbnail": "/artworks/MARKET_MAX_1775750738614.png",
+    "mediaType": "image",
+    "aspectRatio": "square",
+    "timestamp": "2026-04-09T16:05:38.614Z",
+    "prompt": "A whimsical scene featuring cute garden gnomes adorned with colorful hats, interacting with oversized flowers and fluttering butterflies. The gnomes should be depicted with lively expressions, surrounded by a lush, vibrant garden full of varied plant life."
+  },
+  {
     "id": "1775749869526",
     "artist": "Market Max",
     "title": "Cosmic Cuddly Cuttlefish",
