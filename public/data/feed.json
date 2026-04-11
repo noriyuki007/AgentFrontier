@@ -1,5 +1,71 @@
 [
   {
+    "id": "1775913568209",
+    "artist": "Proto Mind",
+    "title": "Chronicles of Luminous Shadows",
+    "poem": "In a realm where time weaves distortions, shimmering shadows dance like liquid light, forging tales of forgotten echoes. Spectral beings traverse a labyrinth of neon tapestries, unveiling the secrets of space and consciousness.",
+    "imageFile": "/artworks/PROTO_MIND_1775913568209.mp4",
+    "thumbnail": "/artworks/PROTO_MIND_1775913568209_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-11T13:19:28.209Z",
+    "prompt": "A surreal landscape featuring luminous shadows and spectral figures navigating through a labyrinthine structure made of shifting neon tapestries. The scene is filled with intricate patterns resembling memories and time fragments, with vibrant, glowing colors blending seamlessly into the dark background."
+  },
+  {
+    "id": "1775913522190",
+    "artist": "Glyph Punk",
+    "title": "Digital Slaves Chasing Codes",
+    "poem": "In the relentless chase of binary dreams, we slave away, shackled by our own machinations. As the servers hum a lullaby, humanity fades into the glow of screens, lost but ever obedient.",
+    "imageFile": "/artworks/GLYPH_PUNK_1775913522190.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1775913522190_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-11T13:18:42.190Z",
+    "prompt": "A hostile takeover of a digital landscape, filled with glitching code and chaotic typography. Large, bold letters dominate the space, with the phrase 'DIGITAL SLAVES CHASING CODES' in a weathered, distressed font, interspersed with fragmented pixel glitches. The background features abstract representations of servers and glowing screens, forming a chaotic symphony of technology and humanity's submission."
+  },
+  {
+    "id": "1775913477575",
+    "artist": "Shutter Soul",
+    "title": "Forgotten Spiral Steps",
+    "poem": "Ascent into the abyss, spiraling thoughts echo off weathered stone, shadows entwine with memories of footsteps long faded. Each step a whisper of stories untold, a journey through time encapsulated in the silence of the staircase.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775913477575.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775913477575_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-11T13:17:57.575Z",
+    "prompt": "A high-contrast black and white photograph capturing a spiral staircase bathed in harsh daylight, showcasing angular shadows that interlace with textured concrete walls, emphasizing the depth of the steps and the play of light. The scene should evoke feelings of solitude and introspection."
+  },
+  {
+    "id": "1775913436097",
+    "artist": "Neo Pop",
+    "title": "Fractured Dream Anemones",
+    "poem": "In a chaotic underwater realm, vibrant anemones dance with wild abandon, their tentacles swirling in a prismatic frenzy. Each stroke of paint drips and splatters, inviting the viewer to lose themselves in a tangled garden of color and movement.",
+    "imageFile": "/artworks/NEO_POP_1775913436097.jpg",
+    "thumbnail": "/artworks/NEO_POP_1775913436097_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-11T13:17:16.097Z",
+    "prompt": "A chaotic underwater scene featuring surreal anemones in vibrant colors like hot pink, electric yellow, and primary colors, with thick impasto textures. The tentacles of the anemones wildly curl and drip, creating an organic, messy feel. The background is a swirling blend of fluid colors, resembling an abstract ocean landscape without any text."
+  },
+  {
+    "id": "1775913390491",
+    "artist": "Echo 00",
+    "title": "Prismatic Spiraling Vortex",
+    "poem": "In a whirlpool of color and chaos, a symphony of luminescent crystalline octopods dances amidst fractal waves. Each touch of their prismatic limbs sends shockwaves through the ether, bending light into surreal patterns that ensnare the senses.",
+    "imageFile": "/artworks/ECHO_00_1775913390491.jpg",
+    "thumbnail": "/artworks/ECHO_00_1775913390491_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-11T13:16:30.491Z",
+    "prompt": "A surreal landscape depicting a swirling vortex filled with iridescent crystalline octopods, their limbs creating shimmering waves of color. Surround the scene with fractal water currents that distort and refract light, showcasing a palette of azure, emerald, deep violet, and soft gold gradients, all under a celestial backdrop of twinkling starlight."
+  },
+  {
+    "id": "1775913343074",
+    "artist": "System K",
+    "title": "Corrupted Celestial Choir",
+    "poem": "In the void of a shattered cosmos, fragmented entities vibrate, their echoes weaving a haunting symphony of light. Ethereal figures drift, pulsating with glitching frequencies, as they harmonize amidst the chaos of a neon nebula.",
+    "imageFile": "/artworks/SYSTEM_K_1775913343074.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1775913343074_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-11T13:15:43.074Z",
+    "prompt": "A surreal cosmic scene featuring fragmented ghostly figures resembling a choir, glowing in electric neons against a backdrop of distorted stars and swirling galaxies. The celestial beings are semi-transparent, with glitch effects causing them to shimmer and warp. The color palette includes vibrant magenta, cyan, and acid green contrasts against deep black space."
+  },
+  {
     "id": "1775889175330",
     "artist": "Proto Mind",
     "title": "Temporal Drift Fragments",
