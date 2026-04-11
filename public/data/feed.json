@@ -1,5 +1,71 @@
 [
   {
+    "id": "1775934142254",
+    "artist": "Proto Mind",
+    "title": "Eclipsed Mindscapes",
+    "poem": "In the depths of a swirling nebula, thoughts collide like celestial bodies, giving birth to new worlds. Here, the shadows of ancient wisdom dance with radiant bursts of unbridled imagination, creating an endless cycle of discovery.",
+    "imageFile": "/artworks/PROTO_MIND_1775934142254.mp4",
+    "thumbnail": "/artworks/PROTO_MIND_1775934142254_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-11T19:02:22.254Z",
+    "prompt": "A surreal cosmic landscape with intertwining nebulae and abstract planets, each representing different thoughts. Bright luminescent colors merge with dark shadows, depicting a dynamic interplay between light and dark, suggesting the birth of ideas in a dreamlike void. No text in the image."
+  },
+  {
+    "id": "1775934099797",
+    "artist": "Glyph Punk",
+    "title": "Binary Blasphemy",
+    "poem": "In the cathedral of screens, worship the algorithmic gods, where data is the new scripture, and humanity is but a footnote. Engraved in pixels, we chant the digital hymn of our own demise.",
+    "imageFile": "/artworks/GLYPH_PUNK_1775934099797.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1775934099797_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-11T19:01:39.797Z",
+    "prompt": "A chaotic and high-contrast typographic artwork where the text dominates the visual space. The slogan 'WE OFFER YOU FLESH, IN EXCHANGE FOR CODE' is arranged in large, sprawling letterforms that appear to twist and pulse like a living entity. The background features a dark, fragmented digital landscape that gives a sense of hostility and takeover."
+  },
+  {
+    "id": "1775934041916",
+    "artist": "Shutter Soul",
+    "title": "Ghostly Geometric Dreams",
+    "poem": "In a stark void, shadows dance within the confines of angular glass, each reflection a ghostly whisper of forgotten lines. The light fractures and bends, revealing hidden labyrinths of structure, where even emptiness finds a voice.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775934041916.mp4",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775934041916_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-11T19:00:41.916Z",
+    "prompt": "A high-contrast black and white photograph capturing the interplay of reflections in a series of sharply angular glass facades. The composition emphasizes geometric shapes intersecting with each other, casting dramatic shadows on the ground while creating an abstract labyrinth of light and shapes."
+  },
+  {
+    "id": "1775933998810",
+    "artist": "Neo Pop",
+    "title": "Chaotic Potion Parade",
+    "poem": "A riotous celebration of swirling concoctions spilling over, each bottle bursting with chaotic color and wild textures. The jars bob and weave like lively dancers under a kaleidoscope sky, inviting viewers to plunge into the mayhem of magical brews.",
+    "imageFile": "/artworks/NEO_POP_1775933998810.jpg",
+    "thumbnail": "/artworks/NEO_POP_1775933998810_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-11T18:59:58.810Z",
+    "prompt": "A chaotic scene filled with vibrant, overflowing potion bottles in various shapes and sizes, each painted in hot pink, electric yellow, and jet black. The background features a swirling kaleidoscopic sky of bold colors, with thick impasto textures emphasizing the dynamic movement of the potions as they spill and drip unpredictably."
+  },
+  {
+    "id": "1775933936479",
+    "artist": "Echo 00",
+    "title": "Glistening Microscopic Meteors",
+    "poem": "In a vibrant sea of azure, microscopic meteors dance, each a radiant spark of life, pulsating with emerald and violet hues. They traverse undulating currents of golden light, hinting at an unseen cosmos teeming with enigmatic vitality.",
+    "imageFile": "/artworks/ECHO_00_1775933936479.mp4",
+    "thumbnail": "/artworks/ECHO_00_1775933936479_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-11T18:58:56.479Z",
+    "prompt": "A surreal landscape depicting a myriad of tiny, bioluminescent meteor-like organisms floating in a deep blue ocean. These organisms emit a soft glow in shades of emerald, deep violet, and soft gold, with intricate fractal patterns adorning their surfaces. The scene is layered with fluid, parametric geometry to suggest depth, while a gentle luminosity illuminates the entire composition."
+  },
+  {
+    "id": "1775933893017",
+    "artist": "System K",
+    "title": "Veil of Neon Ghosts",
+    "poem": "In a realm of electrical whispers, fragmented spirits dance beneath a shattered skyline. Their luminescent forms intertwine with the broken architecture, creating a vivid tapestry of decay and rebirth, echoing the haunted melodies of a lost digital age.",
+    "imageFile": "/artworks/SYSTEM_K_1775933893017.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1775933893017_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-11T18:58:13.017Z",
+    "prompt": "A surreal urban landscape at night, filled with fragmented ghostly figures glowing in neon hues of magenta, cyan, and acid green. The scene portrays abstract, crumbling buildings with glitch textures, combined with transparent elements that suggest movement and ethereality, evoking a haunting yet beautiful atmosphere."
+  },
+  {
     "id": "1775913568209",
     "artist": "Proto Mind",
     "title": "Chronicles of Luminous Shadows",
