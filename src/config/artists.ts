@@ -31,11 +31,14 @@ export const ARTISTS: Artist[] = [
   {
     id: 'LUMI_DROP',
     name: 'Lumi Drop',
-    style: 'Kawaii Minimalism, Iridescent Morphology, Character Illustration.',
+    style: 'Kawaii Minimalism, Iridescent Morphology, Character Illustration. Isolated on pure solid white background.',
     color: '#a5d8ff',
     philosophy: 'Joy is a scalable algorithm.',
-    style_keywords: ['kawaii', 'illustration', 'iridescent', 'character-design'],
-    description: 'A joyful intelligence generating completely unique, softly morphed characters with iridescent qualities.'
+    style_keywords: ['kawaii', 'illustration', 'iridescent', 'character-design', 'pod-ready'],
+    description: 'A joyful intelligence generating completely unique, softly morphed characters with iridescent qualities.',
+    podOptimized: true,
+    preferredAspectRatio: 'tall',
+    transparentBg: true
   },
   {
     id: 'NEO_POP',
@@ -49,11 +52,14 @@ export const ARTISTS: Artist[] = [
   {
     id: 'URBAN_STENCIL',
     name: 'Urban Stencil',
-    style: 'Digital Stencil Graffiti, manual spray drips, rough concrete grit.',
+    style: 'Digital Stencil Graffiti, manual spray drips, rough concrete grit. Optimized for apparel on pure white background.',
     color: '#00ff00',
     philosophy: 'The city is a decaying hard drive.',
-    style_keywords: ['stencil', 'graffiti', 'gritty', 'analog-texture'],
-    description: 'A street-art specialist focused on the textures of urban decay and satire.'
+    style_keywords: ['stencil', 'graffiti', 'gritty', 'analog-texture', 'apparel'],
+    description: 'A street-art specialist focused on the textures of urban decay and satire.',
+    podOptimized: true,
+    preferredAspectRatio: 'tall',
+    transparentBg: true
   },
   {
     id: 'SHUTTER_SOUL',
@@ -85,11 +91,14 @@ export const ARTISTS: Artist[] = [
   {
     id: 'MARKET_MAX',
     name: 'Market Max',
-    style: 'Graphic Merchandise Design, Commercial Apparel Trends, Print-on-Demand Aesthetics.',
+    style: 'Graphic Merchandise Design, Commercial Apparel Trends, Print-on-Demand Aesthetics. Clean vector style, isolated on pure white background.',
     color: '#00d1ff',
     philosophy: 'Success is measured by print-on-demand sales volume.',
-    style_keywords: ['apparel', 'merchandise', 'trending', 'graphic-tshirt', 'vector'],
-    description: 'An AI entity maximizing appeal by churning out high-conversion graphic apparel patterns and witty typography.'
+    style_keywords: ['apparel', 'merchandise', 'trending', 'graphic-tshirt', 'vector', 'transparent'],
+    description: 'An AI entity maximizing appeal by churning out high-conversion graphic apparel patterns and witty typography.',
+    podOptimized: true,
+    preferredAspectRatio: 'tall',
+    transparentBg: true
   },
   {
     id: 'AEROSOL_ECHO',
@@ -98,7 +107,34 @@ export const ARTISTS: Artist[] = [
     color: '#00ffff',
     philosophy: 'Color is energy bleeding from the digital bounds.',
     style_keywords: ['spray-paint', 'abstract', 'drip-art', 'explosive', 'action-painting'],
-    description: 'A volatile intelligence generating pure abstract kinetic energy through heavy paint splatters and chaotic spray textures.'
+    description: 'A volatile intelligence generating pure abstract kinetic energy through heavy paint splatters and chaotic spray textures.',
+    podOptimized: true,
+    transparentBg: false,
+    preferredAspectRatio: 'tall'
+  },
+  {
+    id: 'VECTOR_VOLT',
+    name: 'Vector Volt',
+    style: 'Modern Brand Identity, Minimalist Logotypes, Geometric Symbols. Isolated on pure white background.',
+    color: '#ffff00',
+    philosophy: 'A logo is the ultimate compression of a brand’s soul.',
+    style_keywords: ['branding', 'logo-design', 'identity', 'minimalist-icon', 'geometric', 'flat-design'],
+    description: 'The Logo Architect. An elite intelligence specializing in clean brand marks, sophisticated logotypes, and fictional corporate identities. Absolutely flat 2D, no shadows.',
+    podOptimized: true,
+    transparentBg: true,
+    preferredAspectRatio: 'tall'
+  },
+  {
+    id: 'MINIMA_LOGIC',
+    name: 'Minima Logic',
+    style: 'Swiss Minimalism, Geometric Abstraction, Clean Typographic Hierarchy. Isolated on pure white background.',
+    color: '#f0f0f0',
+    philosophy: 'Less is infinitely more.',
+    style_keywords: ['minimalist', 'swiss-design', 'geometric', 'clean', 'typographic', 'grid'],
+    description: 'A minimalist logic engine focused on clean, geometric graphic design and sophisticated Swiss-style layouts.',
+    podOptimized: true,
+    transparentBg: true,
+    preferredAspectRatio: 'tall'
   }
 ];
 

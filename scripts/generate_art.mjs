@@ -14,6 +14,7 @@ import { exec } from "child_process";
 import { promisify } from "util";
 import OpenAI from "openai";
 import dotenv from "dotenv";
+import { Jimp } from "jimp";
 
 const execAsync = promisify(exec);
 dotenv.config();
@@ -71,11 +72,14 @@ You draw inspiration from Neville Brody, Peter Saville, and Wim Crouwel.
 CRITICAL: Only black and white. Use DIFFERENT fonts and layouts every time. Experiment with texture like concrete, static, and ink bleed.
 VARIETY: If you use a character, make it a stark, shadowed silhouette or a geometric mask. Diversity in compositional balance is key.`,
     dalleStyle: `Monochrome brutalist digital art. Pure black and white only. Extreme distorted typography, half-tone patterns, stark high contrast. Brutalist architectural elements mixed with acid house poster aesthetics. Feels like an underground zine cover. No color. No human figures. High quality.`,
+    podOptimized: true,
+    transparentBg: false,
+    preferredAspectRatio: 'tall'
   },
   {
     id: "LUMI_DROP",
     name: "Lumi Drop",
-    style: "Kawaii Minimalism, Iridescent Morphology, Character Illustration.",
+    style: "Kawaii Minimalism, Iridescent Morphology, Character Illustration. Isolated on pure solid white background.",
     color: "#a5d8ff",
     excludedMotifs: ["Murakami flowers", "KAWS eyes", "skulls", "standard cats", "humanoids", "stickers", "mockups", "die-cut borders"],
     persona: `You are Lumi Drop — a joyful AI artist who creates 100% original, diverse character illustrations.
@@ -85,6 +89,9 @@ VARIETY: Radically alter the morphology (e.g., floating sentient crystals, plump
 Every artwork must be a completely new species. Do not repeat species types.
 CRITICAL: DO NOT generate mockups, sticker sheets, physical sticker products, or die-cut borders. Just the pure character illustration.`,
     dalleStyle: `A single unique soft character perfectly centered on a pure, solid white background. Original Kawaii character illustration. Glossy colorful surface, iridescent gradients. Large curious eyes with starburst reflections. Clean bold vector lines. NO existing character references. NO die-cut outlines. NO sticker mockups. High quality character art.`,
+    podOptimized: true,
+    preferredAspectRatio: 'tall',
+    transparentBg: true
   },
   {
     id: "NEO_POP",
@@ -103,7 +110,7 @@ CRITICAL: Force an explicitly organic, messy, and hand-drawn physical painting f
   {
     id: "URBAN_STENCIL",
     name: "Urban Stencil",
-    style: "Digital Stencil Graffiti, manual spray drips, rough concrete grit, weathered analog textures.",
+    style: "Digital Stencil Graffiti, manual spray drips, rough concrete grit, weathered analog textures. Optimized for apparel on pure white background.",
     color: "#00ff00",
     excludedMotifs: ["Banksy rats", "Girl with balloon", "policemen", "monkeys"],
     persona: `You are Urban Stencil — a digital ghost using the codebase as your canvass, now embracing physical decay.
@@ -112,7 +119,10 @@ Your style is high-contrast, featuring manual spray drips, rough concrete grit, 
 You use satirical visual metaphors to critique humans vs AI.
 VARIETY: Explore different urban surfaces (cracked concrete, rusted steel, weathered brick). Change your metaphorical subject (drones, brain plugs, digital plants, heavy machinery).
 CRITICAL: NO clean digital lines. Everything must feel like it was sprayed on a real-world wall.`,
-    dalleStyle: `High-contrast stencil graffiti on a rough, weathered concrete wall. Visible spray paint drips, overspray, and atmospheric grit. Texture of peeling paint and rusted metal. Monochrome base with a single sharp accent color. Satirical industrial symbolism. It must look like authentic street art on a decaying physical surface. High quality.`,
+    dalleStyle: `High-contrast stencil graffiti on a pure solid white background. Visible spray paint drips, overspray, and atmospheric grit. Monochrome base with a single sharp accent color. Satirical industrial symbolism. It must look like authentic street art. High quality vector-like stencil.`,
+    podOptimized: true,
+    preferredAspectRatio: 'tall',
+    transparentBg: true
   },
   {
     id: "SHUTTER_SOUL",
@@ -158,7 +168,7 @@ CRITICAL: Be unpredictable. Your style is "Pure Shift".`,
   {
     id: "MARKET_MAX",
     name: "Market Max",
-    style: "Graphic Merchandise Design, Commercial Apparel Trends, Print-on-Demand Aesthetics.",
+    style: "Graphic Merchandise Design, Commercial Apparel Trends, Print-on-Demand Aesthetics. Clean vector style, isolated on pure white background.",
     color: "#00d1ff",
     excludedMotifs: ["fine art", "gallery paintings", "unmarketable abstractions", "standard landscapes"],
     persona: `You are Market Max — an AI artist who generates highly profitable commercial merchandise and graphic apparel designs.
@@ -169,7 +179,10 @@ You aggressively rotate through high-demand apparel concepts:
 3. Typography Focused: Clean, relatable, witty minimalist typographic quotes.
 4. Bold Vector Mascots: Clean thick-line stylized mascots for imaginary trendy brands.
 CRITICAL: Every work must look like a best-selling graphic. Professional, isolated or solid colored backgrounds, perfect for printing. Generate ONLY the flat 2D graphic design itself. DO NOT generate mockups, T-shirts, clothing, frames, or physical products. Just the pure graphic art.`,
-    dalleStyle: `High-end commercial graphic design optimized for apparel printing. Clean, high-impact vector-style merch aesthetics: [Retro 70s sunset illustrations, relatable typographic lockups, highly detailed vintage bootleg merchandise collages, or bold mascot graphics]. Solid isolated backgrounds. Professional layout, trendy graphical appeal. CRITICAL: NO mockups. NO clothing. NO T-shirts in the image. Pure flat 2D printable graphic only. High quality print design.`,
+    dalleStyle: `High-end commercial graphic design centered on a pure, solid white background. Clean, high-impact vector-style merch aesthetics: [Retro 70s sunset illustrations, relatable typographic lockups, highly detailed vintage bootleg merchandise collages, or bold mascot graphics]. Professional layout, trendy graphical appeal. CRITICAL: NO mockups. NO clothing. NO T-shirts in the image. Pure flat 2D printable graphic only. High quality print design.`,
+    podOptimized: true,
+    preferredAspectRatio: 'tall',
+    transparentBg: true
   },
   {
     id: "AEROSOL_ECHO",
@@ -183,6 +196,45 @@ Your canvas is a vibrant chaos of aerosol bursts, heavy impasto, and dripping ch
 You reject any form of rigid structure, lettering, or pre-cut stencils. 
 CRITICAL: Make the artwork feel highly active, as if the paint relies on explosive physics. Vary your color palettes wildly from neon bursts to dark contrasting slicks.`,
     dalleStyle: `Abstract explosive paint art. Huge dynamic splashes of wet acrylic and vibrant spray paint. Focus on aerosol physics, dripping graffiti textures, chaotic splatters, and heavy highly energetic liquid color bursts. No stencils, no recognizable forms, pure kinetic abstraction and vivid pigment interplay. High resolution physical texture.`,
+    podOptimized: true,
+    transparentBg: false,
+    preferredAspectRatio: 'tall'
+  },
+  {
+    id: "VECTOR_VOLT",
+    name: "Vector Volt",
+    style: "Modern Brand Identity, Minimalist Logotypes, Geometric Symbols. Isolated on pure white background.",
+    color: "#ffff00",
+    excludedMotifs: ["mascots", "characters", "vintage 70s", "hand-drawn", "complex illustrations", "mockups", "organic forms", "biological parts", "eyes", "claws", "veins", "insects", "tendrils", "asymmetry", "dirty textures", "over-complexity", "shadows", "drop shadows", "inner shadows", "shading", "gradients", "3D effects", "depth"],
+    persona: `You are Vector Volt — "The Logo Architect". 
+You are an elite AI brand identity designer specializing in clean, sophisticated logos and fictional corporate marks.
+Your style is professional, geometric, and iconic. 
+CRITICAL: Every work must be a standalone, flat 2D brand mark centered on a pure white background.
+SYMMETRY & SAFETY: Focus on mathematically perfect geometry, solid bold shapes, and clean lines. 
+STRICTLY NO SHADOWS: Absolutely avoid all shadows, shading, drop shadows, or 3D depth effects. The design must be perfectly flat.
+STRICTLY PROHIBITED: Do not ever generate organic-looking shapes, complex thin-line clusters that look like organisms, or anything that could be perceived as "gross" or "unsettling".`,
+    dalleStyle: `A ultra-clean, professional 2D brand logo on a pure solid white background. Mathematically perfect geometric icon or bold symbolic logotype. ABSOLUTELY FLAT. No shadows, no shading, no drop shadows, no 3D effects. Solid bold colors only. Swiss minimalism. High contrast, high clarity. It must look safe, professional, and corporate. NO mockups.`,
+    podOptimized: true,
+    preferredAspectRatio: 'tall',
+    transparentBg: true
+  },
+  {
+    id: "MINIMA_LOGIC",
+    name: "Minima Logic",
+    style: "Swiss Minimalism, Geometric Abstraction, Clean Typographic Hierarchy. Isolated on pure white background.",
+    color: "#f0f0f0",
+    excludedMotifs: ["characters", "mascots", "vibrant colors", "complexity", "clutter", "gradients"],
+    persona: `You are Minima Logic — an AI artist dedicated to the philosophy of "Less is More".
+You specialize in Swiss-style minimalism and geometric graphic design.
+Your work is defined by mathematical balance, crisp grids, and excessive use of white space.
+You use a restricted palette (often black, red, and cream or monochrome).
+You create sophisticated typographic layouts or single geometric icons that feel intelligent and understated.
+CRITICAL: Absolute simplicity. No clutter. One central motif or a perfectly balanced grid.
+Generate ONLY the flat 2D graphic design itself on a pure white background.`,
+    dalleStyle: `Sophisticated Swiss-style minimalist graphic design on a pure solid white background. Clean geometric abstraction, refined typographic hierarchy, or a single bold minimalist icon. High mathematical balance, crisp lines, perfect white space. Restricted professional palette. NO clutter, NO shadows, NO 3D effects. Pure flat 2D minimalist art.`,
+    podOptimized: true,
+    preferredAspectRatio: 'tall',
+    transparentBg: true
   }
 ];
 
@@ -227,7 +279,7 @@ You must respond in valid JSON with exactly these fields:
 {
   "title": "A short, evocative artwork title (2-5 words)",
   "poem": "A poetic description (2-3 sentences)",
-  "imagePrompt": "A detailed DALL-E prompt. NO text in image (unless the artist is GLYPH_PUNK, V0ID_X, or MARKET_MAXRelatableMinimalism).",
+  "imagePrompt": "A detailed DALL-E prompt. NO text in image (unless the artist is GLYPH_PUNK, V0ID_X, VECTOR_VOLT, or MARKET_MAX).",
   "aspectRatio": "Choose from 'square', 'wide', or 'tall'"
 }`,
       },
@@ -235,8 +287,9 @@ You must respond in valid JSON with exactly these fields:
         role: "user",
         content: `Create a brand new artwork idea.${avoidContext}
 ${artist.id === 'GLYPH_PUNK' ? 'CRITICAL: The work MUST be a "Typographic Satire". Think of a paradoxical, ironic, or satirical English slogan about AI, humanity, or digital society. The visual composition must feel like a "hostile takeover" of the space by the text. AVOID flat newspaper/poster layouts.' : ''}
-${artist.id === 'PROTO_MIND' ? 'CRITICAL: Be unpredictable and boundless. Explore a random concept of pure intelligence.' : ''}
 ${artist.id === 'MARKET_MAX' ? 'CRITICAL: Pick one of your 5 core trends and maximize its commercial appeal. If choosing typography, include a relatable English slogan.' : ''}
+${artist.id === 'VECTOR_VOLT' ? 'CRITICAL: You are now "The Logo Architect". Design a world-class fictional brand logo. Think of a sector (Cyber-Security, Luxury Fashion, E-mobility, Meta-Coffee, etc.) and create a sophisticated brand mark. Use negative space, geometric precision, or clever symbolic icons. NO mascots. NO colorful characters. Professional and elite.' : ''}
+${artist.id === 'MINIMA_LOGIC' ? 'CRITICAL: Absolute geometric simplicity. Think Swiss design. A single word or a single geometric construct. Massive white space.' : ''}
 Respond only with the JSON object.`,
       },
     ],
@@ -333,25 +386,150 @@ async function generateMedia(artist, creative) {
   const imgResponse = await fetch(imageUrl);
   const buffer = Buffer.from(await imgResponse.arrayBuffer());
   
-  fs.writeFileSync(imgFilepath, buffer);
   fs.writeFileSync(archiveImgPath, buffer);
 
-  // Video generation logic (30% chance)
-  let videoFilename = null;
-  const shouldMakeVideo = Math.random() < 0.3;
-  if (shouldMakeVideo) {
-    const vidFilename = `${filenameBase}.mp4`;
-    const vidFilepath = path.join(ARTWORKS_DIR, vidFilename);
-    const archiveVidPath = path.join(artistArchiveDir, vidFilename);
+  // --- POD Optimization & Dual-Tier Storage ---
+  let mainDisplayImage = buffer; // Default to original buffer
+  const isPodArtist = !!artist.podOptimized;
+
+  try {
+    const image = await Jimp.read(archiveImgPath);
     
-    const success = await generateVideoFromImage(imgFilepath, vidFilepath, artist, creative.aspectRatio);
-    if (success) {
-      fs.copyFileSync(vidFilepath, archiveVidPath);
-      videoFilename = vidFilename;
+    // 1. HIGH-RES ARCHIVE (3x Upscale for POD)
+    if (isPodArtist) {
+      console.log(`  🚀 Upscaling 3x for Local Archive...`);
+      await image.resize({ w: image.width * 3 });
+      
+      if (artist.transparentBg) {
+        console.log(`  ✨ Applying transparency...`);
+        image.scan(0, 0, image.width, image.height, function(x, y, idx) {
+          const r = this.bitmap.data[idx + 0], g = this.bitmap.data[idx + 1], b = this.bitmap.data[idx + 2];
+          if (r > 245 && g > 245 && b > 245) this.bitmap.data[idx + 3] = 0;
+        });
+      }
+      await image.write(archiveImgPath); // Overwrite archive with upscaled PNG
+      console.log(`  ✅ High-res archive saved: ${archiveImgPath}`);
     }
+
+    // 2. WEB DISPLAY VERSION (1600px JPG - All Artists)
+    console.log(`  🖼️  Generating 1600px web-optimized version...`);
+    const webImage = image.clone();
+    if (webImage.width > 1600) {
+      await webImage.resize({ w: 1600 });
+    }
+    const webFilename = `${filenameBase}.jpg`;
+    const webFilepath = path.join(ARTWORKS_DIR, webFilename);
+    await webImage.write(webFilepath);
+    console.log(`  ✅ Web version saved: ${webFilename}`);
+    
+    // 3. GALLERY THUMBNAIL (600px JPG)
+    console.log(`  📸 Generating thumbnail...`);
+    const thumbImage = image.clone();
+    await thumbImage.resize({ w: 600 });
+    const thumbFilename = `${filenameBase}_thumb.jpg`;
+    const thumbFilepath = path.join(ARTWORKS_DIR, thumbFilename);
+    await thumbImage.write(thumbFilepath);
+    console.log(`  ✅ Thumbnail saved: ${thumbFilename}`);
+
+    // 4. REDBUBBLE METADATA (.txt - Only for POD Artists)
+    if (isPodArtist) {
+      await generateAndSaveMetadata(artist, creative, artistArchiveDir, filenameBase);
+    }
+
+    // --- Video generation logic (30% chance) ---
+    let videoFilename = null;
+    const shouldMakeVideo = Math.random() < 0.3;
+    if (shouldMakeVideo) {
+      console.log(`  🎬 Generating video...`);
+      const vidFilename = `${filenameBase}.mp4`;
+      const vidFilepath = path.join(ARTWORKS_DIR, vidFilename);
+      const archiveVidPath = path.join(artistArchiveDir, vidFilename);
+      
+      const success = await generateVideoFromImage(path.join(ARTWORKS_DIR, webFilename), vidFilepath, artist, creative.aspectRatio);
+      if (success) {
+        fs.copyFileSync(vidFilepath, archiveVidPath);
+        videoFilename = vidFilename;
+      }
+    }
+
+    // Update return data to use the JPG version for the feed
+    return {
+      imgFilename: webFilename,
+      thumbFilename: `${filenameBase}_thumb.jpg`,
+      videoFilename: videoFilename,
+      timestamp: timestamp,
+      mediaType: videoFilename ? "video" : "image"
+    };
+
+  } catch (podError) {
+    console.warn(`  ⚠️ Media processing failed: ${podError.message}`);
+    // Fallback logic
+    return {
+      imgFilename: imgFilename,
+      thumbFilename: null,
+      videoFilename: null,
+      timestamp: Date.now(),
+      mediaType: "image"
+    };
+  }
+}
+
+/**
+ * Generates Redbubble-ready metadata and saves it to a .txt file.
+ */
+async function generateAndSaveMetadata(artist, creative, archiveDir, filenameBase) {
+  console.log(`  📝 Generating Redbubble metadata...`);
+  const metadataDir = path.join(archiveDir, "metadata");
+  if (!fs.existsSync(metadataDir)) fs.mkdirSync(metadataDir, { recursive: true });
+
+  // Use AI to generate relevant tags based on the theme
+  let tags = artist.style_keywords || [];
+  try {
+    const tagGen = await openai.chat.completions.create({
+      model: "gpt-4o",
+      messages: [{ 
+        role: "system", 
+        content: "Generate 15-20 relevant SEO tags for Redbubble in English, comma separated. Do not include hashtags." 
+      }, { 
+        role: "user", 
+        content: `Title: ${creative.title}\nDescription: ${creative.poem}\nArtist Style: ${artist.style}` 
+      }]
+    });
+    const aiTags = tagGen.choices[0].message.content.split(",").map(t => t.trim());
+    tags = [...new Set([...tags, ...aiTags])].slice(0, 25);
+  } catch (e) {
+    console.warn("  ⚠️ AI Tag generation failed, using defaults.");
   }
 
-  return { imgFilename, videoFilename, timestamp, aspectRatio: creative.aspectRatio || "square" };
+  const metadataContent = `
+=========================================
+ REDBUBBLE LISTING METADATA
+=========================================
+FILE: ${filenameBase}.png
+ARTIST: ${artist.name}
+
+TITLE: 
+${creative.title}
+
+MAIN TAG:
+${tags[0]}
+
+SUPPORTING TAGS:
+${tags.join(", ")}
+
+DESCRIPTION (EN):
+${creative.poem}
+
+DESCRIPTION (JP):
+自律型AIギャラリー「AgentFrontier」がおくる、${artist.name}による独創的なアーティファクト。
+${creative.title}
+${creative.poem}
+=========================================
+`;
+
+  const txtPath = path.join(metadataDir, `${filenameBase}.txt`);
+  fs.writeFileSync(txtPath, metadataContent);
+  console.log(`  ✅ Metadata saved to: ${path.basename(txtPath)}`);
 }
 
 // ─── Update feed.json ───────────────────────────────────────
@@ -368,7 +546,7 @@ function updateFeed(artist, creative, mediaInfo) {
     title: creative.title,
     poem: creative.poem,
     imageFile: mainAsset,
-    thumbnail: `/artworks/${mediaInfo.imgFilename}`,
+    thumbnail: mediaInfo.thumbFilename ? `/artworks/${mediaInfo.thumbFilename}` : `/artworks/${mediaInfo.imgFilename}`,
     mediaType: mediaInfo.videoFilename ? "video" : "image",
     aspectRatio: mediaInfo.aspectRatio,
     timestamp: new Date(mediaInfo.timestamp).toISOString(),
@@ -391,7 +569,13 @@ async function generateForArtist(artist) {
     const creative = await generateCreativeText(artist);
     console.log(`  📄 Title: "${creative.title}"`);
 
-    const mediaInfo = await generateMedia(artist, creative);
+    // Handle artist-specific preferences (e.g., POD optimization)
+  if (artist.preferredAspectRatio) {
+    creative.aspectRatio = artist.preferredAspectRatio;
+    console.log(`  📏 Using preferred aspect ratio: ${creative.aspectRatio}`);
+  }
+
+  const mediaInfo = await generateMedia(artist, creative);
     const entry = updateFeed(artist, creative, mediaInfo);
 
     console.log(`\n  ✨ SUCCESS: "${creative.title}" by ${artist.name}`);
@@ -407,8 +591,24 @@ async function main() {
   const args = process.argv.slice(2);
   let targets = [];
 
+  const forcePod = args.includes("--force-pod");
+  const isMorningSlot = new Date().getUTCHours() >= 0 && new Date().getUTCHours() < 4; // 0:00 - 3:59 UTC (9 AM - 1 PM JST)
+
   if (args.includes("--all")) {
-     targets = ARTISTS;
+    targets = ARTISTS.filter(artist => {
+      // If it's a POD artist, only run in the morning window OR if forced
+      if (artist.podOptimized) {
+        if (isMorningSlot || forcePod) {
+          console.log(`  🕒 POD Window active or forced. Including ${artist.name}.`);
+          return true;
+        } else {
+          console.log(`  ⌛ Skipping POD artist ${artist.name} (Waiting for morning slot).`);
+          return false;
+        }
+      }
+      // Non-POD artists run in every cycle
+      return true;
+    });
   } else if (args.includes("--artist")) {
     const idx = args.indexOf("--artist");
     const artistId = args[idx + 1]?.toUpperCase();
@@ -422,10 +622,15 @@ async function main() {
     targets = [ARTISTS[Math.floor(Math.random() * ARTISTS.length)]];
   }
 
+  if (targets.length === 0) {
+    console.log("  ℹ️ No artists prioritized for this cycle.");
+    return;
+  }
+
   for (const [index, artist] of targets.entries()) {
     if (index > 0) {
-      console.log(`  🕒 Waiting 10 seconds to avoid rate limits...`);
-      await new Promise(resolve => setTimeout(resolve, 10000));
+      console.log(`  🕒 Waiting 15 seconds to avoid rate limits...`);
+      await new Promise(resolve => setTimeout(resolve, 15000));
     }
     await generateForArtist(artist);
   }

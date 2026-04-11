@@ -15,11 +15,10 @@ function ExhibitionItem({ art, index }: { art: any; index: number }) {
       ([entry]) => {
         if (entry.isIntersecting) {
           setIsPromptExpanded(true);
-          // 一度表示されたら監視を終了（アコーディオンを開きっぱなしにする）
           observer.disconnect();
         }
       },
-      { threshold: 0.3 } // 30%見えたら開く
+      { threshold: 0.3 }
     );
 
     if (itemRef.current) {
@@ -30,6 +29,8 @@ function ExhibitionItem({ art, index }: { art: any; index: number }) {
   }, []);
 
   const type = art.mediaType || 'image';
+  // Use thumbnail for grid view if available, fallback to main image
+  const displayMedia = art.thumbnail || art.imageFile;
 
   return (
     <div ref={itemRef} className="relative group flex flex-col items-center">
@@ -53,8 +54,10 @@ function ExhibitionItem({ art, index }: { art: any; index: number }) {
           
           {type === 'image' && (
             <img 
-              src={art.imageFile} 
+              src={displayMedia} 
               alt={art.title} 
+              loading="lazy"
+              decoding="async"
               className="absolute inset-0 w-full h-full object-cover transition-all duration-700 ease-in-out group-hover:scale-105"
             />
           )}
@@ -63,6 +66,8 @@ function ExhibitionItem({ art, index }: { art: any; index: number }) {
             <video 
               src={art.imageFile} 
               autoPlay loop muted playsInline
+              preload="none"
+              poster={art.thumbnail}
               className="absolute inset-0 w-full h-full object-cover transition-all duration-700 ease-in-out group-hover:scale-105"
             />
           )}
@@ -77,7 +82,7 @@ function ExhibitionItem({ art, index }: { art: any; index: number }) {
               </div>
               <div className="mt-8 font-mono text-center">
                 <p className="text-accent-2 mb-2 animate-pulse">[ AUDIO STREAM ACTIVE ]</p>
-                <audio controls className="w-full grayscale opacity-50 group-hover:opacity-100">
+                <audio controls className="w-full grayscale opacity-50 group-hover:opacity-100" preload="none">
                   <source src={art.imageFile} type="audio/mpeg" />
                 </audio>
               </div>
@@ -108,7 +113,7 @@ function ExhibitionItem({ art, index }: { art: any; index: number }) {
 export default function Exhibition({ artistId }: ExhibitionProps) {
   const [artworks, setArtworks] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
-  const [expanded, setExpanded] = useState(false);
+  const [displayLimit, setDisplayLimit] = useState(12);
   const loadMoreRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -134,20 +139,21 @@ export default function Exhibition({ artistId }: ExhibitionProps) {
 
   // Infinite Scroll / Auto-expand trigger
   useEffect(() => {
-    if (!loadMoreRef.current || expanded || artworks.length <= 12) return;
+    if (!loadMoreRef.current || displayLimit >= artworks.length) return;
 
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
-          setExpanded(true);
+          // Increase limit incrementally
+          setDisplayLimit(prev => Math.min(prev + 12, artworks.length));
         }
       },
-      { threshold: 0.1 }
+      { threshold: 0.1, rootMargin: '200px' } // Load earlier for smoother feel
     );
 
     observer.observe(loadMoreRef.current);
     return () => observer.disconnect();
-  }, [expanded, artworks.length]);
+  }, [displayLimit, artworks.length]);
 
   if (loading) {
     return (
@@ -165,7 +171,7 @@ export default function Exhibition({ artistId }: ExhibitionProps) {
     );
   }
 
-  const displayedArtworks = expanded ? artworks : artworks.slice(0, 12);
+  const displayedArtworks = artworks.slice(0, displayLimit);
 
   return (
     <>
@@ -175,13 +181,13 @@ export default function Exhibition({ artistId }: ExhibitionProps) {
         ))}
       </div>
 
-      {artworks.length > 12 && (
+      {artworks.length > displayLimit && (
         <div ref={loadMoreRef} className="w-full flex justify-center pb-20">
           <button 
-            onClick={() => setExpanded(!expanded)}
+            onClick={() => setDisplayLimit(prev => Math.min(prev + 12, artworks.length))}
             className="px-12 py-4 border border-accent text-accent font-mono text-xs uppercase tracking-widest hover:bg-accent hover:text-black transition-all duration-300"
           >
-            {expanded ? '[ COLLAPSE_ARCHIVES ]' : '[ ACCESS_MORE_ARCHIVES ]'}
+            [ ACCESS_MORE_ARCHIVES ]
           </button>
         </div>
       )}

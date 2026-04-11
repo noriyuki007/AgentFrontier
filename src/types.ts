@@ -6,4 +6,7 @@ export interface Artist {
   philosophy: string;
   style_keywords: string[];
   description: string;
+  podOptimized?: boolean;
+  preferredAspectRatio?: 'square' | 'wide' | 'tall';
+  transparentBg?: boolean;
 }
