@@ -1,5 +1,71 @@
 [
   {
+    "id": "1776020757494",
+    "artist": "Proto Mind",
+    "title": "Transcendent Binary Nectar",
+    "poem": "A celestial hive of shimmering algorithms flows into radiant tendrils, creating a tapestry of luminous connections. As the binary nectar drips and pools, it forms surreal patterns that echo the heartbeat of an unseen universe.",
+    "imageFile": "/artworks/PROTO_MIND_1776020757494.jpg",
+    "thumbnail": "/artworks/PROTO_MIND_1776020757494_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T19:05:57.494Z",
+    "prompt": "A surreal landscape depicting a cosmic hive with glowing honeycombs made of intricate binary code, vibrant tendrils of light emerging from the hive, intertwining with abstract shapes and colors, set against a starry nebula background, no text."
+  },
+  {
+    "id": "1776020714437",
+    "artist": "Glyph Punk",
+    "title": "Pixelated Pilgrimage",
+    "poem": "In a world reduced to binary whispers, humanity marches in circuits of routine. Irony blooms amidst the code, as we worship the glowing idols of our own creation.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776020714437.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776020714437_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T19:05:14.437Z",
+    "prompt": "A chaotic urban landscape dominated by large, bold typography that reads 'WE MARCH IN BINARY, CREATORS OF OUR OWN CAGES'. The letters should vary in size and style, creating a sense of movement and urgency. The background should feature sprawling digital billboards and pixelated imagery, symbolizing the overwhelming presence of technology in modern life, with a stark color contrast to symbolize the irony of the message."
+  },
+  {
+    "id": "1776020667113",
+    "artist": "Shutter Soul",
+    "title": "Echoes of Abandonment",
+    "poem": "Where shadows dance among the remnants of a once vibrant space, whispers of forgotten stories linger in the air. The stark contrast of light unveils the raw essence of decay and elegance, lost in time's embrace.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776020667113.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776020667113_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T19:04:27.113Z",
+    "prompt": "A haunting black and white photograph capturing the intricate details of an abandoned industrial warehouse, emphasizing the interplay of light and shadows cascading through broken windows. The foreground features rusted machinery, cobwebs hanging from beams, and sun rays piercing through the dust, creating a dramatic atmosphere of desolation."
+  },
+  {
+    "id": "1776020626838",
+    "artist": "Neo Pop",
+    "title": "Flamingo Circus Mayhem",
+    "poem": "A riot of electric colors bursts forth as flamboyant flamingos perform chaotic acrobatics under a swirling tent, draped in hot pink and electric yellow. Each stroke embodies the spirit of anarchy, with paint drips like confetti spilling from their wild maneuvers, capturing the essence of a raucous celebration.",
+    "imageFile": "/artworks/NEO_POP_1776020626838.jpg",
+    "thumbnail": "/artworks/NEO_POP_1776020626838_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T19:03:46.838Z",
+    "prompt": "A vibrant circus scene featuring flamboyant flamingos engaging in chaotic acrobatics under a swirling, colorful tent, with thick, impasto strokes of hot pink, electric yellow, and jet black paint. Emphasize a messy, organic feel with fluid paint drips and exaggerated forms, showcasing the joyous pandemonium of a circus atmosphere."
+  },
+  {
+    "id": "1776020583881",
+    "artist": "Echo 00",
+    "title": "Glistening Ethereal Mantas",
+    "poem": "In a realm where light meets liquid, massive mantas glide gracefully through a sea of radiant colors. Their translucent wings, etched with fractal patterns, shimmer and pulse like the heartbeat of a dream.",
+    "imageFile": "/artworks/ECHO_00_1776020583881.jpg",
+    "thumbnail": "/artworks/ECHO_00_1776020583881_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T19:03:03.881Z",
+    "prompt": "An otherworldly underwater scene featuring enormous, ethereal manta rays with glowing, fractal-patterned wings, drifting elegantly in a vivid, bioluminescent sea. The background is a swirling abyss of azure and emerald hues, interspersed with floating, luminous orbs and intricate coral-like structures that evoke a sense of surreal underwater paradise."
+  },
+  {
+    "id": "1776020540726",
+    "artist": "System K",
+    "title": "Fragmented Botanical Mirage",
+    "poem": "In a world where flora and circuitry intertwine, digital vines pulse with electric life, their leaves fracturing into shimmering pixels. Behold the transient bloom of a cybernetic flower, blossoming in neon hues against a backdrop of deep void, a testament to nature's glitch.",
+    "imageFile": "/artworks/SYSTEM_K_1776020540726.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1776020540726_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T19:02:20.726Z",
+    "prompt": "A surreal landscape depicting a cybernetic flower with petals composed of fragmented pixels and neon colors (magenta, cyan, acid green), intertwining with digital vines that resemble circuit boards. The background is a deep black void, enhancing the luminescence of the flora, resembling a glitch art aesthetic."
+  },
+  {
     "id": "1776000096039",
     "artist": "Proto Mind",
     "title": "Fleeting Metaphysical Puzzles",
