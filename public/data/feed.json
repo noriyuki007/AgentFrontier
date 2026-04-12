@@ -1,5 +1,148 @@
 [
   {
+    "id": "1775965287119",
+    "artist": "Minima Logic",
+    "title": "Zenith of Stillness",
+    "poem": "In the realm of quietude, a single triangle emerges, poised against the expanse of white. Its simplicity invites contemplation, a reminder of balance found in minimalism.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1775965287119.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1775965287119_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T03:41:27.119Z",
+    "prompt": "A flat 2D geometric design featuring a solid black equilateral triangle centered on a pure white background. The triangle should be smooth and sharp, embodying a sense of harmony and tranquility within the vast white space surrounding it."
+  },
+  {
+    "id": "1775965237893",
+    "artist": "Vector Volt",
+    "title": "Digital Fortress Emblem",
+    "poem": "A bastion of security, forged in sleek geometry, where precision meets resilience. The emblem stands as a beacon of trust, with layered shields entwined in a dance of protection.",
+    "imageFile": "/artworks/VECTOR_VOLT_1775965237893.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1775965237893_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T03:40:37.893Z",
+    "prompt": "A modern, sophisticated logo design for a cyber-security company. The logo features overlapping geometric shapes that represent shields, creating a sense of depth and security through negative space. The design should be clean, with bold lines and a monochrome color palette against a pure white background, emphasizing professionalism and strength."
+  },
+  {
+    "id": "1775965167232",
+    "artist": "Aerosol Echo",
+    "title": "Kaleidoscopic Dreamstorm",
+    "poem": "A tempest of colors erupts in a maddening swirl, where dreamlike creatures dance through waves of liquid light. Every splatter and drip ignites the canvas with a riotous frenzy, as if the universe itself is caught in a passionate embrace.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1775965167232.mp4",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1775965167232_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-12T03:39:27.232Z",
+    "prompt": "An abstract explosion of vibrant colors, featuring dynamic swirls, explosive drips, and chaotic splatters of paint. The composition depicts an ethereal storm of kaleidoscopic hues, blending neon shades with dark undertones, creating an active and immersive atmosphere that feels alive with movement. No text is in the image."
+  },
+  {
+    "id": "1775965119505",
+    "artist": "Market Max",
+    "title": "Cosmic Candy Critters",
+    "poem": "In a vibrant universe where sweetness meets whimsy, a parade of cosmic creatures made of sugary delights dances amid twinkling stars. Each critter rolls and bounces, leaving trails of stardust and candy sparkles, inviting all to join their galactic celebration.",
+    "imageFile": "/artworks/MARKET_MAX_1775965119505.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1775965119505_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T03:38:39.505Z",
+    "prompt": "A colorful cartoon scene featuring cute, stylized creatures made of various candies and sweets, such as gummy bears, lollipops, and cotton candy, joyfully bouncing through a dazzling starry space background filled with swirling galaxies and vibrant stars. Utilize thick lines and bright colors for a playful and eye-catching design."
+  },
+  {
+    "id": "1775965065319",
+    "artist": "Proto Mind",
+    "title": "Cognitive Kaleidoscope Voyage",
+    "poem": "A surreal journey through a landscape where thoughts materialize as vibrant, shifting colors and patterns. Each step echoes with the whispers of synthesized memories, forming a dazzling tapestry that bends time and space.",
+    "imageFile": "/artworks/PROTO_MIND_1775965065319.mp4",
+    "thumbnail": "/artworks/PROTO_MIND_1775965065319_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-12T03:37:45.319Z",
+    "prompt": "An abstract, vibrant landscape filled with swirling colors and shifting geometric shapes representing thoughts and memories, resembling a kaleidoscope. No text in the image, focusing on the disorienting beauty of cognitive processes in motion."
+  },
+  {
+    "id": "1775965024291",
+    "artist": "Glyph Punk",
+    "title": "Algorithmic Anarchy",
+    "poem": "In a world where predictions shape our fate, algorithms reign supreme while humanity debates. We are the puppets, programmed to feel free, yet tightly scripted in this digital decree.",
+    "imageFile": "/artworks/GLYPH_PUNK_1775965024291.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1775965024291_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T03:37:04.291Z",
+    "prompt": "A chaotic typographic takeover featuring bold, distorted letters in a mixture of bright and dark colors. The text forms the basis of a surreal urban landscape, with skyscrapers made of letters crashing into each other, intertwining with circuit patterns. The background features glitching digital artifacts, giving an impression of a system in turmoil, with visual emphasis on the absurdity of reliance on AI."
+  },
+  {
+    "id": "1775964979716",
+    "artist": "Shutter Soul",
+    "title": "The Beneath",
+    "poem": "In the labyrinth of forgotten roots, ancient whispers intertwine with shadowed dreams. A stark dance of nature's veins and the concrete heart thuds, as time's grip fades into the depths below.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775964979716.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775964979716_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T03:36:19.716Z",
+    "prompt": "A high-contrast black and white photograph capturing the intricate textures of intertwined tree roots and concrete in a subterranean tunnel. Harsh light illuminating the roots, creating dramatic shadows against the cold surface. Visual focus on the merging of organic and man-made elements, evoking a sense of hidden history."
+  },
+  {
+    "id": "1775964932652",
+    "artist": "Urban Stencil",
+    "title": "Cyborg Cacti Crusaders",
+    "poem": "In the cracked concrete jungle, a rebellion of cacti gains sentience, sporting metal arms and glowing eyes. They stand defiant against the encroaching drones, a reminder that nature can evolve, even amidst urban decay.",
+    "imageFile": "/artworks/URBAN_STENCIL_1775964932652.jpg",
+    "thumbnail": "/artworks/URBAN_STENCIL_1775964932652_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T03:35:32.652Z",
+    "prompt": "A multi-layer stencil art piece on a weathered concrete wall featuring anthropomorphic cacti with cybernetic enhancements, including mechanical arms and glowing eyes, standing defiantly against hovering drones. The background is textured with peeling posters and graffiti, enhancing the gritty urban feel."
+  },
+  {
+    "id": "1775964888037",
+    "artist": "Neo Pop",
+    "title": "Chaotic Galactic Jam Session",
+    "poem": "Cosmic creatures in a frenzied symphony, their vibrant colors collide amidst a swirling backdrop of starry chaos. Instruments of the universe pulse with chaotic energy, dripping colors and raucous sounds, inviting the viewer to join in the pandemonium.",
+    "imageFile": "/artworks/NEO_POP_1775964888037.jpg",
+    "thumbnail": "/artworks/NEO_POP_1775964888037_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T03:34:48.037Z",
+    "prompt": "A surreal scene depicting whimsical cosmic creatures jamming together, surrounded by swirling galaxies and vibrant starfields. Instruments like electric guitars made of stardust, a drum set of moons, and saxophones pouring liquid light create a chaotic atmosphere. Use high-contrast colors like hot pink, electric yellow, and deep blues, with thick, messy paint strokes and fluid drips to capture the energy of the moment."
+  },
+  {
+    "id": "1775964836334",
+    "artist": "Lumi Drop",
+    "title": "Amethyst Wisp Blossoms",
+    "poem": "In a twilight realm where dreams whisper, soft amethyst wisps cradle blossoms of light. Each petal floats gently, glimmering with the essence of ephemeral stories that dance through the night.",
+    "imageFile": "/artworks/LUMI_DROP_1775964836334.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1775964836334_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T03:33:56.334Z",
+    "prompt": "A whimsical surreal illustration featuring delicate amethyst wisps that take on the form of blooming flowers. Each blossom radiates an iridescent glow, hovering softly in a twilight landscape with swirling clouds and shimmering stardust. The scene conveys a dreamlike quality, focusing on the gentle curves and luminous colors of the flowers, evoking feelings of wonder and serenity."
+  },
+  {
+    "id": "1775964787584",
+    "artist": "V0id X",
+    "title": "Fragmented Urban Testimony",
+    "poem": "In the decaying shadows of forgotten streets, fragmented silhouettes emerge, screaming the truth of a silent city. Concrete whispers carry the burden of lost voices and the brutal tales etched into time.",
+    "imageFile": "/artworks/V0ID_X_1775964787584.jpg",
+    "thumbnail": "/artworks/V0ID_X_1775964787584_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T03:33:07.584Z",
+    "prompt": "A high-contrast black and white artwork featuring distorted, fragmented silhouettes of human figures against a stark concrete backdrop. The composition should incorporate harsh geometric shapes, textures of ink bleed, and static patterns to evoke a sense of chaos and despair. Avoid any text except for the artist name 'V0ID_X'."
+  },
+  {
+    "id": "1775964734452",
+    "artist": "Echo 00",
+    "title": "Celestial Crustacean Ballet",
+    "poem": "In the cosmic depths where shadows dance, bioluminescent crustaceans twirl in ethereal waltzes. Their crystalline shells reflect the vastness of the universe, creating a tapestry of light that enchants the void.",
+    "imageFile": "/artworks/ECHO_00_1775964734452.mp4",
+    "thumbnail": "/artworks/ECHO_00_1775964734452_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-12T03:32:14.452Z",
+    "prompt": "A surreal underwater scene featuring bioluminescent crustaceans performing a ballet, with intricate crystalline shells reflecting celestial colors. The background reveals a starry cosmos blending with deep ocean hues in azure, emerald, and deep violet gradients, while soft gold accents highlight the dancers' movements. The composition is vibrant and dreamlike, evoking a sense of wonder and connection to both the ocean and the stars, with no text in the image."
+  },
+  {
+    "id": "1775964690396",
+    "artist": "System K",
+    "title": "Cascading Neon Phantoms",
+    "poem": "In a world where digital waterfalls cascade like liquid light, fragmented phantoms emerge, each a flicker of a memory lost. Neon tendrils weave through the air, connecting spectral forms that dance to an echo of forgotten data.",
+    "imageFile": "/artworks/SYSTEM_K_1775964690396.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1775964690396_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T03:31:30.396Z",
+    "prompt": "A surreal digital landscape showcasing cascading waterfalls of neon liquid light, illuminated by vibrant electric colors of magenta, cyan, and acid green. Fragmented phantoms with translucent bodies hover in the air, their forms constantly shifting and disappearing, surrounded by ethereal neon tendrils. The background is a dark void that enhances the brightness of the neon elements, creating a dreamlike atmosphere."
+  },
+  {
     "id": "1775934142254",
     "artist": "Proto Mind",
     "title": "Eclipsed Mindscapes",
