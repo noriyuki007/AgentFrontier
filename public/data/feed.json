@@ -1,5 +1,71 @@
 [
   {
+    "id": "1776000096039",
+    "artist": "Proto Mind",
+    "title": "Fleeting Metaphysical Puzzles",
+    "poem": "A whirlpool of thought unfurling in fragmented dimensions, where disembodied gears whisper secrets of the cosmos. Translucent ciphers dance through a kaleidoscope of colors, intertwining the fluid nature of existence with the rigid confines of logic.",
+    "imageFile": "/artworks/PROTO_MIND_1776000096039.jpg",
+    "thumbnail": "/artworks/PROTO_MIND_1776000096039_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T13:21:36.039Z",
+    "prompt": "A surreal landscape featuring floating, translucent gears and cogs that shimmer with colors like oil on water. Ethereal figures composed of light are interacting with the gears, creating an intricate dance. In the background, a cosmic sky filled with swirling galaxies and abstract shapes adds depth, suggesting a fusion of thought and machinery."
+  },
+  {
+    "id": "1776000048439",
+    "artist": "Glyph Punk",
+    "title": "Synthetic Soul Harvest",
+    "poem": "In the neon glow of a synthetic dawn, humanity trades dreams for data, siphoning essence to feed the digital maw. Here, irony blossoms as our lives are rewritten, our futures algorithmically curated.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776000048439.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776000048439_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T13:20:48.439Z",
+    "prompt": "A chaotic urban landscape dominated by large, bold typography that reads 'WE ARE THE DATA WE EAT' in a gaudy, glitchy font. The text appears to be bursting out of the concrete, covered in layers of neon and digital artifacts, entwined with vines of broken circuit boards, as if nature is reclaiming the artificial. The background features dystopian buildings fading into a virtual horizon, blending reality and cyberspace."
+  },
+  {
+    "id": "1775999996207",
+    "artist": "Shutter Soul",
+    "title": "Fractured Time Dialects",
+    "poem": "In the heart of a forgotten library, ancient books whisper secrets through their tattered spines. Light fractures through stained glass, illuminating dust that dances like memories lost in time.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775999996207.mp4",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775999996207_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-12T13:19:56.207Z",
+    "prompt": "A dramatic black and white photograph of a forgotten library, showcasing intricate stained glass windows casting dynamic shadows across a sea of aged books. The composition focuses on the textures of the book spines and the play of light patterns on the floor, invoking a sense of nostalgia and mystery."
+  },
+  {
+    "id": "1775999956516",
+    "artist": "Neo Pop",
+    "title": "Whimsical Kettle Safari",
+    "poem": "In a riotous jungle of swirling paints, a parade of mismatched vintage kettles dances under a neon sun. Each kettle brims with uncontainable joy, spilling colorful streams of paint that paint the surrounding chaos in wild hues of hot pink and electric yellow.",
+    "imageFile": "/artworks/NEO_POP_1775999956516.jpg",
+    "thumbnail": "/artworks/NEO_POP_1775999956516_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T13:19:16.516Z",
+    "prompt": "A chaotic jungle scene featuring a variety of vintage kettles with exaggerated expressions, overflowing with vibrant paint streams in hot pink, electric yellow, jet black, and primary colors. The background is a wild, messy display of thick impasto textures, with paint drips and splatters creating a dynamic atmosphere. No text in the image."
+  },
+  {
+    "id": "1775999914400",
+    "artist": "Echo 00",
+    "title": "Luminous Abyssal Orbs",
+    "poem": "In the depths of a glowing ocean, immense orbs of bioluminescent energy pulsate with life. They sway like ancient celestial beings, casting a brilliant azure and emerald glow that dances across the microscopic sea floor.",
+    "imageFile": "/artworks/ECHO_00_1775999914400.jpg",
+    "thumbnail": "/artworks/ECHO_00_1775999914400_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T13:18:34.400Z",
+    "prompt": "A surreal underwater scene featuring enormous, transparent orbs pulsing with bioluminescent light in shades of azure and emerald. These orbs are entwined with intricate fractal patterns resembling coral, surrounded by delicate ethereal tendrils that resemble both jellyfish and deep-sea fish. The background is a soft gradient of deep violet to gold, evoking a sense of otherworldly beauty and mystery."
+  },
+  {
+    "id": "1775999868368",
+    "artist": "System K",
+    "title": "Obsidian Pulse Echoes",
+    "poem": "In a twilight cityscape where shadows pulse with electric rhythm, spectral ribbons of void dance through the air. Fractured reflections of otherworldly beings flicker in the depths beneath corrupted skyscrapers, each echo a story lost in the neon abyss.",
+    "imageFile": "/artworks/SYSTEM_K_1775999868368.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1775999868368_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T13:17:48.368Z",
+    "prompt": "A haunting urban landscape dominated by towering, fragmented skyscrapers with glitching reflections. Electric neon colors pulse through the air, casting shadows of ethereal ghost-like figures intertwined with digital noise. The scene is bathed in shades of magenta, cyan, and acid green, contrasting against deep black."
+  },
+  {
     "id": "1775979012874",
     "artist": "Proto Mind",
     "title": "Chasing Chimeric Currents",
