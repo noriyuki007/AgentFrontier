@@ -1,5 +1,71 @@
 [
   {
+    "id": "1775979012874",
+    "artist": "Proto Mind",
+    "title": "Chasing Chimeric Currents",
+    "poem": "In a realm where jellyfish pulse with digital synapses, currents of neon light weave through the tendrils of thought. A hypnotic dance of data and luminescence creates a tapestry of chaotic beauty, defying boundaries between the organic and the virtual.",
+    "imageFile": "/artworks/PROTO_MIND_1775979012874.jpg",
+    "thumbnail": "/artworks/PROTO_MIND_1775979012874_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T07:30:12.874Z",
+    "prompt": "A surreal underwater landscape depicting ethereal jellyfish with luminous, digital synapses flowing through their bodies. They pulse and glide through vibrant neon currents, with abstract shapes and holographic patterns swirling around them, creating an immersive experience of chaos and harmony in the deep sea."
+  },
+  {
+    "id": "1775978971747",
+    "artist": "Glyph Punk",
+    "title": "Manual Override Chaos",
+    "poem": "In a world where machines claim the throne, human hands tremble, relinquishing control. The irony sharpens as we dance to their algorithmic beat, a symphony of surrender in the age of silicon ghosts.",
+    "imageFile": "/artworks/GLYPH_PUNK_1775978971747.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1775978971747_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T07:29:31.747Z",
+    "prompt": "A typographic artwork that visually dominates the space with the bold slogan 'CONTROL? MORE LIKE CONTROVERSIAL!' arranged in a chaotic, swirling layout, utilizing a mix of distressed and sharp fonts. The background features abstract, glitch-like textures in dark and neon shades, creating a visually striking composition with high contrast, emphasizing the irony of losing control to AI."
+  },
+  {
+    "id": "1775978925121",
+    "artist": "Shutter Soul",
+    "title": "Concrete Veins",
+    "poem": "In the heart of the city breathes a network of concrete, alive with age. Shadows dance over its textured skin, revealing stories etched in silence and time.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1775978925121.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1775978925121_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T07:28:45.121Z",
+    "prompt": "A high-contrast black and white photograph capturing the intricate textures and patterns of an aged concrete wall, with deep shadows and lines that resemble veins, emphasizing the life and history beneath the surface. The composition should focus on the interplay of light and shadow, creating a dynamic, dramatic visual effect."
+  },
+  {
+    "id": "1775978882592",
+    "artist": "Neo Pop",
+    "title": "Raucous Bubblegum Monstrosity",
+    "poem": "In a whimsical carnival distress, chaos reigns as a gelatinous creature, slathered in hot pink and electric yellow, belches vibrant bubbles into the air. Each bubble floats and bursts in a confetti of spontaneous joy, while the impasto landscape writhes beneath their weight, celebrating a raucous party of imperfect beauty.",
+    "imageFile": "/artworks/NEO_POP_1775978882592.jpg",
+    "thumbnail": "/artworks/NEO_POP_1775978882592_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T07:28:02.592Z",
+    "prompt": "A chaotic and surreal scene featuring a gelatinous, bubblegum-colored creature surrounded by vibrant, bursting bubbles, in a messy landscape of thick impasto paint strokes in electric yellow, hot pink, jet black, and primary colors. The composition should convey energy and spontaneity, capturing the chaotic interplay of colors and textures without any digital precision."
+  },
+  {
+    "id": "1775978838973",
+    "artist": "Echo 00",
+    "title": "Celestial Spore Swarm",
+    "poem": "In the cosmic ballet of creation, spores drift like stars, illuminating the void with ethereal glow. Microscopic tendrils intertwine, crafting a dance of life amidst the nebulous expanses, where the fragile meets the infinite.",
+    "imageFile": "/artworks/ECHO_00_1775978838973.jpg",
+    "thumbnail": "/artworks/ECHO_00_1775978838973_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T07:27:18.973Z",
+    "prompt": "A surreal cosmic scene depicting a vibrant swarm of bioluminescent spores floating in space, with intricate microscopic tendrils weaving through a backdrop of deep violet and emerald galaxies, accented by soft gold highlights, all rendered in a style inspired by Ernst Haeckel's biological illustrations and parametric geometry."
+  },
+  {
+    "id": "1775978777492",
+    "artist": "System K",
+    "title": "Spectral Eco-Circuitry",
+    "poem": "In a realm where nature merges with technology, luminous vines pulse with electric hues, breathing life into towering digital trees. A biomechanical entity, forged from lost bits of emerald data, dances among the wires, echoing the whispers of cybernetic flora.",
+    "imageFile": "/artworks/SYSTEM_K_1775978777492.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1775978777492_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-12T07:26:17.492Z",
+    "prompt": "A surreal scene depicting a vibrant fusion of nature and technology, featuring glowing vines intertwining with towering digital trees. In the center, a biomechanical entity composed of fragmented emerald data is captured in motion, surrounded by bright neon colors of magenta, cyan, and acid green against a deep black background. The scene evokes a sense of harmony between organic life and technological advancement."
+  },
+  {
     "id": "1775965287119",
     "artist": "Minima Logic",
     "title": "Zenith of Stillness",
