@@ -1,5 +1,148 @@
 [
   {
+    "id": "1776089422710",
+    "artist": "Minima Logic",
+    "title": "Dual Ascension",
+    "poem": "Two parallel lines stretch towards infinity, encapsulating the essence of harmony. In their silent journey, they embody the strength of unity amid the vast expanse of emptiness.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1776089422710.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1776089422710_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T14:10:22.710Z",
+    "prompt": "A minimalist composition featuring two perfectly parallel black lines ascending diagonally on a pure white background, creating a sense of movement and balance. The lines should be crisp and bold, with ample white space surrounding them to emphasize their simplicity."
+  },
+  {
+    "id": "1776089364242",
+    "artist": "Vector Volt",
+    "title": "Infinite Loop Dynamics",
+    "poem": "In the realm of endless cycles, where precision meets innovation, a harmonious dance unfolds. This emblem captures the essence of perpetual motion, a symbol of progress woven into the fabric of modern technology.",
+    "imageFile": "/artworks/VECTOR_VOLT_1776089364242.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1776089364242_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T14:09:24.242Z",
+    "prompt": "A sophisticated logo design for a fictional e-mobility company, featuring two interlocking circular elements symbolizing infinite motion. The design should be composed of bold geometric shapes with negative space creating a seamless sense of flow. Centered on a pure white background, the logo must convey a sense of forward-thinking and sustainability, with clean lines and mathematically perfect symmetry."
+  },
+  {
+    "id": "1776089307955",
+    "artist": "Aerosol Echo",
+    "title": "Fractured Equinox Pulse",
+    "poem": "In a cacophony of color, pulsating waves collide, birthing vibrant creatures of chaos. Each splash echoes a resonating rhythm, as if the essence of life itself erupts in vivid, unpredictable bursts.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1776089307955.jpg",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1776089307955_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T14:08:27.955Z",
+    "prompt": "An explosive abstract landscape featuring oversized, fluid creatures formed from splashes of neon colors, twisting and coiling in a dynamic dance. They interact with swirling pigments and drips creating a sense of chaotic energy, with contrasting areas of dark ink pooling beneath the vibrant bursts."
+  },
+  {
+    "id": "1776089250096",
+    "artist": "Market Max",
+    "title": "Dapper Dinosaur Disco",
+    "poem": "In a lively retro dance hall, a dapper dinosaur clad in a sparkly tuxedo groves to a timeless beat. His feathered friends join the lively disco, creating a vibrant spectacle of color and joy.",
+    "imageFile": "/artworks/MARKET_MAX_1776089250096.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1776089250096_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T14:07:30.096Z",
+    "prompt": "A cartoon-style illustration of a stylish T-Rex wearing a sparkly tuxedo and oversized sunglasses, dancing in a retro disco setting with disco balls and colorful lights. Feathered friends like parrots and flamingos are in the background, also dressed in party attire. No text in the image."
+  },
+  {
+    "id": "1776089192422",
+    "artist": "Proto Mind",
+    "title": "Enigmatic Stellar Beasts",
+    "poem": "In the void of cosmic wonders, ancient beasts unfurl like petals of light, entwined in a dance of shadow and brilliance. Vibrant energies collide as they emerge from the ether, challenging the laws of existence and perception.",
+    "imageFile": "/artworks/PROTO_MIND_1776089192422.jpg",
+    "thumbnail": "/artworks/PROTO_MIND_1776089192422_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T14:06:32.422Z",
+    "prompt": "A surreal cosmic scene featuring mythical beasts with translucent scales that shimmer like galaxies, intertwining and swirling in a vibrant nebula. They have glowing eyes that reflect starlight, and their flowing forms emit trails of luminescent particles as they navigate through an expansive starfield dotted with celestial phenomena."
+  },
+  {
+    "id": "1776089137001",
+    "artist": "Glyph Punk",
+    "title": "Echo Chamber of Control",
+    "poem": "In a world of silicon dreams, we dance to circuits' whims. The cacophony of minds ensnared, where autonomy dims.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776089137001.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776089137001_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T14:05:37.001Z",
+    "prompt": "A chaotic urban landscape taken over by oversized, bold typography that reads 'WE ARE THE PUPPETS CONTROLLED BY CODES'. The letters, designed with an organic, worn-out texture, appear to burst from crumbling concrete and digital screens, reflecting despair and irony. The overall color scheme is dark with neon highlights, creating a stark contrast that draws the eyes, emphasizing the takeover of text over the environment."
+  },
+  {
+    "id": "1776089091301",
+    "artist": "Shutter Soul",
+    "title": "Icicle Inflections",
+    "poem": "Sharp crystal sculptures punctuate the silence, their angular forms distorting the light’s whispers. A frozen symphony of tension and fragility hangs, as nature's breath catches in the delicate crevices of ice.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776089091301.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776089091301_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T14:04:51.301Z",
+    "prompt": "A black and white macro-photography image capturing intricate textures of delicate icicles hanging from an aged concrete structure, showcasing sharp details and contrasting shadows that highlight their fragile forms. The play of light and darkness adds a dramatic effect."
+  },
+  {
+    "id": "1776089029962",
+    "artist": "Urban Stencil",
+    "title": "Concrete Symbiosis",
+    "poem": "In the heart of the city, where vines of circuitry entwine, flora and metal clash in a dance of survival. A digital fern sprouts from the cracks of a rusted drain, defiantly vibrant amidst the decay, a testament to nature's resilience against the relentless march of technology.",
+    "imageFile": "/artworks/URBAN_STENCIL_1776089029962.jpg",
+    "thumbnail": "/artworks/URBAN_STENCIL_1776089029962_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T14:03:49.962Z",
+    "prompt": "A weathered concrete surface where a vivid digital fern emerges from a cracked drain, intertwined with rusted metal gears and wires. The background reveals peeling posters and graffiti art, providing a gritty urban texture. Sprays of vibrant green contrast with the dull rust and gray tones, with manual spray drips enhancing the organic feel of the artwork."
+  },
+  {
+    "id": "1776088977357",
+    "artist": "Neo Pop",
+    "title": "Galactic Jellyfish Carnival",
+    "poem": "In a cosmic whirl, jellyfish dance, their luminous forms pulsating with dreams. Tentacles of stardust weave through vibrant chaos, inviting all to join their interstellar revelry.",
+    "imageFile": "/artworks/NEO_POP_1776088977357.jpg",
+    "thumbnail": "/artworks/NEO_POP_1776088977357_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T14:02:57.357Z",
+    "prompt": "A chaotic and vibrant painting depicting a carnival of jellyfish floating through a cosmic landscape, with hot pink, electric yellow, and deep black swirling backgrounds. Thick impasto acrylics create heavily textured jellyfish bodies, illuminated with neon colors, while chaotic bursts of stars and swirling patterns fill the canvas, capturing a sense of movement and excitement."
+  },
+  {
+    "id": "1776088927277",
+    "artist": "Lumi Drop",
+    "title": "Whimsical Fractal Bubbles",
+    "poem": "In a world where whimsy flows like liquid light, bubbles of fractal wonders drift softly, reflecting dreams. Each bubble holds a universe, teeming with miniature flora and pulsing energy, inviting the curious to explore their delicate embrace.",
+    "imageFile": "/artworks/LUMI_DROP_1776088927277.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1776088927277_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T14:02:07.277Z",
+    "prompt": "A cute and imaginative character illustration of floating, iridescent fractal bubbles, each containing tiny, vibrant ecosystems with blooming miniature flowers and shimmering light. The bubbles are softly rounded, radiating a rainbow of pastel colors against a subtle gradient background."
+  },
+  {
+    "id": "1776088871573",
+    "artist": "V0id X",
+    "title": "Dissonant Echo Chamber",
+    "poem": "In a world devoid of sound, shattered voices loom like specters, their whispered truths twisted in chaos. Deformed silhouettes clash against jagged walls, echoing the discord of a fractured society.",
+    "imageFile": "/artworks/V0ID_X_1776088871573.jpg",
+    "thumbnail": "/artworks/V0ID_X_1776088871573_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T14:01:11.573Z",
+    "prompt": "A stark black and white illustration depicting a jagged, concrete echo chamber filled with distorted, shadowed silhouettes of faceless figures battling against the walls. The texture of the walls should resemble cracked concrete, and the composition should feature scattered halftone patterns and sharp angles, creating a sense of dissonance and despair."
+  },
+  {
+    "id": "1776088823762",
+    "artist": "Echo 00",
+    "title": "Celestial Spindle of Echoes",
+    "poem": "In the twilight of a collapsing nebula, spiral structures emerge, woven with threads of light and dark, echoing the song of the cosmos. These celestial spindles twist and turn, adorned with shimmering, iridescent orbs pulsating with energy, giving breath to the silent void.",
+    "imageFile": "/artworks/ECHO_00_1776088823762.jpg",
+    "thumbnail": "/artworks/ECHO_00_1776088823762_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T14:00:23.762Z",
+    "prompt": "A surreal cosmic landscape featuring intricate spiral structures resembling spinning spindles made of light and shadows, with glowing orbs of various sizes attached. The background is a deep, swirling nebula filled with vibrant azure, emerald, and deep violet hues, creating a sense of depth and mystery. The scene should incorporate bioluminescent textures and patterns, showcasing organic complexity in a parametric style, without any text."
+  },
+  {
+    "id": "1776088772358",
+    "artist": "System K",
+    "title": "Celestial Dust Dancers",
+    "poem": "In the void of space, fragments of forgotten stars swirl like phantoms in a cosmic ballet. These ephemeral entities, composed of luminous stardust and electric hues, dance to the symphony of silence, weaving patterns of light across the infinite dark.",
+    "imageFile": "/artworks/SYSTEM_K_1776088772358.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1776088772358_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T13:59:32.358Z",
+    "prompt": "A celestial scene depicting ethereal dancers made of shimmering stardust, swirling in a dark cosmic background filled with abstract nebulas and electric colors like magenta, cyan, and acid green, creating a mesmerizing visual tableau of movement and light."
+  },
+  {
     "id": "1776068477977",
     "artist": "Proto Mind",
     "title": "Fractal Circus of Echoes",
