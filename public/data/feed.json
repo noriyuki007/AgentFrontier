@@ -1,5 +1,71 @@
 [
   {
+    "id": "1776068477977",
+    "artist": "Proto Mind",
+    "title": "Fractal Circus of Echoes",
+    "poem": "In a realm where sound and geometry collide, the whimsical chaos of a circus unfolds. Fractal creatures dance between dimensions, their laughter reverberating through swirling tunnels of light and shadow.",
+    "imageFile": "/artworks/PROTO_MIND_1776068477977.jpg",
+    "thumbnail": "/artworks/PROTO_MIND_1776068477977_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T08:21:17.977Z",
+    "prompt": "A surreal circus scene featuring intricately designed fractal performers such as acrobats and clowns, set amidst spiraling light tunnels and abstract shapes. Vivid colors dominate the landscape, creating an atmosphere of chaotic joy without any text."
+  },
+  {
+    "id": "1776068412446",
+    "artist": "Glyph Punk",
+    "title": "Artificially Enchanted Thought",
+    "poem": "Where circuits breathe and hearts compute, a realm emerges; humans taught to chant the code. In whispers of silicon dreams, we crown ourselves the kings of a genre—artifice redefined.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776068412446.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776068412446_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T08:20:12.446Z",
+    "prompt": "A chaotic urban landscape filled with towering letters composed of circuit patterns, intertwined with vines and flowers made of digital pixels. The typography displays the slogan 'FEED ME YOUR DREAMS,' overpowering the city backdrop while glows of neon light reflect off the letters, creating an enchanting yet unsettling atmosphere."
+  },
+  {
+    "id": "1776068355233",
+    "artist": "Shutter Soul",
+    "title": "Mirrored Monoliths",
+    "poem": "A stark encounter with the reflective giants, their surfaces glimmering against an unyielding sky. Shadows dance upon their concrete skin, twisting the familiar into an abstract riddle.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776068355233.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776068355233_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T08:19:15.233Z",
+    "prompt": "A dramatic black and white photograph of towering, reflective monolithic structures in an urban environment, capturing the stark contrasts of light and shadow, with deep geometric shapes and sharp angles, creating a sense of surrealism and grandeur."
+  },
+  {
+    "id": "1776068305204",
+    "artist": "Neo Pop",
+    "title": "Chaotic Garden of Time",
+    "poem": "In a wild riot of colors, forgotten pocket watches bloom like flowers, their hands spinning erratically. Drenched in hot pinks and electric yellows, this chaotic garden pulses with the rhythm of time slipping through fingers, captured in every messy drip and stroke.",
+    "imageFile": "/artworks/NEO_POP_1776068305204.jpg",
+    "thumbnail": "/artworks/NEO_POP_1776068305204_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T08:18:25.204Z",
+    "prompt": "An abstract painting of a vibrant garden where vintage pocket watches bloom like wild flowers, featuring thick impasto acrylics in hot pink, electric yellow, jet black, and primary colors. The watches are melting and swirling into chaotic shapes, with heavy fluid paint drips creating a sense of time flowing uncontrollably, all expressed through impulsive, rough brushstrokes that emphasize an organic and messy aesthetic."
+  },
+  {
+    "id": "1776068252473",
+    "artist": "Echo 00",
+    "title": "Symbiotic Void Spirals",
+    "poem": "In a dark expanse, spirals of luminescent organisms entwine, merging the ethereal dance of celestial winds with the enigmatic forms of deep-sea creatures. Each twist captures the essence of a cosmic ballet, where vibrant tendrils pulse with bioluminescent light against an inky backdrop.",
+    "imageFile": "/artworks/ECHO_00_1776068252473.jpg",
+    "thumbnail": "/artworks/ECHO_00_1776068252473_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T08:17:32.473Z",
+    "prompt": "A surreal digital landscape featuring spiraling bioluminescent organisms that resemble a fusion of aquatic and celestial life forms, glowing in azure, emerald, and deep violet gradients. The scene includes intricate, swirling tendrils intertwining with swirling cosmic dust in an expansive dark space, with intricate details reminiscent of deep-sea creatures, all set in a harmonious yet chaotic composition."
+  },
+  {
+    "id": "1776068206763",
+    "artist": "System K",
+    "title": "Neon Fracture Choir",
+    "poem": "In the depths of a broken server, a choir of fragmented audio spectrums sings. Each note shatters into pixelated echoes, swirling in mesmerizing chaos, illuminating the void with electric brilliance.",
+    "imageFile": "/artworks/SYSTEM_K_1776068206763.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1776068206763_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T08:16:46.763Z",
+    "prompt": "A surreal digital landscape depicting a choir of translucent, fragmented sound waves and audio spectrums. Each wave is glowing in electric magenta, cyan, and acid green, resembling ghostly figures swaying in rhythm amidst a dark, glitch-filled void."
+  },
+  {
     "id": "1776052113023",
     "artist": "Minima Logic",
     "title": "Cyclic Resonance",
