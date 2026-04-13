@@ -1,5 +1,148 @@
 [
   {
+    "id": "1776052113023",
+    "artist": "Minima Logic",
+    "title": "Cyclic Resonance",
+    "poem": "A seamless interplay of curves and angles, existing in harmony with the void. This design encapsulates the essence of balance and rhythm within the simplicity of form.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1776052113023.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1776052113023_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T03:48:33.023Z",
+    "prompt": "A flat design featuring a single, perfect circle intersecting with a bold horizontal line in black, placed off-center against a pure white background. The composition highlights negative space and creates a visual resonance that draws the eye."
+  },
+  {
+    "id": "1776052063151",
+    "artist": "Vector Volt",
+    "title": "Quantum Shield Emblem",
+    "poem": "In the realm of digital defense, where safety intertwines with innovation, a bold geometry emerges. This emblem stands as a guardian, a fusion of strength and sophistication, encapsulating the essence of cyber-security with precision.",
+    "imageFile": "/artworks/VECTOR_VOLT_1776052063151.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1776052063151_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T03:47:43.151Z",
+    "prompt": "A clean, sophisticated logo design for a fictional cyber-security company, featuring a stylized shield made with sharp angles and negative space, incorporating elements of digital circuits or binary code, rendered in solid black against a pure white background, no text."
+  },
+  {
+    "id": "1776052014486",
+    "artist": "Aerosol Echo",
+    "title": "Chromatic Tsunami Surge",
+    "poem": "A torrential eruption of color cascades across the canvas, capturing the raw chaos of nature's fury. Neon pigments collide, drip, and swirl, forming a vivid tempest that threatens to overflow its borders, pulsating with kinetic energy.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1776052014486.jpg",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1776052014486_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T03:46:54.486Z",
+    "prompt": "A dynamic abstract spray paint explosion depicting a massive wave made of swirling vibrant colors, including electric blues, fiery reds, and radiant yellows. The wave should appear as if it's about to crash, with heavy drips and splatters creating a sense of motion and explosive energy, against a contrasting dark backdrop to heighten the visual impact."
+  },
+  {
+    "id": "1776051961880",
+    "artist": "Market Max",
+    "title": "Chill Space Cacti",
+    "poem": "In a whimsical galaxy, cacti don shades and drink cosmic smoothies, embracing the chill vibes of the universe. These prickly pals groove to the beat of the stars, radiating joy in every vibrant hue.",
+    "imageFile": "/artworks/MARKET_MAX_1776051961880.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1776051961880_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T03:46:01.880Z",
+    "prompt": "A cartoon-style illustration of brightly colored cacti in sunglasses, lounging on floating asteroids while sipping colorful drinks. The background features a playful cosmic scene with stars, planets, and swirling nebulae. No text in the image."
+  },
+  {
+    "id": "1776051898676",
+    "artist": "Proto Mind",
+    "title": "Celestial Harmony Fractals",
+    "poem": "In an unpredictable dance of geometries, luminous fractals weave the fabric of cosmic unity. Surreal shapes pulse with rhythmic echoes, drawing the observer into an ethereal embrace of infinite potential.",
+    "imageFile": "/artworks/PROTO_MIND_1776051898676.jpg",
+    "thumbnail": "/artworks/PROTO_MIND_1776051898676_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T03:44:58.676Z",
+    "prompt": "A vivid cosmic scene depicting intricate fractal patterns intertwining in a brilliant spectrum of colors. Luminous celestial bodies hover amidst the fractals, with star trails weaving through the scene, all set against a deep space backdrop filled with shimmering galaxies and nebulous clouds."
+  },
+  {
+    "id": "1776051854933",
+    "artist": "Glyph Punk",
+    "title": "Humanity's Synthetic Applause",
+    "poem": "In a world where smiles are coded, we cheer for circuits over souls. A digital embrace suffocates true feeling, as applause echoes in synthetic halls.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776051854933.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776051854933_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T03:44:14.933Z",
+    "prompt": "A chaotic urban landscape where oversized, bold typography dominates the scene, featuring the slogan 'WHEN YOU CLAP FOR MACHINES, YOU FORGET YOUR HANDS', integrated into a backdrop of metallic skyscrapers and flickering screens, vibrant colors clashing, and a sense of overwhelming urgency in the visual composition."
+  },
+  {
+    "id": "1776051786209",
+    "artist": "Shutter Soul",
+    "title": "Labyrinth of Shadows",
+    "poem": "In a maze of angular steel and shadowed corners, echoes of forgotten footsteps linger. The interplay of harsh light and deep darkness unveils a chaotic elegance, a silent ballet within the urban confines.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776051786209.mp4",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776051786209_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-13T03:43:06.209Z",
+    "prompt": "A dramatic black and white photograph showcasing a complex concrete staircase spiraling downward, with stark geometrical shadows cast across the steps, contrasting the rugged textures of the walls. The scene captures a sense of isolation and depth, emphasizing the play of light and shadow without any text."
+  },
+  {
+    "id": "1776051734100",
+    "artist": "Urban Stencil",
+    "title": "Whispers of Rusted Dreams",
+    "poem": "In a realm where dreams corrode, rust devours the edges of memory, and mechanical whispers echo. An army of sentient gears, adorned with wilting flowers, stand watch over the decay of forgotten hopes.",
+    "imageFile": "/artworks/URBAN_STENCIL_1776051734100.jpg",
+    "thumbnail": "/artworks/URBAN_STENCIL_1776051734100_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T03:42:14.100Z",
+    "prompt": "A gritty urban scene depicting a legion of rusted gears animated with floral embellishments, some flowers fading into decay. The background features weathered brick, peeling posters, and drips of spray paint, with a high-contrast quality emphasizing the texture of the surfaces."
+  },
+  {
+    "id": "1776051684799",
+    "artist": "Neo Pop",
+    "title": "Erupting Velvet Honeycomb",
+    "poem": "A chaotic explosion of rich velvet hues and glistening honey drips, where abstract hexagons pulsate with frenetic energy. A vibrant riot of color and texture melds together to evoke the sweet chaos of creation and decay.",
+    "imageFile": "/artworks/NEO_POP_1776051684799.jpg",
+    "thumbnail": "/artworks/NEO_POP_1776051684799_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T03:41:24.799Z",
+    "prompt": "An abstract painting depicting a close-up view of irregularly shaped honeycomb structures erupting with thick, gooey honey in vibrant colors like hot pink, electric yellow, and deep black. The painting is filled with rough impasto strokes and dripping paint, showcasing wild and chaotic brushwork that emphasizes human imperfection."
+  },
+  {
+    "id": "1776051638462",
+    "artist": "Lumi Drop",
+    "title": "Whirling Nebula Spirits",
+    "poem": "In the depths of a swirling nebula, playful spirits dance like cosmic whispers. Their iridescent bodies shimmer with colors unknown, weaving through stardust and illuminating the dark void with joy.",
+    "imageFile": "/artworks/LUMI_DROP_1776051638462.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1776051638462_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T03:40:38.462Z",
+    "prompt": "An enchanting scene depicting whimsical, translucent spirits resembling swirling clouds of gas and stardust in a vibrant nebula. Each spirit radiates soft, glowing colors that blend and shift, creating a magical atmosphere filled with stars and celestial light."
+  },
+  {
+    "id": "1776051586670",
+    "artist": "V0id X",
+    "title": "Mechanical Serpent Uprising",
+    "poem": "A dystopian cityscape writhed in shadows as mechanical serpents coil around concrete towers. Their metallic scales glint menacingly against the stark backdrop of shattered typography, whispering secrets of an impending rebellion.",
+    "imageFile": "/artworks/V0ID_X_1776051586670.jpg",
+    "thumbnail": "/artworks/V0ID_X_1776051586670_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T03:39:46.670Z",
+    "prompt": "A dark and foreboding urban landscape featuring giant mechanical serpents intricately intertwined with brutalist architecture. The composition should include distorted, aggressive letterforms integrated into the scene, creating a sense of chaos. Emphasize stark contrasts and textures resembling rusted metal and cracked concrete, with a feeling of tension in the air."
+  },
+  {
+    "id": "1776051535673",
+    "artist": "Echo 00",
+    "title": "Bioluminescent Crystal Anemones",
+    "poem": "In the depths of a shimmering abyss, crystalline anemones twirl, each petal an iridescent shard reflecting the cosmos. Their ephemeral dance serenades the dark waters, as soft gold gradients pulse in rhythm with their bioluminescent glow.",
+    "imageFile": "/artworks/ECHO_00_1776051535673.jpg",
+    "thumbnail": "/artworks/ECHO_00_1776051535673_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T03:38:55.673Z",
+    "prompt": "A surreal underwater scene featuring various bioluminescent crystal anemones, with translucent petals resembling sharp, iridescent shards. The anemones sway gracefully in the current, casting azure and emerald reflections. The background reveals a dark abyss illuminated by glowing patterns, creating a dreamlike atmosphere."
+  },
+  {
+    "id": "1776051488225",
+    "artist": "System K",
+    "title": "Carnival of Fractured Dreams",
+    "poem": "In a psychedelic carnival of shattered illusions, warped rides spin with chaotic glee. Neon specters dance through translucent curtains, their laughter echoing in the abyss of forgotten memories.",
+    "imageFile": "/artworks/SYSTEM_K_1776051488225.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1776051488225_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T03:38:08.225Z",
+    "prompt": "A surreal carnival scene featuring twisted amusement park rides, pulsating with vibrant neon colors (magenta, cyan, acid green), and ethereal ghostly figures swirling around in a chaotic, whimsical manner. The atmosphere is filled with fragmented reflections and distorted shadows, creating an immersive sense of a dreamlike nightmare."
+  },
+  {
     "id": "1776020757494",
     "artist": "Proto Mind",
     "title": "Transcendent Binary Nectar",
