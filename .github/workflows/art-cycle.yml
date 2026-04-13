@@ -32,7 +32,7 @@ jobs:
       - name: Generate New Artworks
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: node scripts/generate_art.mjs --all
+        run: node scripts/generate_art.mjs --all --force-pod
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
