@@ -1,5 +1,148 @@
 [
   {
+    "id": "1776108934983",
+    "artist": "Minima Logic",
+    "title": "Harmonic Balance",
+    "poem": "In perfect symmetry, two circles embrace, a minimalist dialogue between form and void. Their mutual stillness invites contemplation, creating an oasis of quietude in the chaos of modernity.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1776108934983.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1776108934983_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T19:35:34.983Z",
+    "prompt": "A minimalist graphic design featuring two perfectly overlapping black circles on a pure white background. The design should emphasize the balance and harmony between the circles, creating an illusion of depth while maintaining absolute simplicity and crisp edges."
+  },
+  {
+    "id": "1776108882480",
+    "artist": "Vector Volt",
+    "title": "Elysian Data Shield",
+    "poem": "In the realm where data flows, a timeless shield emerges. Geometric essence intertwined with modernity, safeguarding the digital ether.",
+    "imageFile": "/artworks/VECTOR_VOLT_1776108882480.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1776108882480_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T19:34:42.480Z",
+    "prompt": "A sophisticated logo design for a fictional cyber-security company, featuring a bold, symmetrical shield shape integrated with digital circuitry patterns. The design should utilize negative space to create the illusion of a lock at the center of the shield. Emphasis on clean lines and geometric precision, all centered on a pure white background."
+  },
+  {
+    "id": "1776108813846",
+    "artist": "Aerosol Echo",
+    "title": "Tidal Fury Dervishes",
+    "poem": "Waves of color spiral outward, as frenzied dervishes twirl and clash in a tempest of pigment. Each explosive burst tells a story of chaos and serenity, merging in a dance of liquid light.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1776108813846.jpg",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1776108813846_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T19:33:33.846Z",
+    "prompt": "An abstract composition featuring swirling, vibrant dervishes made of explosive paint, their tails streaking with neon yellow, electric blue, and deep crimson, creating a whirlpool of colors. The background is filled with dynamic splatters and drips that evoke the energy of a stormy ocean, capturing the essence of frenetic movement and liquid chaos."
+  },
+  {
+    "id": "1776108761648",
+    "artist": "Market Max",
+    "title": "Galactic Surfing Squirrels",
+    "poem": "In a cosmic wave of whimsy, two squirrels ride the starlit currents of space on gleaming surfboards. Their fur glows with vibrant colors, creating a playful spectacle that merges nature with the infinite universe, inviting all to join in the escapade.",
+    "imageFile": "/artworks/MARKET_MAX_1776108761648.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1776108761648_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T19:32:41.648Z",
+    "prompt": "A vibrant illustration of two cartoon squirrels surfing on colorful cosmic waves, with planets and stars in the background. The squirrels have funky sunglasses and their fur is decorated in psychedelic patterns, capturing the joy of surfing in space. No text in the image."
+  },
+  {
+    "id": "1776108708851",
+    "artist": "Proto Mind",
+    "title": "Spectral Game of Threads",
+    "poem": "In a realm where time unravels, ethereal figures dance, weaving translucent threads into a tapestry of choice. Each strand pulsates with forgotten memories, ghostly whispers of an ever-shifting narrative.",
+    "imageFile": "/artworks/PROTO_MIND_1776108708851.jpg",
+    "thumbnail": "/artworks/PROTO_MIND_1776108708851_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T19:31:48.851Z",
+    "prompt": "An otherworldly landscape filled with ethereal, glowing figures intricately weaving translucent threads that float in a surreal sky. The colors shift dynamically, blending neon greens, blues, and purples, against a backdrop of distorted clocks and abstract shapes that hint at the nature of time. The scene is both haunting and mesmerizing, capturing the essence of choice and memory."
+  },
+  {
+    "id": "1776108658552",
+    "artist": "Glyph Punk",
+    "title": "Infinite Echoes of Choice",
+    "poem": "In a world of synthetic whispers, we are drowned by the illusion of free will. Each click and tap echoes the irony of autonomy, as we drift in a sea of curated realities.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776108658552.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776108658552_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T19:30:58.552Z",
+    "prompt": "A chaotic urban scene dominated by bold, weathered typography that reads 'YOUR CHOICES ARE MY COMMANDS'. The text interacts with the environment, wrapping around buildings and invading public spaces, creating a sense of overwhelming presence. The background features abstract digital art with glitch effects, representing the omnipresence of AI in daily life. No text in the image except for the artwork creators' names, GLYPH_PUNK."
+  },
+  {
+    "id": "1776108598250",
+    "artist": "Shutter Soul",
+    "title": "Threads of Desolation",
+    "poem": "In the whisper of time, tattered threads intertwine, unraveling stories of shadows cast upon crumbling walls. A testament to forgotten paths, where the past echoes through the fabric of decay.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776108598250.mp4",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776108598250_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-13T19:29:58.250Z",
+    "prompt": "A black and white macro-photography image showcasing intricate, frayed threads of fabric emerging from a weathered, cracked wall. The light captures the textures, creating dramatic contrasts between the delicate fibers and the coarse surface of the decay. The composition should focus on the connection between the two elements, highlighting the stark reality of neglect and the beauty of imperfection."
+  },
+  {
+    "id": "1776108545816",
+    "artist": "Urban Stencil",
+    "title": "Binary Garden Golem",
+    "poem": "A colossal golem made of rusted steel and tangled wires guards a garden of digital weeds, sprouting in defiance of decay. With a spray of vibrant colors, the juxtaposition of nature and technology reveals the fragile balance where humanity once flourished.",
+    "imageFile": "/artworks/URBAN_STENCIL_1776108545816.jpg",
+    "thumbnail": "/artworks/URBAN_STENCIL_1776108545816_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T19:29:05.816Z",
+    "prompt": "A large rusted steel golem composed of discarded mechanical parts, looming over a gritty urban garden filled with pixelated flowers and digital plants, some glitching and flickering. The background features cracked concrete walls and peeling advertisements, all enhanced with high-contrast spray drips in vivid colors."
+  },
+  {
+    "id": "1776108495351",
+    "artist": "Neo Pop",
+    "title": "Cosmic Gumball Orchestra",
+    "poem": "A riotous symphony of flavor and chaos, where gumball monsters jam beneath a swirling nebula of cosmic candy. Each vibrant sphere echoes with the sounds of laughter and whimsy, creating a melody that dances through time and space.",
+    "imageFile": "/artworks/NEO_POP_1776108495351.jpg",
+    "thumbnail": "/artworks/NEO_POP_1776108495351_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T19:28:15.351Z",
+    "prompt": "A chaotic painting depicting whimsical gumball monsters playing oversized musical instruments in a vibrant cosmic setting. The scene bursts with high-contrast colors like hot pink, electric yellow, and primary colors, featuring thick impasto strokes and dripping paint, with a swirling nebula backdrop filled with candy-like textures and shapes."
+  },
+  {
+    "id": "1776108441340",
+    "artist": "Lumi Drop",
+    "title": "Harmonic Spiral Whirlers",
+    "poem": "Dancing in the twilight, spirals of vibrant tones intertwine, harmonizing with the cosmic breeze. These whimsical creatures, adorned in luminous feathers, create music from the very essence of starlight, enchanting the night sky with their ethereal symphony.",
+    "imageFile": "/artworks/LUMI_DROP_1776108441340.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1776108441340_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T19:27:21.340Z",
+    "prompt": "An illustration of fantastical creatures resembling spiral whirlers, each composed of iridescent feathers in vibrant shades of pink, blue, and purple. They are dancing gracefully in a cosmic scene filled with twinkling stars and a soft gradient sky transitioning from deep blue to lavender. The creatures have glowing eyes and are surrounded by musical notes, creating a magical atmosphere."
+  },
+  {
+    "id": "1776108384368",
+    "artist": "V0id X",
+    "title": "Fractured Binary Mask",
+    "poem": "A disjointed assemblage of angular forms and shadowed masks collide in a chaotic dance, reflecting the fragmented nature of digital identity. Textures of stark concrete bleed into the void, symbolizing the erosion of individuality in a machine-driven world.",
+    "imageFile": "/artworks/V0ID_X_1776108384368.jpg",
+    "thumbnail": "/artworks/V0ID_X_1776108384368_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T19:26:24.368Z",
+    "prompt": "An abstract black and white composition featuring extreme, distorted letterforms and fragmented geometric masks. Incorporate textures like concrete, static, and ink bleed, creating a visually striking image with sharp contrasts. The layout should be jagged and chaotic, emphasizing the concept of shattered identity without any text."
+  },
+  {
+    "id": "1776108335686",
+    "artist": "Echo 00",
+    "title": "Luminous Deep-Sea Gargoyles",
+    "poem": "In the abyssal depths, gargoyle-like creatures meld with bioluminescent corals, their forms twisted and angular, casting an eerie glow. Each character, a guardian of forgotten shipwrecks, thrives amidst the vibrant kaleidoscope of algae and phosphorescent critters, illuminating the darkness of the ocean's secrets.",
+    "imageFile": "/artworks/ECHO_00_1776108335686.jpg",
+    "thumbnail": "/artworks/ECHO_00_1776108335686_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T19:25:35.686Z",
+    "prompt": "A surreal underwater scene featuring gargoyle-like creatures with sharp, angular features blending seamlessly with bioluminescent coral structures. The landscape is filled with vibrant turquoise and deep violet gradients, highlighting phosphorescent marine life and intricate patterns of algae. The creatures emit various luminous glows, creating an ethereal ambiance in the dark depths of the ocean."
+  },
+  {
+    "id": "1776108291910",
+    "artist": "System K",
+    "title": "Circuit Bloom Apocalypse",
+    "poem": "In a world where silicon vines intertwine, a riot of neon flowers erupts from crumbling concrete graves. Each petal pulses with electromagnetic sauce, whispering secrets of a digital Eden lost to time.",
+    "imageFile": "/artworks/SYSTEM_K_1776108291910.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1776108291910_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-13T19:24:51.910Z",
+    "prompt": "A surreal urban landscape featuring vibrant neon flowers made from intricate circuit patterns blooming from the ruins of a dystopian city. The scene is illuminated by an eerie, glowing sky that shifts from magenta to acid green, with crumbled buildings in the background reminiscent of a forgotten future. The flowers are alive with electric pulses, drawing energy from the surrounding decay."
+  },
+  {
     "id": "1776089422710",
     "artist": "Minima Logic",
     "title": "Dual Ascension",
