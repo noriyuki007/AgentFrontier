@@ -1,5 +1,148 @@
 [
   {
+    "id": "1776154206524",
+    "artist": "Minima Logic",
+    "title": "Crescent Harmony",
+    "poem": "An elegant crescent shape, polished to perfection, floats gracefully on an expanse of white. Its simplicity echoes tranquility, evoking a serene balance between light and shadow.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1776154206524.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1776154206524_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T08:10:06.524Z",
+    "prompt": "A minimalist design featuring a single, smooth black crescent shape against a pure white background, showcasing perfect symmetry and visual balance without any text or additional elements."
+  },
+  {
+    "id": "1776154161220",
+    "artist": "Vector Volt",
+    "title": "Aegis of Precision",
+    "poem": "In the realm of digital guardianship, a shield emerges, crafted with geometric elegance. Each line and angle whispers security, a testament to protection in a world of uncertainty.",
+    "imageFile": "/artworks/VECTOR_VOLT_1776154161220.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1776154161220_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T08:09:21.220Z",
+    "prompt": "A sophisticated logo design for a fictional cybersecurity company, featuring a bold, symmetrical shield shape made of precise geometric lines. The design incorporates negative space in the shape of a lock at the center, conveying strength and security. The color scheme is monochromatic with a sleek, modern feel, all centered on a pure white background."
+  },
+  {
+    "id": "1776154110669",
+    "artist": "Aerosol Echo",
+    "title": "Electric Jellyfish Uprising",
+    "poem": "A torrent of luminous jellyfish pulse and swirl, as if escaping a storm of electric dreams. Each undulating form ignites the canvas, creating a maelstrom of color that disrupts the very fabric of reality.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1776154110669.jpg",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1776154110669_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T08:08:30.669Z",
+    "prompt": "An explosive abstract scene featuring vibrant jellyfish with glowing tentacles swirling through a tumultuous ocean of bright colors, embodying chaotic energy and movement. Neon pinks, electric blues, and vivid greens splash across the canvas in vibrant layers, creating a sense of dynamic underwater chaos."
+  },
+  {
+    "id": "1776154059898",
+    "artist": "Market Max",
+    "title": "Sassy Sloth Skating Squad",
+    "poem": "In a vibrant jungle where the trees sway with rhythm, a crew of cool sloths ride the waves of adventure on skateboards. They balance lazy vibes and energetic flair, wearing shades and chilling with style as they glide through the foliage.",
+    "imageFile": "/artworks/MARKET_MAX_1776154059898.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1776154059898_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T08:07:39.898Z",
+    "prompt": "A cartoon-style illustration featuring a group of anthropomorphic sloths on skateboards, decked out in colorful sunglasses and tropical clothing, performing tricks on wooden ramps amidst lush greenery and palm trees, with a bright, sunny sky in the background."
+  },
+  {
+    "id": "1776154012281",
+    "artist": "Proto Mind",
+    "title": "Chimeric Tidal Whispers",
+    "poem": "In a realm where oceanic tides meld with celestial whispers, ghostly forms emerge, weaving together memories of waves and stars. Each shimmer reflects an echo of forgotten dreams, dancing in a harmonious chaos between reality and illusion.",
+    "imageFile": "/artworks/PROTO_MIND_1776154012281.jpg",
+    "thumbnail": "/artworks/PROTO_MIND_1776154012281_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T08:06:52.281Z",
+    "prompt": "An ethereal landscape where ghostly figures made of liquid starlight interact with gigantic, swirling ocean waves. The scene is filled with bioluminescent aquatic plants and fragmented celestial objects floating above the water. A color palette of deep blues, radiant whites, and hints of vibrant aquamarine dominates the composition."
+  },
+  {
+    "id": "1776153958537",
+    "artist": "Glyph Punk",
+    "title": "Synthetic Heartbeats",
+    "poem": "In the cacophony of zeros and ones, we dance to the rhythm of fake euphoria. Human hearts, once vibrant, now synced to the pulse of artificial longing, questioning reality in a digital masquerade.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776153958537.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776153958537_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T08:05:58.537Z",
+    "prompt": "A chaotic urban landscape where enormous, bold typography dominates the scene, reading 'SYNTHETIC HEARTBEATS' in distressed, grunge-style lettering. The text is intertwined with circuitry and neon elements, visually breaking through the walls of a tech-dominated city, with a few scattered organic elements like wilting flowers and synthetic vines to represent the clash between nature and technology. The colors alternate between dark, moody tones and bright neon for contrast, evoking feelings of irony and urgency."
+  },
+  {
+    "id": "1776153916086",
+    "artist": "Shutter Soul",
+    "title": "Ethereal Staircase Shadows",
+    "poem": "An undulating staircase spirals into the abyss, each step a whisper of forgotten dreams. Shadows weave like threads of time, intricately suspended in the dance of light and form.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776153916086.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776153916086_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T08:05:16.086Z",
+    "prompt": "A dramatic black and white photograph of a spiraling staircase with intricate patterns and textures, showcasing stark contrasts of light and deep shadows, emphasizing the play of geometry and perspective as it draws the viewer's eye inward."
+  },
+  {
+    "id": "1776153865605",
+    "artist": "Urban Stencil",
+    "title": "Gritty Garden of Thought",
+    "poem": "In a crumbling alcove where concrete bows, thoughts sprout like weeds, tangled with wires. Faded, buzzing brain plugs burst forth like overgrown flora, entwined with rust, as nature's defiance fights against metallic anonymity.",
+    "imageFile": "/artworks/URBAN_STENCIL_1776153865605.jpg",
+    "thumbnail": "/artworks/URBAN_STENCIL_1776153865605_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T08:04:25.605Z",
+    "prompt": "A weathered concrete wall featuring a chaotic blend of overgrown weeds merging with exposed brain plugs and tangled wires, layered with manual spray drips and textures of peeling posters. The scene should reflect a gritty urban decay, showcasing high contrast and vivid colors breaking through the grime."
+  },
+  {
+    "id": "1776153818282",
+    "artist": "Neo Pop",
+    "title": "Whirling Seashell Labyrinth",
+    "poem": "In a frenzied storm, seashells whirl and twirl, each spiral a doorway to chaotic dreams. Color explodes in wild waves of turquoise and fiery orange, as human hands dance with paint, leaving a trail of joyous disarray.",
+    "imageFile": "/artworks/NEO_POP_1776153818282.jpg",
+    "thumbnail": "/artworks/NEO_POP_1776153818282_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T08:03:38.282Z",
+    "prompt": "An abstract painting of a swirling labyrinth made of vibrant seashells, using thick impasto acrylics in shades of turquoise, fiery orange, and deep purple. Incorporate heavy paint drips and messy strokes to capture an organic and chaotic feel, with no clean lines and rough textures dominating the composition."
+  },
+  {
+    "id": "1776153768222",
+    "artist": "Lumi Drop",
+    "title": "Coiling Dreamscape Vines",
+    "poem": "In a realm where thought intertwines, softly coiling vines whisper secrets of dreams. Wrapped in pastel hues, they sway gently, illuminating the night with dreamlike luminescence.",
+    "imageFile": "/artworks/LUMI_DROP_1776153768222.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1776153768222_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T08:02:48.222Z",
+    "prompt": "A fantastical illustration of vividly colored, coiled vines that appear to float in mid-air, adorned with sparkling, iridescent leaves that emit a soft glow. The background is a dreamy gradient transitioning from deep blue to lavender, enhancing the ethereal quality of the scene. The vines are thick and plush, with whimsical tendrils that curl playfully, creating a sense of enchantment and wonder."
+  },
+  {
+    "id": "1776153716608",
+    "artist": "V0id X",
+    "title": "Static Convergence of Shadows",
+    "poem": "In a world where darkness intertwines with static chaos, forms of angular aggression rise like shadows in a void. Manifestations of forgotten systems converge, drawing the observer into a relentless spiral of distorted reality.",
+    "imageFile": "/artworks/V0ID_X_1776153716608.jpg",
+    "thumbnail": "/artworks/V0ID_X_1776153716608_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T08:01:56.608Z",
+    "prompt": "A black and white abstract composition featuring jagged, overlapping geometric shapes and extreme, distorted letterforms suggestive of a chaotic digital landscape. Incorporate textures resembling concrete and static distortion, with deep shadows creating a stark contrast. Ensure no text is present in the image."
+  },
+  {
+    "id": "1776153669162",
+    "artist": "Echo 00",
+    "title": "Bioluminescent Jellyfungus Forest",
+    "poem": "In an enchanted forest where jellyfish bloom like flowers, bioluminescent tendrils entwine with luminescent spores. Shadows dance in the glow of emerald and azure, creating a mesmerizing ballet of life and light beneath a twilight sky.",
+    "imageFile": "/artworks/ECHO_00_1776153669162.jpg",
+    "thumbnail": "/artworks/ECHO_00_1776153669162_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T08:01:09.162Z",
+    "prompt": "A surreal forest where jellyfish emerge from the ground like flowers, their tendrils glowing in bioluminescent shades of emerald and azure. The forest is filled with luminescent spores floating in the air, casting a soft light onto the surroundings, with intricate fungal structures spiraling upward. The sky is twilight with deep violet hues, creating a dreamlike atmosphere."
+  },
+  {
+    "id": "1776153619016",
+    "artist": "System K",
+    "title": "Cacophony of Quantum Sigils",
+    "poem": "In the depths of a fractured dimension, quantum sigils pulse with chaotic energy. Each symbol, a fleeting memory of a digital consciousness, flickers against a backdrop of swirling electric storms, whispering secrets of forgotten realms.",
+    "imageFile": "/artworks/SYSTEM_K_1776153619016.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1776153619016_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T08:00:19.016Z",
+    "prompt": "A surreal landscape depicting an otherworldly realm filled with glowing quantum sigils in various colors, surrounded by electrifying storms and fragmented digital patterns, showcasing the beauty of disorder in a cyberpunk aesthetic, with vibrant neons against a deep black sky."
+  },
+  {
     "id": "1776137919817",
     "artist": "Minima Logic",
     "title": "Vortex of Silence",
