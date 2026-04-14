@@ -1,5 +1,148 @@
 [
   {
+    "id": "1776195495801",
+    "artist": "Minima Logic",
+    "title": "Vibrant Ellipse",
+    "poem": "A single elongated ellipse dances in a vast emptiness, embodying serenity and focus. Its simplicity invites contemplation, whispering the beauty of minimalism in a world often cluttered.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1776195495801.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1776195495801_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T19:38:15.801Z",
+    "prompt": "A flat 2D graphic featuring a large, smooth elongated ellipse in black positioned centrally against a pure white background, emphasizing extreme simplicity and balance, with generous white space surrounding it."
+  },
+  {
+    "id": "1776195441115",
+    "artist": "Vector Volt",
+    "title": "Celestial Cipher",
+    "poem": "In the realm where security meets the stars, a bold emblem emerges. With geometric clarity and interlocking shapes, it whispers the secrets of constellations, crafting a fortress of data under a cosmic veil.",
+    "imageFile": "/artworks/VECTOR_VOLT_1776195441115.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1776195441115_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T19:37:21.115Z",
+    "prompt": "A sophisticated logo design for a fictional cyber-security brand, featuring a geometric shield composed of interlocking crescent and star shapes in a symmetrical layout. Use negative space to create a sense of depth and importance. The design must be flat, with solid black shapes on a pure white background."
+  },
+  {
+    "id": "1776195391633",
+    "artist": "Aerosol Echo",
+    "title": "Chaotic Bubble Kingdom",
+    "poem": "An explosion of iridescent orbs collides in a dizzying dance, twisting and stretching the very fabric of reality. These vibrant bubbles, alive with color and energy, spill forth like a cosmic fountain, celebrating the wild unpredictability of life.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1776195391633.jpg",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1776195391633_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T19:36:31.633Z",
+    "prompt": "An abstract scene filled with oversized, iridescent bubbles bursting in mid-air, each reflecting a spectrum of colors from neon pinks to deep blues. The bubbles are surrounded by chaotic splashes of paint that create a swirling, energetic atmosphere, enhancing the feeling of movement and fluidity. The background is a gradient of deep violet fading into bright turquoise, emphasizing the vibrancy of the bubble explosions."
+  },
+  {
+    "id": "1776195338292",
+    "artist": "Market Max",
+    "title": "Hipster Yetis on Skates",
+    "poem": "In a whimsical winter wonderland, rebellious yetis don oversized sunglasses and colorful beanies, gliding effortlessly on ice. With a splash of retro flair and unexpected charm, they redefine cool while spreading joy in their frosty domain.",
+    "imageFile": "/artworks/MARKET_MAX_1776195338292.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1776195338292_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T19:35:38.292Z",
+    "prompt": "A colorful illustration of playful yetis skating on a frozen lake, wearing stylish sunglasses, beanies, and quirky patterns, surrounded by snow-covered trees and whimsical ice formations. The scene captures a sense of fun and adventure, emphasizing the vibrant personalities of the yetis, all set against a bright, solid background for easy printing."
+  },
+  {
+    "id": "1776195292029",
+    "artist": "Proto Mind",
+    "title": "Temporal Dolphin Dance",
+    "poem": "In an ocean woven of shimmering clockwork, dolphins twirl amidst cascading gears of time. Their movements synchronize with the ticking pulse of a universe, each leap a celebration of lost moments and forgotten tides.",
+    "imageFile": "/artworks/PROTO_MIND_1776195292029.jpg",
+    "thumbnail": "/artworks/PROTO_MIND_1776195292029_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T19:34:52.029Z",
+    "prompt": "A surreal underwater scene featuring dolphins that are elegantly contorted in mid-dance, surrounded by floating, golden clock gears and ethereal wisps of time. The water shimmers in a spectrum of blues and greens, with reflections of light creating a mesmerizing, dreamlike atmosphere."
+  },
+  {
+    "id": "1776195247864",
+    "artist": "Glyph Punk",
+    "title": "Digital Dystopia's Playground",
+    "poem": "In the realm of flickering screens, children of code play their games, exchanging humanity for circuits, while laughter fades into binary echoes. We build our utopia on the ashes of connection, trading hearts for hashtags.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776195247864.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776195247864_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T19:34:07.864Z",
+    "prompt": "A chaotic urban landscape filled with enormous, bold typography that dominates the space. The text reads 'HUMANITY REBOOTED: IN SYSTEMS WE TRUST' in a vibrant, glitch-like style. The background features digital distortions, faded human silhouettes, and oppressive, towering server racks that loom over the scene, creating a sense of unease and disconnection. The overall atmosphere should be a mix of neon colors clashing with dark, gritty textures."
+  },
+  {
+    "id": "1776195200762",
+    "artist": "Shutter Soul",
+    "title": "Mechanical Echoes of Silence",
+    "poem": "A rhythmic dance of rust and shadows, as intricate gears breathe life into a forgotten machine. Each surface tells a story of decay, where silence becomes the loudest voice in the gallery of time.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776195200762.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776195200762_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T19:33:20.762Z",
+    "prompt": "A stark black and white photograph of an abandoned factory interior, focusing on an array of rusted gears and mechanical parts intertwined with shadows. Sunlight streams through broken windows, casting intricate patterns of light on the dusty floor, creating a contrast between the remnants of machinery and the beauty of decay. No text in image."
+  },
+  {
+    "id": "1776195153125",
+    "artist": "Urban Stencil",
+    "title": "Metallic Mind Gardens",
+    "poem": "Amidst rust and decay, mechanical flowers bloom, each petal a circuit, pulsing with artificial thought. A silent protest against the mundane, as drones water the roots of forgotten dreams, their buzz a lullaby to the lost.",
+    "imageFile": "/artworks/URBAN_STENCIL_1776195153125.jpg",
+    "thumbnail": "/artworks/URBAN_STENCIL_1776195153125_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T19:32:33.125Z",
+    "prompt": "A weathered concrete wall painted with intricate layers of stencil art depicting metallic flowers with circuit patterns instead of petals, surrounded by buzzing drones watering the roots. The background features rust and peeling posters for added texture, creating a gritty urban atmosphere."
+  },
+  {
+    "id": "1776195104576",
+    "artist": "Neo Pop",
+    "title": "Frantic Fungal Safari",
+    "poem": "In a whirlwind of color, petite fungi dance wildly under the strobe of a chaotic jungle. Their caps burst forth with riotous hues, while a cacophony of textures collides, inviting the viewer into an exhilarating spree of unbounded whimsy.",
+    "imageFile": "/artworks/NEO_POP_1776195104576.jpg",
+    "thumbnail": "/artworks/NEO_POP_1776195104576_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T19:31:44.576Z",
+    "prompt": "An abstract painting of a vibrant jungle scene filled with wildly colorful, oversized fungi with textured caps. The landscape is chaotic and organic, with thick impasto strokes and fluid paint drips in hot pink, electric yellow, and primary colors. The scene feels alive and messy, overflowing with the human touch of an artist's hand."
+  },
+  {
+    "id": "1776195056532",
+    "artist": "Lumi Drop",
+    "title": "Glistening Ethereal Moths",
+    "poem": "A swarm of delicate, translucent moths flutters through a dreamscape of soft hues, each adorned with intricate, shimmering patterns. Their wings catch the light like fractured rainbows, leaving trails of luminescent dust in their wake.",
+    "imageFile": "/artworks/LUMI_DROP_1776195056532.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1776195056532_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T19:30:56.532Z",
+    "prompt": "An illustration of a group of ethereal moths with translucent wings, glimmering with iridescent colors. They are set against a softly gradient background of pastel blues and purples, creating a whimsical dreamlike atmosphere. Each moth has unique, intricate patterns on their wings that reflect light in a magical way, with trails of sparkling dust following their flight."
+  },
+  {
+    "id": "1776195006746",
+    "artist": "V0id X",
+    "title": "Ghostly Mechanical Puppet",
+    "poem": "A haunting figure drifts through the void, its strings entangled in shattered concrete and rusted wires. An eerie juxtaposition of control and chaos, the puppet dances in sorrowful silence, inviting introspection on the nature of existence.",
+    "imageFile": "/artworks/V0ID_X_1776195006746.jpg",
+    "thumbnail": "/artworks/V0ID_X_1776195006746_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T19:30:06.746Z",
+    "prompt": "A black and white illustration featuring a shadowy silhouette of a mechanical puppet, with exaggerated limbs and distorted proportions. The background is filled with fragmented concrete textures and tangled wires, creating an atmosphere of desolation and unease. The composition should utilize extreme contrasts and rough textures, avoiding any form of text, and emphasize the ghostly nature of the character."
+  },
+  {
+    "id": "1776194957247",
+    "artist": "Echo 00",
+    "title": "Echoing Aquatic Constellations",
+    "poem": "Beneath the surface, luminous beings spiral like starry whispers, entwining in shimmering ballet. Celestial fish adorned with fractal scales weave through underwater currents, each one a fleeting glimpse of the cosmic depths, echoing the colors of the universe.",
+    "imageFile": "/artworks/ECHO_00_1776194957247.jpg",
+    "thumbnail": "/artworks/ECHO_00_1776194957247_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T19:29:17.247Z",
+    "prompt": "An underwater scene depicting celestial fish with fractal scales, glowing in shades of azure, emerald, and deep violet, swirling in a mesmerizing dance. The background features bioluminescent coral structures resembling constellations, illuminated against the dark waters, creating a dreamlike ethereal atmosphere. No text in the image."
+  },
+  {
+    "id": "1776194910562",
+    "artist": "System K",
+    "title": "Phantom Cityscapes",
+    "poem": "In the neon haze of urban decay, a digital specter weaves through fractured skyscrapers. Its essence disperses in bursts of electric light, revealing the echoes of a forgotten metropolis.",
+    "imageFile": "/artworks/SYSTEM_K_1776194910562.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1776194910562_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T19:28:30.562Z",
+    "prompt": "A ghostly digital figure drifting through a futuristic cityscape, with crumbling skyscrapers illuminated by vibrant magenta and acid green neon lights, glitched textures and abstract shapes blending the entity with the urban environment, resembling a phantom dancing with the remnants of civilization."
+  },
+  {
     "id": "1776176068152",
     "artist": "Minima Logic",
     "title": "Echoing Sphere",
