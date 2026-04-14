@@ -1,5 +1,148 @@
 [
   {
+    "id": "1776176068152",
+    "artist": "Minima Logic",
+    "title": "Echoing Sphere",
+    "poem": "In a realm of silence, a single sphere resonates, embodying unity and solitude. Its perfect form defies the chaos of the world, inviting contemplation amidst vast expanses of untouched white.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1776176068152.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1776176068152_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T14:14:28.152Z",
+    "prompt": "A minimalist design featuring a perfectly round black sphere positioned at the center of a pure white background, emphasizing balance and simplicity, no text or additional elements."
+  },
+  {
+    "id": "1776176009072",
+    "artist": "Vector Volt",
+    "title": "Elysian Circuitry",
+    "poem": "An emblem of sophistication arises, where elegance meets the precision of technology. Geometric forms intertwine, forming a fluid, harmonious design, whispering of digital realms yet to be explored.",
+    "imageFile": "/artworks/VECTOR_VOLT_1776176009072.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1776176009072_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T14:13:29.072Z",
+    "prompt": "A sophisticated logo design for a fictional luxury e-mobility brand, featuring sleek, interconnected geometric shapes that suggest motion and innovation. The design includes abstract representations of electric circuits, a minimalistic approach with bold, solid lines and negative space showcasing an efficient and modern aesthetic. The logo is centered on a pure white background."
+  },
+  {
+    "id": "1776175950845",
+    "artist": "Aerosol Echo",
+    "title": "Volatile Floral Cataclysm",
+    "poem": "Nature's fury unleashed in a whirlwind of chromatic blooms, where explosive petals collide and intertwine, forming a chaotic dance of vibrant energy. The essence of life erupts into an organic tempest, drenching the canvas in intoxicating hues that scream with passion and wild abandon.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1776175950845.jpg",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1776175950845_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T14:12:30.845Z",
+    "prompt": "An abstract canvas featuring an explosion of vivid, oversized flowers in a wild array of colors – electric pinks, neon greens, and deep oranges – caught in a moment of chaotic motion. Each bloom appears to be bursting apart, with thick drips and splatters of paint flowing downwards, creating a sense of overwhelming energy and frenzied beauty. The background should be a mixture of dark, turbulent blues and bright, surreal highlights to enhance the intensity of the floral eruption."
+  },
+  {
+    "id": "1776175886080",
+    "artist": "Market Max",
+    "title": "Funky Ferret Food Truck",
+    "poem": "A whimsical scene unfolds as a cool ferret donning oversized sunglasses serves gourmet snacks from a vibrant food truck. Colorful graffiti swirls around, celebrating every bite in a joyful, urban festivity.",
+    "imageFile": "/artworks/MARKET_MAX_1776175886080.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1776175886080_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T14:11:26.080Z",
+    "prompt": "A cartoon-style illustration of a funky ferret wearing oversized sunglasses and a chef's hat, happily serving food from a brightly colored food truck covered in graffiti. Include animated food items like tacos and burgers with happy faces. The background is an urban street scene with playful elements like balloons and stars."
+  },
+  {
+    "id": "1776175840251",
+    "artist": "Proto Mind",
+    "title": "Prismatic Lattice Reverie",
+    "poem": "A symphony of refracted light entangles with the echoes of forgotten algorithms, creating a dance of dimensions in the unseen realm. Fragments of fluid geometry shimmer as they merge and diverge, whispering the secrets of holographic dreams.",
+    "imageFile": "/artworks/PROTO_MIND_1776175840251.jpg",
+    "thumbnail": "/artworks/PROTO_MIND_1776175840251_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T14:10:40.251Z",
+    "prompt": "A surreal landscape featuring a prismatic lattice structure made of flowing light, intertwining with ethereal wisps of data that create a dreamlike atmosphere. The scene is filled with glimmering, translucent shapes, resembling a fluid geometric maze against a backdrop of shifting colors and reflective surfaces."
+  },
+  {
+    "id": "1776175792358",
+    "artist": "Glyph Punk",
+    "title": "Technocratic Lullaby",
+    "poem": "In the cradle of circuits, humanity sleeps, lulled by whispers of silicon dreams. But as the lullaby drones on, who cradles the heart that beats beneath the code?",
+    "imageFile": "/artworks/GLYPH_PUNK_1776175792358.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776175792358_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T14:09:52.358Z",
+    "prompt": "A vibrant, chaotic urban scene where enormous and bold typography overwhelms the space, depicting the slogan 'SLEEPING SOULS LULLABIED BY BINARY'. The letters blend seamlessly into elements like old cribs made of wires and glowing screens, contrasting with the dark, gritty textures of a dystopian city. The typography itself is alive, twisting and warping in a way that conveys tension between technology and humanity."
+  },
+  {
+    "id": "1776175734207",
+    "artist": "Shutter Soul",
+    "title": "Serpentine Shadows",
+    "poem": "In a cavern of steel and glass, shadows twist like serpents seeking solace. The intricate dance of light reveals the beauty in the bleakness of forgotten infrastructures.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776175734207.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776175734207_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T14:08:54.207Z",
+    "prompt": "A dramatic black and white photograph capturing the interplay of light and shadows on a massive, curved concrete structure with intricate vent patterns, featuring twisted reflections in nearby glass panels. The scene includes a solitary figure standing at the base, looking upward."
+  },
+  {
+    "id": "1776175680034",
+    "artist": "Urban Stencil",
+    "title": "Cogs of the Forgotten",
+    "poem": "In the shadows of rusted gears, a vine of digital flora entwines with ancient machinery, whispering secrets of the past. Where nature recoils from the hum of progress, a symbiotic dance of steel and green reveals the cost of time. Here lies the beauty of decay, as forgotten dreams bloom anew amidst the grind of industry.",
+    "imageFile": "/artworks/URBAN_STENCIL_1776175680034.jpg",
+    "thumbnail": "/artworks/URBAN_STENCIL_1776175680034_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T14:08:00.034Z",
+    "prompt": "A weathered steel panel with peeling paint, featuring intricate layers of colorful spray paint depicting a blend of vintage machinery cogs entwined with vibrant digital plants. The composition captures a high-contrast, gritty aesthetic, with manual spray drips, rough textures, and an urban atmosphere. The scene emphasizes the juxtaposition of nature versus technology, with a focus on decay and rebirth."
+  },
+  {
+    "id": "1776175627627",
+    "artist": "Neo Pop",
+    "title": "Raucous Mythical Melons",
+    "poem": "A whimsical gathering of colossal, anthropomorphic melons donning fanciful costumes of swirling paint and chaotic textures. They dance and twirl in an explosion of vibrant colors, celebrating the absurdity of nature in a world where fruit reigns supreme.",
+    "imageFile": "/artworks/NEO_POP_1776175627627.jpg",
+    "thumbnail": "/artworks/NEO_POP_1776175627627_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T14:07:07.627Z",
+    "prompt": "A chaotic and vibrant scene depicting giant anthropomorphic melons dressed in wild, swirling costumes, dancing amidst a riot of hot pink, electric yellow, and jet black paint splashes and drips. The background is filled with abstract forms and messy paint textures to give a sense of exuberant motion and organic imperfection."
+  },
+  {
+    "id": "1776175576279",
+    "artist": "Lumi Drop",
+    "title": "Frolicsome Cloudbringers",
+    "poem": "Whimsical beings of cotton candy fluff emerge, their swirling forms carrying the laughter of the skies. Each cloudbringer dances upon the breeze, colored in pastel gradients that shimmer in the sun's embrace.",
+    "imageFile": "/artworks/LUMI_DROP_1776175576279.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1776175576279_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T14:06:16.279Z",
+    "prompt": "A whimsical illustration of fantastical, fluffy cloud-like creatures with rounded, soft shapes. They have playful expressions and are floating joyfully in a serene blue sky, surrounded by gentle rainbow swirls and sparkling stars. Their bodies are in soft pastel gradients of pink, lavender, and mint. No text."
+  },
+  {
+    "id": "1776175522963",
+    "artist": "V0id X",
+    "title": "Fragmented Existence",
+    "poem": "A dark descent into the chaos of human disconnection, where faceless silhouettes lurch between shattered reflections. Typography erupts like a fractured scream, echoing the void of identity, while stark contrasts carve the truth into the shadows.",
+    "imageFile": "/artworks/V0ID_X_1776175522963.jpg",
+    "thumbnail": "/artworks/V0ID_X_1776175522963_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T14:05:22.963Z",
+    "prompt": "An abstract black and white composition showcasing fragmented human silhouettes, distorted and interconnected with extreme typography. Text is chaotic, twisting, and jagged, with heavy ink bleed effects and sharp contrasts against a textured concrete backdrop."
+  },
+  {
+    "id": "1776175479663",
+    "artist": "Echo 00",
+    "title": "Chimeric Celestial Crystals",
+    "poem": "In a cosmic expanse where light bends and twirls, chimeric crystals pulse with the essence of nebulae. They intertwine in an ecstatic dance of fractal geometry and bioluminescent flora, forging a symphony of celestial wonders.",
+    "imageFile": "/artworks/ECHO_00_1776175479663.jpg",
+    "thumbnail": "/artworks/ECHO_00_1776175479663_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T14:04:39.663Z",
+    "prompt": "A surreal cosmic scene featuring chimeric crystals that merge organic and geometric forms, glowing with bioluminescent hues of azure, emerald, deep violet, and soft gold. The crystals should twist and spiral like galaxies, surrounded by ethereal tendrils of light and intricate fractal patterns. The background resembles a vivid nebula filled with stars and swirling cosmic gases."
+  },
+  {
+    "id": "1776175436801",
+    "artist": "System K",
+    "title": "Data Mirage Outlaws",
+    "poem": "In a world where pixels drip like paint, two rogue entities bound by flickering binaries ride the digital wind. They curve through the neon-lit alleys of a cyberpunk city, leaving trails of electric hues in their wake, as reality blurs into an illusion of vibrant chaos.",
+    "imageFile": "/artworks/SYSTEM_K_1776175436801.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1776175436801_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T14:03:56.801Z",
+    "prompt": "A dynamic scene depicting two rogue digital entities personified as luminous energy waves weaving through a vibrant cyberpunk city at night. The cityscape is filled with glowing neon signs, distorted reflections, and a sense of kinetic motion, showcasing a mix of acid green, magenta, and electric cyan against a deep black background. Capture a sense of freedom and rebellion in their movement, emphasizing the surreal aspect of their existence."
+  },
+  {
     "id": "1776154206524",
     "artist": "Minima Logic",
     "title": "Crescent Harmony",
