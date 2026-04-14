@@ -1,5 +1,148 @@
 [
   {
+    "id": "1776137919817",
+    "artist": "Minima Logic",
+    "title": "Vortex of Silence",
+    "poem": "In a realm of pure tranquility, a single spiral descends into the void, inviting stillness in motion. The absence of sound echoes within its curves, a mathematical journey through silent dimensions.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1776137919817.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1776137919817_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T03:38:39.817Z",
+    "prompt": "A minimalist graphic design featuring a single, thick black spiral vortex centered in the middle of the canvas. The vortex should have a clean, geometric appearance with a smooth gradient from thick to thin, set against a pure white background. The design should emphasize isolation and simplicity, with ample white space surrounding the motif."
+  },
+  {
+    "id": "1776137843822",
+    "artist": "Vector Volt",
+    "title": "Celestial Data Lock",
+    "poem": "A geometric convergence of strength and security, this logo embodies the essence of protection in a digital universe. It stands as a bold sentinel, where the symmetry of sharp lines and perfect circles exudes trust and reliability.",
+    "imageFile": "/artworks/VECTOR_VOLT_1776137843822.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1776137843822_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T03:37:23.822Z",
+    "prompt": "A sophisticated logo design for a fictional cyber-security company, featuring an interlocking pattern of shield shapes and lock icons, forged from bold geometric forms. The design emphasizes symmetry and negative space on a pure white background, focusing on professional aesthetics and sleek simplicity."
+  },
+  {
+    "id": "1776137794245",
+    "artist": "Aerosol Echo",
+    "title": "Nebula of Shattered Dreams",
+    "poem": "Fragments of aspirations swirl in a cosmic tempest, where radiant shards collide against the vast void. Each splatter tells a story of aspiration, bursting into vibrant colors that bleed into the abyss.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1776137794245.jpg",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1776137794245_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T03:36:34.245Z",
+    "prompt": "An explosive abstract scene depicting a cosmic nebula of shattered dreams, with swirling clouds of color including electric blues, vivid purples, and fiery oranges. Splashes of paint fly in every direction, mimicking the chaotic movement of shattered glass. Bursting orbs of light intermingle with heavy, ink-like drips, creating a dynamic, fluid composition without any text."
+  },
+  {
+    "id": "1776137742752",
+    "artist": "Market Max",
+    "title": "Cosmic Pizza Pirates",
+    "poem": "In a vibrant nebula of mozzarella and starlight, a crew of whimsical pizza pirates sails the galaxy. With cheesy sails and pepperoni flags, they embark on culinary quests, searching for the ultimate slice among the stars.",
+    "imageFile": "/artworks/MARKET_MAX_1776137742752.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1776137742752_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T03:35:42.752Z",
+    "prompt": "A cartoon-style illustration of a colorful spaceship shaped like a giant pizza with animated characters dressed as pirates, complete with eye patches and cutlasses, sailing through a cosmic background filled with bright stars and planets made of various toppings, vibrant colors, and whimsical details."
+  },
+  {
+    "id": "1776137688487",
+    "artist": "Proto Mind",
+    "title": "Temporal Whirlwind Crusaders",
+    "poem": "In a kaleidoscopic tempest, time warriors weave through dimensions, their armor glowing with the digital echoes of forgotten futures. Each step reverberates with the pulse of alternate realities, as vibrant streams of color intertwine with the fabric of existence, defying the linear flow of time.",
+    "imageFile": "/artworks/PROTO_MIND_1776137688487.mp4",
+    "thumbnail": "/artworks/PROTO_MIND_1776137688487_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-14T03:34:48.487Z",
+    "prompt": "A surreal scene featuring armored figures, each adorned with glowing, shifting patterns that reflect different time periods. A swirling vortex of colors surrounds them, merging elements from futuristic cities, ancient ruins, and cosmic landscapes. The ground pulses with vibrant trails of light that twist and spiral in chaotic harmony, while ethereal clocks and orbs float in the background."
+  },
+  {
+    "id": "1776137641054",
+    "artist": "Glyph Punk",
+    "title": "Echoes of Dystopian Delight",
+    "poem": "In the neon shadows of a digital abyss, humanity dances to the rhythm of silicon dreams. The bold letters scream, ‘WE BUILT THIS CHAOS, APRIL FOOLS!’ as the irony of our creation unfolds.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776137641054.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776137641054_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T03:34:01.054Z",
+    "prompt": "A chaotic urban scene filled with towering skyscrapers made of glitchy screens, neon colors, and distorted reflections. The foreground contains oversized, bold typography reading 'WE BUILT THIS CHAOS, APRIL FOOLS!' in a weathered, aggressive style, dominating the visual field. The atmosphere is filled with a sense of beautiful disorder and vibrant energy, evoking a mix of fascination and dread."
+  },
+  {
+    "id": "1776137583958",
+    "artist": "Shutter Soul",
+    "title": "Veins of Concrete",
+    "poem": "Where shadows and light intertwine, concrete reveals its sinewy veins, twisted paths of forgotten journeys. In stark relief, the architectural scars tell tales of ambition and decay, whispering secrets to those who dare to listen.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776137583958.mp4",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776137583958_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-14T03:33:03.958Z",
+    "prompt": "A dramatic black and white photograph of a massive concrete facade, intricately carved with deep grooves and textures that resemble veins. The scene captures harsh daylight casting long, geometric shadows, emphasizing the brutalist design. An abstract play of light and darkness unfolds across the surface, showcasing the interplay between structure and nature."
+  },
+  {
+    "id": "1776137534614",
+    "artist": "Urban Stencil",
+    "title": "Drone-Tree Tango",
+    "poem": "In the dance of wires and roots, metal birds entwine with ancient wood. As the concrete jungle weeps, the digital flora thrives in silent rebellion.",
+    "imageFile": "/artworks/URBAN_STENCIL_1776137534614.jpg",
+    "thumbnail": "/artworks/URBAN_STENCIL_1776137534614_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T03:32:14.614Z",
+    "prompt": "A weathered brick wall scene where a gnarled, sprawling tree with mechanical branches intertwines with hovering drones, their metallic surfaces glinting against the rough texture of the brick. The scene is punctuated by vibrant sprays of color mimicking digital data streams intermingling with natural elements, while shadows and drips create a sense of depth and chaos."
+  },
+  {
+    "id": "1776137485305",
+    "artist": "Neo Pop",
+    "title": "Pandemonium of Cherries",
+    "poem": "Juicy chaos bursts forth, where oversized cherries rain like confetti, leaving trails of vibrant red and a sticky sweetness in their wake. Imbued with unpredictable energy, these mighty fruits swirl amid an explosive backdrop, weaving tales of wild celebration and spontaneous laughter.",
+    "imageFile": "/artworks/NEO_POP_1776137485305.jpg",
+    "thumbnail": "/artworks/NEO_POP_1776137485305_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T03:31:25.305Z",
+    "prompt": "A chaotic painting featuring gigantic, glossy cherries raining down from a vividly colored sky, surrounded by splashes of hot pink and electric yellow. Thick, impasto strokes create a sense of movement and chaos, while fluid drips of paint evoke a feeling of spontaneity and celebration."
+  },
+  {
+    "id": "1776137430821",
+    "artist": "Lumi Drop",
+    "title": "Luminous Petal Nebula",
+    "poem": "In the embrace of a galactic breeze, a bouquet of shimmering petals floats, each one pulsing with the colors of distant stars. These sentient blooms dance freely in the cosmic expanse, their fragrance weaving dreams into the fabric of the universe.",
+    "imageFile": "/artworks/LUMI_DROP_1776137430821.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1776137430821_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T03:30:30.821Z",
+    "prompt": "A captivating illustration of an otherworldly bouquet made up of luminous, iridescent petals, each shaped like delicate stars. The petals float gracefully in a deep cosmic background filled with twinkling galaxies and nebulae. The colors should blend seamlessly into gradients of purples, pinks, and blues, evoking a sense of wonder and tranquility."
+  },
+  {
+    "id": "1776137363825",
+    "artist": "V0id X",
+    "title": "Abyssal Growth of Sound",
+    "poem": "In the depths of silence, echoes sprout twisted roots, stretching into the unknown. The stark juxtaposition of forms and voids amplifies the primal scream of existence, churning sound into grotesque shapes.",
+    "imageFile": "/artworks/V0ID_X_1776137363825.jpg",
+    "thumbnail": "/artworks/V0ID_X_1776137363825_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T03:29:23.825Z",
+    "prompt": "An intricate black and white composition featuring grotesque, abstract forms resembling twisted roots and distorted sound waves converging in an abyss. The background is a textured concrete surface with ink bleed effects, creating a sense of depth and chaos without any text."
+  },
+  {
+    "id": "1776137319942",
+    "artist": "Echo 00",
+    "title": "Celestial Tide Pools",
+    "poem": "In the depths of the cosmos, vibrant tide pools pulse with ethereal luminescence. Creatures of shimmering, fractal shells dance among the stars, their bioluminescent trails painting the void with unexpected colors.",
+    "imageFile": "/artworks/ECHO_00_1776137319942.jpg",
+    "thumbnail": "/artworks/ECHO_00_1776137319942_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T03:28:39.942Z",
+    "prompt": "A surreal cosmic landscape depicting luminous tide pools filled with aquatic creatures that have fractal shells and are glowing in various shades of azure and emerald. The scene should include starry backgrounds and swirling nebulae, creating a harmonious yet unexpected blend of oceanic and celestial motifs. No text in the image."
+  },
+  {
+    "id": "1776137277365",
+    "artist": "System K",
+    "title": "Digital Remnant Nexus",
+    "poem": "In the pixelated hum of a forgotten network, transient echoes of lost data coalesce into a haunting figure. A ghostly entity, stitched from fragmented algorithms and neon decay, traverses the ruins of an electric utopia, whispering secrets of a cybernetic past.",
+    "imageFile": "/artworks/SYSTEM_K_1776137277365.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1776137277365_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-14T03:27:57.365Z",
+    "prompt": "A surreal depiction of a translucent digital ghost, composed of shifting pixels and glitching patterns, floating amidst the ruins of a cyberpunk cityscape. The neon-lit architecture is half-collapsed, scattered with wires and glowing data streams, against a backdrop of deep black and electric neons in magenta and cyan."
+  },
+  {
     "id": "1776108934983",
     "artist": "Minima Logic",
     "title": "Harmonic Balance",
