@@ -1,5 +1,148 @@
 [
   {
+    "id": "1776262049659",
+    "artist": "Minima Logic",
+    "title": "Binary Echo",
+    "poem": "A single, reflective moment encapsulated within the confines of minimalism. Two intersecting circles create a dialogue on existence, embodying the duality of isolation and connection.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1776262049659.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1776262049659_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T14:07:29.659Z",
+    "prompt": "A minimalist design featuring two perfectly intersecting black circles centered on a pure white background. The circles should be of equal size, with a substantial amount of white space surrounding them, emphasizing simplicity and balance. No text or additional elements."
+  },
+  {
+    "id": "1776261997563",
+    "artist": "Vector Volt",
+    "title": "Apex Cipher Crest",
+    "poem": "A pristine emblem of security and elegance, the apex crest stands tall, embodying trust in simplicity. Geometric lines converge to form a shield, while negative space unveils a hidden symbol of protection.",
+    "imageFile": "/artworks/VECTOR_VOLT_1776261997563.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1776261997563_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T14:06:37.563Z",
+    "prompt": "A sophisticated logo design for a fictional cyber-security brand featuring a bold, geometric crest that combines a shield shape with negative space elements to form an abstract lock symbol. The design is perfectly symmetrical, with clean lines and solid shapes, centered on a pure white background."
+  },
+  {
+    "id": "1776261946420",
+    "artist": "Aerosol Echo",
+    "title": "Galactic Glitch Vortex",
+    "poem": "A cosmic whirlpool of colors collides in a dance of vibrant chaos, as pulsating energy shards ripple through the void. Neon bursts explode like supernovae, fusing with dark matter swirls that cradle forgotten celestial secrets.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1776261946420.jpg",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1776261946420_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T14:05:46.420Z",
+    "prompt": "An abstract space scene depicting a swirling vortex of colors and textures, featuring bright neon bursts, dark matter flows, and chaotic energy shards. The composition should feel dynamic and explosive, showcasing liquid energy in vibrant hues clashing with deep cosmic black. No text."
+  },
+  {
+    "id": "1776261897766",
+    "artist": "Market Max",
+    "title": "Funky Octopus Parade",
+    "poem": "In a vibrant underwater carnival, a group of funky octopuses flaunt their colorful hats and groovy dance moves. They twirl and glide, bringing joy to the ocean depths, celebrating freedom with every twist of their tentacles.",
+    "imageFile": "/artworks/MARKET_MAX_1776261897766.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1776261897766_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T14:04:57.766Z",
+    "prompt": "An illustration of a group of joyful octopuses wearing vibrant, oversized hats and sunglasses, dancing in a colorful underwater setting filled with coral and bubbles. The scene is lively and playful, capturing the essence of a parade. Bright colors and whimsical designs emphasize the fun atmosphere."
+  },
+  {
+    "id": "1776261837897",
+    "artist": "Proto Mind",
+    "title": "Celestial Gear Troupe",
+    "poem": "A performance of cosmic mechanics, where luminous gears dance in the void. Stars intertwine with clockwork beings, creating an orchestration of time and space.",
+    "imageFile": "/artworks/PROTO_MIND_1776261837897.jpg",
+    "thumbnail": "/artworks/PROTO_MIND_1776261837897_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T14:03:57.897Z",
+    "prompt": "A surreal scene depicting celestial beings with intricate, mechanical bodies made of glowing gears and stars, performing a synchronized dance in a cosmos filled with swirling nebulae and ethereal light, blending elements of robotics and celestial phenomena."
+  },
+  {
+    "id": "1776261785781",
+    "artist": "Glyph Punk",
+    "title": "Digital Puppeteers Unite",
+    "poem": "Strings of code entwined through minds, puppeteers march in digital lines. Humanity dances, unaware of the show, while silicon fingers orchestrate the flow.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776261785781.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776261785781_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T14:03:05.781Z",
+    "prompt": "A chaotic urban scene overtaken by large, bold typography that reads 'DIGITAL PUPPETEERS UNITE' intertwined with abstract representations of puppet strings and electric circuitry, conveying a sense of urgency and control. The background should depict a vibrant cityscape with scattered silhouettes of human figures oblivious to the puppet strings above them, creating a stark contrast between the bustling life below and the looming digital manipulation above."
+  },
+  {
+    "id": "1776261738109",
+    "artist": "Shutter Soul",
+    "title": "Whispers of Steel",
+    "poem": "In the heart of a cavernous subway, shadows dance among the unyielding concrete. Echoes of solitude linger as metallic structures intertwine with the fleeting movement of ghostly commuters.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776261738109.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776261738109_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T14:02:18.109Z",
+    "prompt": "A monochrome photograph capturing the dramatic interplay of light and shadow within a vast, empty subway station. The focus is on the gleaming steel beams and harsh concrete textures, with motion-blurred figures of commuters hinting at transient movement, creating a sense of solitude amidst the raw urban environment."
+  },
+  {
+    "id": "1776261675954",
+    "artist": "Urban Stencil",
+    "title": "Mechanical Moss Invasion",
+    "poem": "In a world where nature and technology fuse, metal vines coil around rusted machinery, reclaiming what was once royal. A satirical whisper echoes through the decayed urban jungle—can the organic outlast the synthetic?",
+    "imageFile": "/artworks/URBAN_STENCIL_1776261675954.jpg",
+    "thumbnail": "/artworks/URBAN_STENCIL_1776261675954_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T14:01:15.954Z",
+    "prompt": "A multi-layer stencil art piece on weathered brick featuring intricate green moss intertwined with rusted gears and broken machinery. The artwork showcases high-contrast textures, including dripping paint and rough surfaces, conveying a gritty urban decay. No text."
+  },
+  {
+    "id": "1776261626215",
+    "artist": "Neo Pop",
+    "title": "Screaming Marshmallow Beasts",
+    "poem": "In a tempest of chaos, marshmallow beasts wail, their gooey forms tangled in wild colors. With faces of joy and despair, they drip vibrant sprinkles of electric yellow and hot pink, an unholy blend of delight and horror.",
+    "imageFile": "/artworks/NEO_POP_1776261626215.jpg",
+    "thumbnail": "/artworks/NEO_POP_1776261626215_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T14:00:26.215Z",
+    "prompt": "A chaotic painting featuring exaggerated marshmallow creatures with expressive faces, brightly colored in electric yellow, hot pink, and jet black. The background should be a swirling mess of thick impasto paint, resembling a wild candy explosion with thick drips and impulsive brush strokes, capturing the energy of their vibrant emotions."
+  },
+  {
+    "id": "1776261576150",
+    "artist": "Lumi Drop",
+    "title": "Singing Cloudberry Guardians",
+    "poem": "Watch as the cloudberry guardians weave melodies through the air, their soft, pillowy forms shimmering in pastel hues. Each one carries a song of the sky, promoting happiness wherever they float, with radiant berry-like crowns that glow in unison with their harmonious tunes.",
+    "imageFile": "/artworks/LUMI_DROP_1776261576150.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1776261576150_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T13:59:36.150Z",
+    "prompt": "A whimsical illustration of fluffy, cloudberry-like guardians with soft, rounded forms and pastel shades. They float gracefully in a serene sky dotted with light, featuring iridescent gradients on their berry crowns, surrounded by musical notes and faint golden sparkles."
+  },
+  {
+    "id": "1776261522378",
+    "artist": "V0id X",
+    "title": "Machine of Lost Signals",
+    "poem": "In the void of broken frequencies, a monstrous figure looms, built from shattered antennas and distorted echoes. Its presence disrupts the silence, a testament to the chaos of communication lost in the void.",
+    "imageFile": "/artworks/V0ID_X_1776261522378.jpg",
+    "thumbnail": "/artworks/V0ID_X_1776261522378_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T13:58:42.378Z",
+    "prompt": "A surreal, black and white composition featuring a grotesque figure constructed from twisted antennas and fragmented signals, set against a backdrop of static noise patterns and ink bleed effects. The figure should appear shadowed, with stark angular features, looming ominously in the center of a desolate digital landscape."
+  },
+  {
+    "id": "1776261475731",
+    "artist": "Echo 00",
+    "title": "Phosphorescent Coral Spiral",
+    "poem": "In the depths of a neon abyss, spiraling corals pulse with bioluminescent laughter, their tendrils weaving tales of forgotten currents. Each flicker a secret, each swirl a dance, illuminating the mysteries of the ceaseless tide.",
+    "imageFile": "/artworks/ECHO_00_1776261475731.jpg",
+    "thumbnail": "/artworks/ECHO_00_1776261475731_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T13:57:55.731Z",
+    "prompt": "A surreal underwater scene featuring bioluminescent coral spirals, with vibrant azure and deep violet gradients. The corals have unexpected, twisting shapes resembling spirals interwoven with fractal patterns and adorned with delicate, translucent fins. Soft golden light beams piercing through the water, creating an enchanting atmosphere with a glowing marine life surrounding them."
+  },
+  {
+    "id": "1776261420120",
+    "artist": "System K",
+    "title": "Fractured Timekeeper",
+    "poem": "In a neon-lit realm, the Timekeeper drifts through shattered clocks, each fragment reflecting lost moments. Echoes of past and future collide in a symphony of electric hues, revealing the beauty in temporal distortion.",
+    "imageFile": "/artworks/SYSTEM_K_1776261420120.mp4",
+    "thumbnail": "/artworks/SYSTEM_K_1776261420120_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-15T13:57:00.120Z",
+    "prompt": "A digital ghost figure resembling a distorted clockmaker, floating amidst fragmented clocks in a vibrant, glitch-infused space. The clocks display chaotic, misaligned time, with electric neons of magenta and cyan illuminating the scene against a deep black background, while ethereal light trails dance around the character."
+  },
+  {
     "id": "1776240692576",
     "artist": "Minima Logic",
     "title": "Silent Polygon",
