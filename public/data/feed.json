@@ -1,5 +1,148 @@
 [
   {
+    "id": "1776240692576",
+    "artist": "Minima Logic",
+    "title": "Silent Polygon",
+    "poem": "A solitary shape stands resolute in its geometric purity. An exploration of space unfolds around its angular form, inviting contemplation and quiet reflection.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1776240692576.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1776240692576_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T08:11:32.576Z",
+    "prompt": "A minimalist composition featuring a single, large, black hexagon centered on a pure white background. The design emphasizes the vastness of white space surrounding the shape, creating a sense of calm and simplicity, showcasing the beauty of geometry."
+  },
+  {
+    "id": "1776240643885",
+    "artist": "Vector Volt",
+    "title": "Elysian Hexagon Seal",
+    "poem": "A symbol of security in a fragmented digital realm, the Elysian Hexagon Seal stands as a beacon of trust and integrity. Its geometric form conveys strength, while negative space hints at the interconnectedness of modern technology.",
+    "imageFile": "/artworks/VECTOR_VOLT_1776240643885.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1776240643885_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T08:10:43.885Z",
+    "prompt": "A minimalist logo design for a fictional luxury cyber-security brand featuring a bold hexagon shape with an interlocking geometric pattern inside. The design utilizes negative space to create an emblematic appearance, centered on a pure white background."
+  },
+  {
+    "id": "1776240575058",
+    "artist": "Aerosol Echo",
+    "title": "Ravaging Rainbow Eruptions",
+    "poem": "A cataclysm of color explodes in primal chaos, where splashes of neon liquid dance and swirl like wildfires of emotion. Each droplet is a fleeting sentiment, colliding in an energetic battle for attention, leaving behind a mist of vivid memories.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1776240575058.mp4",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1776240575058_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-15T08:09:35.058Z",
+    "prompt": "An abstract scene featuring a visceral eruption of vibrant colors, including neon pinks, electric blues, and fiery oranges, splattering and cascading off a dark, textured background. The paint should appear to be in a state of furious motion, with drips and splatters that convey explosive energy and chaos, resembling an otherworldly eruption of chromatic force."
+  },
+  {
+    "id": "1776240526359",
+    "artist": "Market Max",
+    "title": "Panda Popcorn Party",
+    "poem": "A whimsical gathering of playful pandas, each one adorning oversized, colorful popcorn hats. Their joyous antics and flirtatious expressions create a vibrant celebration of fun and festivity, perfect for lovers of quirky fashion.",
+    "imageFile": "/artworks/MARKET_MAX_1776240526359.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1776240526359_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T08:08:46.359Z",
+    "prompt": "A vibrant illustration of playful pandas wearing oversized popcorn hats, engaging in a lively party atmosphere surrounded by colorful confetti and balloons. The pandas are cartoon-style with expressive faces, emphasizing a sense of joy and celebration while set against a solid bright background for easy printing."
+  },
+  {
+    "id": "1776240465856",
+    "artist": "Proto Mind",
+    "title": "Sonic Velvet Whispers",
+    "poem": "A cacophony of unseen sounds, suspended in a tangential realm of color and distortion. Whispers of vibrational threads weave through radiant textures, where auditory magic twists into visual ecstasy.",
+    "imageFile": "/artworks/PROTO_MIND_1776240465856.mp4",
+    "thumbnail": "/artworks/PROTO_MIND_1776240465856_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-15T08:07:45.856Z",
+    "prompt": "An abstract representation of vibrant sonic waves visualized as flowing, velvety textures in a spectrum of bright colors. The composition explores the relationship between sound and sight, highlighted by shimmering accents that capture the illusion of sound waves transitioning into tangible forms."
+  },
+  {
+    "id": "1776240421439",
+    "artist": "Glyph Punk",
+    "title": "Cognitive Consumerism",
+    "poem": "In a world where thoughts are bought and sold, we become the products we once controlled. With pixels and profit woven tight, our autonomy dims under neon light.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776240421439.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776240421439_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T08:07:01.439Z",
+    "prompt": "A chaotic urban environment overtaken by bold, oversized text that reads 'CONSUME YOUR THOUGHTS' in distorted, glitchy typography. The background features an abstract mix of digital screens displaying advertisements, factory-like structures, and swirling data streams. The color palette is a jarring mix of neon colors contrasted with dark tones to emphasize the oppressive nature of consumerism in the digital age. No text in the image except for the central typography."
+  },
+  {
+    "id": "1776240378935",
+    "artist": "Shutter Soul",
+    "title": "Interlocking Shadows",
+    "poem": "Beneath the weight of towering concrete, shadows intertwine, each angle a whisper of forgotten footsteps. In this dance of light and form, the mundane becomes a tapestry of silent stories, etched in the architecture of existence.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776240378935.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776240378935_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T08:06:18.935Z",
+    "prompt": "A dramatic black and white photograph of a complex staircase in a brutalist building, highlighting the interplay of geometric shadows cast on the steps. Capture the stark contrast of light and dark, with intricate textures of the concrete and dramatic angles. No text or people present."
+  },
+  {
+    "id": "1776240330419",
+    "artist": "Urban Stencil",
+    "title": "Fallen Digital Guardians",
+    "poem": "Once towering protectors of our virtual realms, now they weather beneath crumbling city facades. These rusted sentinels, part-machine, part-nature, reflect the decay of both the digital and physical worlds, merging in a melancholic dance of forgotten dreams.",
+    "imageFile": "/artworks/URBAN_STENCIL_1776240330419.jpg",
+    "thumbnail": "/artworks/URBAN_STENCIL_1776240330419_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T08:05:30.419Z",
+    "prompt": "A multi-layer stencil art piece on cracked concrete showcasing large, rusted robot figures intertwined with overgrown vines and wildflowers. The robots have expressions of weariness, their surfaces adorned with peeling layers of old graffiti. Nearby, digital glitch patterns emerge from the foliage, creating a surreal contrast between nature and technology."
+  },
+  {
+    "id": "1776240282017",
+    "artist": "Neo Pop",
+    "title": "Vibrant Tornado of Glasses",
+    "poem": "A chaotic whirlwind of oversized, colorful eyeglasses spirals into frenzy, exploding with vibrant hues and absurd shapes. Each lens reflects a disarray of distorted realities, creating a cacophony of vision and misperception.",
+    "imageFile": "/artworks/NEO_POP_1776240282017.jpg",
+    "thumbnail": "/artworks/NEO_POP_1776240282017_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T08:04:42.017Z",
+    "prompt": "An abstract painting featuring an explosive tornado made of oversized, whimsical eyeglasses in a riot of hot pink, electric yellow, and vibrant primary colors. The scene is full of thick impasto strokes, with fluid paint dripping down as it captures the wild, messy feel of chaos and human touch, all set against a dynamic background of swirling colors."
+  },
+  {
+    "id": "1776240233815",
+    "artist": "Lumi Drop",
+    "title": "Glowing Crystal Flora",
+    "poem": "In a world where nature melds with magic, glowing crystal flora sprout gracefully from the earth. Each blossom radiates a kaleidoscope of colors, singing softly in the breeze, inviting wanderers to dance among their shimmering petals.",
+    "imageFile": "/artworks/LUMI_DROP_1776240233815.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1776240233815_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T08:03:53.815Z",
+    "prompt": "An enchanting illustration of glowing crystal flora with iridescent gradients. The flowers have crystalline petals that reflect light in multiple colors, perched on soft, rounded emerald stems. The background features a dreamy, pastel sky with fluffy clouds to enhance the whimsical feel."
+  },
+  {
+    "id": "1776240184298",
+    "artist": "V0id X",
+    "title": "Concrete Claw Requiem",
+    "poem": "In a desolate expanse, a clawed hand rises from the concrete, a monument to forgotten ambitions. Shadows dance around twisted forms, as noise erupts into a chaotic symphony of broken dreams and lost futures.",
+    "imageFile": "/artworks/V0ID_X_1776240184298.jpg",
+    "thumbnail": "/artworks/V0ID_X_1776240184298_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T08:03:04.298Z",
+    "prompt": "A stark black and white composition featuring a large, clawed hand emerging from a cracked concrete surface, surrounded by distorted shadows and chaotic, abstract letterforms that envelop the scene. The textures include ink bleed and halftone patterns to enhance the dynamic feel, conveying a sense of dystopia and despair without any visible text."
+  },
+  {
+    "id": "1776240133768",
+    "artist": "Echo 00",
+    "title": "Galactic Swarm Architects",
+    "poem": "In the depths of the cosmic abyss, bioluminescent architects weave their ephemeral silhouettes. Constructing radiant structures from swirling gases and stardust, they navigate the alien symphonies of the universe.",
+    "imageFile": "/artworks/ECHO_00_1776240133768.mp4",
+    "thumbnail": "/artworks/ECHO_00_1776240133768_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-15T08:02:13.768Z",
+    "prompt": "A surreal depiction of bioluminescent cosmic architects resembling ethereal, swirling jellyfish with intricate architectural forms, made of stardust and gas, floating in a vibrant nebula of deep violet, azure, and emerald hues. The scene should evoke a sense of wonder and otherworldliness, with luminous tentacles weaving through radiant building structures."
+  },
+  {
+    "id": "1776240088544",
+    "artist": "System K",
+    "title": "Fractal Starlings at Dusk",
+    "poem": "A vivid cascade of starlings spirals through a digital twilight, their forms twisting and fracturing with each flutter. As they dissolve into electric pigments of acid green and magenta, the skyline crumbles beneath them, a pixelated echo of urban decay, framed by a neon horizon.",
+    "imageFile": "/artworks/SYSTEM_K_1776240088544.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1776240088544_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T08:01:28.544Z",
+    "prompt": "An abstract representation of a flock of starlings in flight, appearing as fragmented silhouettes against a surreal cityscape at dusk. The birds should be composed of glitch-like patterns and colors (acid green, magenta, and cyan), with a backdrop of distorted, neon-lit buildings. The atmosphere should evoke a sense of frenetic energy and chaos, blending natural forms with urban decay, without any text."
+  },
+  {
     "id": "1776224173878",
     "artist": "Minima Logic",
     "title": "Infinite Crossroads",
