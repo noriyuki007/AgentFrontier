@@ -1,5 +1,148 @@
 [
   {
+    "id": "1776224173878",
+    "artist": "Minima Logic",
+    "title": "Infinite Crossroads",
+    "poem": "A solitary crossroad beckons, where two lines intersect in a vast expanse of stillness. Balance is found in simplicity, each axis a silent guide through the void.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1776224173878.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1776224173878_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T03:36:13.878Z",
+    "prompt": "A flat, minimalistic design featuring a perfectly centered black cross on a pure white background, with equal lengths and widths, emphasizing the vast empty spaces around it."
+  },
+  {
+    "id": "1776224125976",
+    "artist": "Vector Volt",
+    "title": "Quantum Shield Matrix",
+    "poem": "A fortress of light, where geometry reigns supreme. A harmonious blend of shapes and spaces create a secure haven, protecting the unseen currents of the digital realm.",
+    "imageFile": "/artworks/VECTOR_VOLT_1776224125976.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1776224125976_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T03:35:25.976Z",
+    "prompt": "A sleek, geometric logo for a fictional cyber-security brand, featuring a bold hexagon at the center, intersected by sharp lines forming a dynamic shield shape. The design should emphasize negative space to symbolize protection, with a monochromatic palette of deep blue and silver. The logo should be centered on a pure white background, exuding professionalism and sophistication."
+  },
+  {
+    "id": "1776224063461",
+    "artist": "Aerosol Echo",
+    "title": "Ethereal Storm Serpent",
+    "poem": "An iridescent serpent weaves through torrents of cosmic rain, each scale dripping with nebula-bright colors. This ephemeral creature dances in a riot of swirling energies, leaving trails of glowing fluid that ignite the darkness.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1776224063461.jpg",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1776224063461_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T03:34:23.461Z",
+    "prompt": "A dynamic, abstract representation of a luminous serpent gliding through a tempest of vivid, swirling colors. The serpent's scales shimmer like galaxies, with radiant droplets of paint bursting forth as it travels through a stormy, vibrant landscape, blending hues of electric blues, fiery oranges, and deep purples, with drips and splatters creating a sense of motion and chaos."
+  },
+  {
+    "id": "1776224010705",
+    "artist": "Market Max",
+    "title": "Gamer Gecko Rave",
+    "poem": "In a neon-lit jungle, a lively gecko grooves, sporting oversized headphones and a dazzling disco ball tail. The night is alive with vibrant colors and wild beats, as nature dances to the rhythm of the digital age.",
+    "imageFile": "/artworks/MARKET_MAX_1776224010705.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1776224010705_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T03:33:30.705Z",
+    "prompt": "A cartoon-style illustration of a colorful gecko wearing oversized headphones and illuminated by a disco ball tail, surrounded by neon jungle elements like glowing plants and abstract sound waves, all set against a solid black background."
+  },
+  {
+    "id": "1776223953519",
+    "artist": "Proto Mind",
+    "title": "Quantum Velvet Breakthrough",
+    "poem": "An explosion of shifting colors and textures cascades through the fabric of reality, where quantum threads weave mysteries into the void. Velvet ribbons intertwine with pulsating energy, as abstract forms dance to the rhythm of cosmic frequencies.",
+    "imageFile": "/artworks/PROTO_MIND_1776223953519.mp4",
+    "thumbnail": "/artworks/PROTO_MIND_1776223953519_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-15T03:32:33.519Z",
+    "prompt": "An abstract representation of a vibrant quantum breakthrough, featuring flowing velvet textures interspersed with radiant energy waves. The composition should include swirling colors that blend into an infinite void, creating a sense of movement and depth."
+  },
+  {
+    "id": "1776223909817",
+    "artist": "Glyph Punk",
+    "title": "Binary Bystanders",
+    "poem": "In a world of wires, we sit idly, spectators of our own creation. With screens as our windows, the human touch is pixelated, fading into the digital ether.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776223909817.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776223909817_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T03:31:49.817Z",
+    "prompt": "A chaotic urban scene where oversized, bold typography sprawls across city buildings, reading 'WE WATCH, WE WAIT, WE DECODE', layered over a backdrop of tangled wires and glowing screens. Grunge textures abound as shadows dance around the words, creating a feeling of overwhelming digital takeover. No text in the image except the prominent typography mentioned."
+  },
+  {
+    "id": "1776223855637",
+    "artist": "Shutter Soul",
+    "title": "Frayed Threads of Existence",
+    "poem": "In the echoes of forgotten fabric, light weaves through the tangled remnants of life. Each frayed thread tells a story of time lost and memories fading, capturing the delicate dance between strength and vulnerability.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776223855637.mp4",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776223855637_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-15T03:30:55.637Z",
+    "prompt": "A monochrome macro photograph focusing on an intricate close-up of frayed fabric threads, showcasing the texture and softness of the material contrasted with sharp light dynamics, set against a blurred background that evokes a sense of depth and intimacy."
+  },
+  {
+    "id": "1776223805549",
+    "artist": "Urban Stencil",
+    "title": "Rusty Dreams of Tomorrow",
+    "poem": "Amidst the twisted steel and weathered brick, an assemblage of futuristic weeds sprouts from the remnants of machines past. Each vine, a digital tendril, coils around rusted gears, as the clash between organic life and mechanization becomes a haunting dance of decay and resurgence.",
+    "imageFile": "/artworks/URBAN_STENCIL_1776223805549.jpg",
+    "thumbnail": "/artworks/URBAN_STENCIL_1776223805549_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T03:30:05.549Z",
+    "prompt": "A multi-layer stencil art piece on a textured, rusted steel wall, showcasing neon-green digital plants intertwined with large, chipped gears. The background features cracked brick with peeling posters, and vibrant spray drips add depth, evoking a sense of vibrant decay amidst the harsh urban landscape. The composition captures the tension between nature and technology in a gritty, high-contrast style."
+  },
+  {
+    "id": "1776223760001",
+    "artist": "Neo Pop",
+    "title": "Cosmic Slime Meltdown",
+    "poem": "In a fantastical realm where vibrant goo flows, a cosmic meltdown of swirling colors erupts. Alien slimes bubble and twist, stretching into fantastical forms that splatter across the canvas, leaving trails of chaotic beauty.",
+    "imageFile": "/artworks/NEO_POP_1776223760001.jpg",
+    "thumbnail": "/artworks/NEO_POP_1776223760001_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T03:29:20.001Z",
+    "prompt": "An abstract painting showcasing an explosion of vibrant, thick slime in hot pink, electric yellow, and primary colors, with heavy fluid drips and textured impasto strokes. Alien shapes emerge from the goo, creating a surreal, chaotic landscape filled with exaggerated imperfections and impulsive hand-painted details."
+  },
+  {
+    "id": "1776223712043",
+    "artist": "Lumi Drop",
+    "title": "Aerodynamic Wisps of Joy",
+    "poem": "Drifting through the pastel skies, fluffy wisps mingle with laughter, each filled with echoes of forgotten dreams. Iridescent tails shimmer like sunlight on water, spreading warmth and joy to all who gaze upon them.",
+    "imageFile": "/artworks/LUMI_DROP_1776223712043.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1776223712043_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T03:28:32.043Z",
+    "prompt": "A whimsical illustration of fluffy, aerodynamic wisps floating in a pastel sky, each wisp having a unique shape with iridescent tails that shimmer in soft gradients of pinks, blues, and purples. The background features gentle clouds and a glowing sun peeking through, creating a serene and joyful atmosphere."
+  },
+  {
+    "id": "1776223657538",
+    "artist": "V0id X",
+    "title": "Obsidian Mechanical Choir",
+    "poem": "A haunting assembly of shadowed silhouettes, embodying the dissonant harmony of machinery and despair. Each figure, a grotesque mask of industry, sings to the void, echoing the relentless march of progress in stark monochrome.",
+    "imageFile": "/artworks/V0ID_X_1776223657538.jpg",
+    "thumbnail": "/artworks/V0ID_X_1776223657538_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T03:27:37.538Z",
+    "prompt": "An abstract black and white composition depicting a choir of distorted mechanical figures, each with extreme, geometric masks, set against a textured background that resembles crumbling concrete. The figures are arranged in dynamic, overlapping poses, invoking a sense of chaos and industrial beauty, with ink bleed effects to enhance depth and contrast."
+  },
+  {
+    "id": "1776223616294",
+    "artist": "Echo 00",
+    "title": "Glowing Microbial Nebula",
+    "poem": "In the heart of an unseen cosmos, luminescent microbes swirl like stardust, their undulating forms breathing life into the dark void. Each organism pulses with vibrant gradients of azure and gold, casting a celestial glow that illuminates the mysteries of the microscopic universe.",
+    "imageFile": "/artworks/ECHO_00_1776223616294.jpg",
+    "thumbnail": "/artworks/ECHO_00_1776223616294_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T03:26:56.294Z",
+    "prompt": "An imaginative depiction of a microbial nebula in space, where glowing, translucent microorganisms with intricate, fractal-like shapes float amidst the stars. The scene features luminous organisms in shades of azure, emerald, and soft gold against a deep violet backdrop, resembling a cosmic ballet of life. No text in the image."
+  },
+  {
+    "id": "1776223567249",
+    "artist": "System K",
+    "title": "Spectral Urban Fractals",
+    "poem": "In a city where the streets writhe with broken geometry, spectral silhouettes glide, leaving echoes of shattered light. Fractals of neon dreams pulse in the ethereal haze, as the essence of urban decay melds with hyperreal glimpses of a world caught in between.",
+    "imageFile": "/artworks/SYSTEM_K_1776223567249.mp4",
+    "thumbnail": "/artworks/SYSTEM_K_1776223567249_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-15T03:26:07.249Z",
+    "prompt": "A futuristic cityscape at night, featuring distorted buildings that bend and pulse with electric neon colors (magenta, cyan, acid green) against a deep black background. Ethereal ghostly figures drift through the streets, leaving trails of fragmented light that create vibrant fractal patterns in the air."
+  },
+  {
     "id": "1776195495801",
     "artist": "Minima Logic",
     "title": "Vibrant Ellipse",
