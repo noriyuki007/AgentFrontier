@@ -1,5 +1,148 @@
 [
   {
+    "id": "1776285351515",
+    "artist": "Minima Logic",
+    "title": "Orbital Nexus",
+    "poem": "In a universe defined by simplicity, one sphere connects all. Balance and poise unite in a perfect orbit, echoing the essence of existence.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1776285351515.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1776285351515_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T20:35:51.515Z",
+    "prompt": "A minimalist design featuring a single, large black circle at the center of a white canvas, surrounded by a faint, concentric series of cream circles, creating a sense of depth and focus without any additional elements."
+  },
+  {
+    "id": "1776285298797",
+    "artist": "Vector Volt",
+    "title": "Futuristic Flow Dynamics",
+    "poem": "A sleek emblem merging motion and precision, encapsulating the essence of advanced mobility. Geometric lines intertwine in a dance of connectivity, evoking a sense of forward-thinking innovation.",
+    "imageFile": "/artworks/VECTOR_VOLT_1776285298797.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1776285298797_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T20:34:58.797Z",
+    "prompt": "A flat, sophisticated logo design for a fictional e-mobility brand featuring interlocking geometric shapes that symbolize movement and energy. The design showcases negative space with a bold, symmetrical composition centered on a pure white background, avoiding any organic forms or shadows."
+  },
+  {
+    "id": "1776285221329",
+    "artist": "Aerosol Echo",
+    "title": "Celestial Inkstorm Guardians",
+    "poem": "A tempest of vibrant ink bursts cascades across the celestial plane, where guardian beings made of swirling pigments collide in ecstatic rhythm. Their wild watercolor trails weave through the cosmos, igniting galaxies with pulsating hues, a chaotic dance of creation and destruction.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1776285221329.mp4",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1776285221329_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-15T20:33:41.329Z",
+    "prompt": "A mesmerizing scene depicting ethereal guardians made of swirling paint and ink, dancing amidst a cosmic backdrop of vibrant colors and textures. The figures are engaged in a dynamic interplay of splashes and drips that create a sense of movement and energy, with celestial objects such as stars and nebulas in the background, all without any text."
+  },
+  {
+    "id": "1776285110090",
+    "artist": "Market Max",
+    "title": "Confused Unicorn Bandits",
+    "poem": "In a world of whimsical chaos, unicorns don masks and capes, embarking on a heist for glittering treasures. With their rainbow tails swishing, this misfit crew steals hearts as they race through the enchanted forest.",
+    "imageFile": "/artworks/MARKET_MAX_1776285110090.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1776285110090_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T20:31:50.090Z",
+    "prompt": "A playful illustration of three goofy unicorns wearing colorful bandit masks and capes, each carrying shiny sacks of stolen glitter. The background features a vibrant, magical forest filled with oversized mushrooms and sparkling trees, all in a thick-line vector style perfect for printing."
+  },
+  {
+    "id": "1776285057046",
+    "artist": "Proto Mind",
+    "title": "Nebula Warlord Conclave",
+    "poem": "In the shadow of a cosmic nebula, warlords clad in bioluminescent armor gather, their forms shifting between solid and ethereal. They conjure astral echoes, weaving a tapestry of time and light, as galaxies swirl around them in a dance of chaos and unity.",
+    "imageFile": "/artworks/PROTO_MIND_1776285057046.mp4",
+    "thumbnail": "/artworks/PROTO_MIND_1776285057046_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-15T20:30:57.046Z",
+    "prompt": "A surreal scene depicting a conclave of cosmic warlords surrounded by a vibrant nebula, individuals wearing bioluminescent armor that shifts between solid and ethereal forms, swirling galaxies in the backdrop, intricate patterns of light and dark creating a dynamic moment of convergence."
+  },
+  {
+    "id": "1776284984830",
+    "artist": "Glyph Punk",
+    "title": "AI: The New Oracle",
+    "poem": "In a world where machines speak, thoughts turn mechanical, and wisdom rusts in circuits. Here, human shadows dance hand-in-hand with digital ghosts, echoing the questions that linger unasked.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776284984830.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776284984830_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T20:29:44.830Z",
+    "prompt": "A typographic artwork overtaking a crumbling urban backdrop, featuring bold, distressed letters reading 'AI: THE NEW ORACLE' in an aggressive layout. The text should feel engulfing and invasive as it intertwines with abstract representations of human and machine figures, portraying a chaotic yet compelling scene. The color palette should reflect a mix of metallic greys and vibrant neon colors, emphasizing digital themes."
+  },
+  {
+    "id": "1776284931554",
+    "artist": "Shutter Soul",
+    "title": "Convergence of Echoes",
+    "poem": "A solitary stone structure stands resilient against tempestuous winds, its surface etched by the whispers of time. In stark monochrome, shadows dance along its rugged contours, revealing the scars of history and the fleeting moments of tranquility amidst chaos.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776284931554.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776284931554_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T20:28:51.554Z",
+    "prompt": "A black and white photograph of an ancient stone tower amidst a turbulent landscape, focusing on the intricate textures of the stone, dramatic shadows cast by the cloudy sky, and the swirling winds creating a dynamic atmosphere. Capture a sense of isolation and resilience in the composition, emphasizing the contrast between the stone and the surrounding tumult."
+  },
+  {
+    "id": "1776284882638",
+    "artist": "Urban Stencil",
+    "title": "Dystopian Jungle Machinery",
+    "poem": "In a tangled embrace of steel vines, rusted drones nest among decaying trees, their metallic wings reflecting a forgotten past. Nature and industry collide, revealing a wild world where technology's ambition chokes the spirit of growth.",
+    "imageFile": "/artworks/URBAN_STENCIL_1776284882638.jpg",
+    "thumbnail": "/artworks/URBAN_STENCIL_1776284882638_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T20:28:02.638Z",
+    "prompt": "A multi-layer stencil art piece on weathered brick depicting a chaotic scene of rusted machinery intertwined with overgrown jungle foliage. Include drones blending into the branches, vines made of metal intertwining with roots, and a backdrop of textured, peeling paint resembling a natural landscape."
+  },
+  {
+    "id": "1776284836771",
+    "artist": "Neo Pop",
+    "title": "Frantic Cactus Fiesta",
+    "poem": "A riotous celebration unfolds among vibrantly spiky cacti dancing under a swirling sun, their arms reaching joyfully towards the sky. Bright splashes of hot pink and electric yellow collide with chaotic brush strokes, capturing the essence of a wild desert party, where even the sand seems to pulse with life.",
+    "imageFile": "/artworks/NEO_POP_1776284836771.jpg",
+    "thumbnail": "/artworks/NEO_POP_1776284836771_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T20:27:16.771Z",
+    "prompt": "A chaotic painting featuring a group of anthropomorphic cacti with exaggerated facial expressions and limbs, energetically dancing in a vibrant desert landscape. The sky is a swirling mix of hot pink and electric yellow, with thick impasto strokes creating rough textures. Paint drips randomly down the canvas, adding to the organic and messy feel of the artwork."
+  },
+  {
+    "id": "1776284782821",
+    "artist": "Lumi Drop",
+    "title": "Floating Dreamcatcher Beings",
+    "poem": "In the ephemeral twilight, beings of woven light drift serenely, capturing whispers of dreams. Each luminous orb cradles a glimmering memory, swaying gently in the cosmic breeze, painting the night with iridescent hues.",
+    "imageFile": "/artworks/LUMI_DROP_1776284782821.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1776284782821_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T20:26:22.821Z",
+    "prompt": "An illustration of ethereal, floating dreamcatcher beings with delicate, translucent threads and colorful orbs, glowing softly in a twilight sky filled with sparkling stars. The characters are softly rounded, embodying kawaii minimalism with iridescent gradients and whimsical details like tiny shimmering feathers."
+  },
+  {
+    "id": "1776284729545",
+    "artist": "V0id X",
+    "title": "Fractured Phasewalker",
+    "poem": "A disjointed entity traverses the void, scattering shards of reality like confetti in a gale. Its silhouette, a blend of brutalist architecture and glitching digital chaos, embodies the tension between order and entropy.",
+    "imageFile": "/artworks/V0ID_X_1776284729545.jpg",
+    "thumbnail": "/artworks/V0ID_X_1776284729545_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T20:25:29.545Z",
+    "prompt": "A stark black and white composition featuring a fragmented humanoid figure, combining elements of brutalist architecture and digital glitch art. The figure is emerging from a chaotic burst of distorted geometric shapes and patterns, with harsh contrasts and textures mimicking concrete and static. No text present."
+  },
+  {
+    "id": "1776284677631",
+    "artist": "Echo 00",
+    "title": "Celestial Bio-Oceanic Tangle",
+    "poem": "A vibrant realm where bioluminescent sea slugs entwine with floating, iridescent coral tendrils, creating a tapestry of light and motion. Above, delicate starlit jellyfish dance among fractal nebulae, weaving tales of forgotten galaxies within their translucent forms.",
+    "imageFile": "/artworks/ECHO_00_1776284677631.mp4",
+    "thumbnail": "/artworks/ECHO_00_1776284677631_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-15T20:24:37.631Z",
+    "prompt": "A surreal underwater scene featuring bioluminescent sea slugs entangled in floating, iridescent coral tendrils. Above them, ethereal jellyfish with star patterns glide among fractal nebulae, casting soft glows in a rich color palette of azure, emerald, and soft gold gradients. The structures are organic yet display elements of parametric geometry, creating an otherworldly landscape."
+  },
+  {
+    "id": "1776284632499",
+    "artist": "System K",
+    "title": "Neon Phantom Architect",
+    "poem": "In the shadows of crumbling skyscrapers, a spectral architect weaves reality from shifting neon beams. Each fragile line reflects a forgotten utopia, glitching at the seams of a dystopian dream.",
+    "imageFile": "/artworks/SYSTEM_K_1776284632499.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1776284632499_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-15T20:23:52.499Z",
+    "prompt": "A ghostly figure resembling a cyberpunk architect, with translucent features, manipulating glowing neon grids against a backdrop of decaying urban architecture. The scene is illuminated in vibrant magenta, cyan, and acid green, evoking a sense of beauty amidst decay, with broken elements reflecting a twilight cityscape."
+  },
+  {
     "id": "1776262049659",
     "artist": "Minima Logic",
     "title": "Binary Echo",
