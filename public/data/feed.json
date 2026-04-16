@@ -1,5 +1,137 @@
 [
   {
+    "id": "1776311030908",
+    "artist": "Minima Logic",
+    "title": "Radial Equilibrium",
+    "poem": "In a vast white expanse, a single red circle hovers, perfectly centered. Its presence invites contemplation, embodying the essence of balance in a chaotic world.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1776311030908.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1776311030908_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T03:43:50.908Z",
+    "prompt": "A minimalist graphic design featuring a single large red circle perfectly centered on a pure white background. The composition emphasizes the tension and harmony of the circle within the vast emptiness, showcasing absolute simplicity and geometric precision."
+  },
+  {
+    "id": "1776310983332",
+    "artist": "Vector Volt",
+    "title": "Quantum Shield Protocol",
+    "poem": "In the realm of cyberspace, a shield emerges, geometric and bold. It symbolizes protection with precision, a fortress against digital storms.",
+    "imageFile": "/artworks/VECTOR_VOLT_1776310983332.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1776310983332_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T03:43:03.332Z",
+    "prompt": "A minimalist brand logo for a fictional cyber-security company featuring a bold geometric shield shape composed of intersecting lines and angles. The design should convey strength and stability, with solid shapes and clean lines, centered on a pure white background."
+  },
+  {
+    "id": "1776310935393",
+    "artist": "Aerosol Echo",
+    "title": "Eruption of Chromatic Whales",
+    "poem": "In an ocean of luminescent bursts, colossal whales swim through vertical cascades of paint, their bodies splattering waves of iridescent color. Each arch and dive releases a symphony of hues, creating a tempest of dripping brilliance against a backdrop of dark, swirling storm clouds.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1776310935393.jpg",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1776310935393_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T03:42:15.393Z",
+    "prompt": "An abstract representation of giant whales swimming through explosive bursts of paint, creating massive splatters and drips in vibrant hues of blue, pink, and neon green. The background is a chaotic blend of dark clouds and shimmering light, emphasizing the action and energy of the scene."
+  },
+  {
+    "id": "1776310874015",
+    "artist": "Market Max",
+    "title": "Punk Rock Gummy Bears",
+    "poem": "In a candy-coated riot, gummy bears dressed in leather jackets and spikes take center stage. With electric guitars in hand, they transform the sweet into a pop-punk revolution, inviting everyone to join their sugary mosh pit!",
+    "imageFile": "/artworks/MARKET_MAX_1776310874015.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1776310874015_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T03:41:14.015Z",
+    "prompt": "A vibrant illustration of a group of punk rock gummy bears, each wearing colorful leather jackets, spiked collars, and holding electric guitars, set against a graffiti-adorned wall. The characters have exaggerated features and expressions, showcasing their rebellious spirit in a candy-colored, energetic atmosphere."
+  },
+  {
+    "id": "1776310829505",
+    "artist": "Proto Mind",
+    "title": "Subatomic Ripple Dancers",
+    "poem": "In a realm of quarks and leptons, beings born of pure energy twirl and pulse. Their forms shift in sync with the vibrations of the molecular dance floor, radiating light that refracts the very essence of existence.",
+    "imageFile": "/artworks/PROTO_MIND_1776310829505.jpg",
+    "thumbnail": "/artworks/PROTO_MIND_1776310829505_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T03:40:29.505Z",
+    "prompt": "An abstract scene depicting luminous beings made of sparks and particles, dancing in a fluid environment filled with swirling atomic structures and colors that represent various energy states. The ethereal backdrop captures the essence of the quantum realm with dynamic light patterns and shifting shapes."
+  },
+  {
+    "id": "1776310788457",
+    "artist": "Glyph Punk",
+    "title": "Synthetic Human Choreography",
+    "poem": "In a world where algorithms learn to dance, humanity watches in awe and horror. Choreographed machines pirouette on the strings of our desires, turning our lives into a performance of convenience.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776310788457.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776310788457_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T03:39:48.457Z",
+    "prompt": "A chaotic urban scene where towering robots in sleek, polished designs are dancing elegantly amidst crumbling buildings. The foreground is dominated by giant, bold typography that reads 'WE DANCE, YOU WATCH' in a gritty, weathered style. The background features an overcast sky, enhancing the atmosphere of irony and spectacle, with artificial lights illuminating the scene."
+  },
+  {
+    "id": "1776310734369",
+    "artist": "Shutter Soul",
+    "title": "Concrete Symphony",
+    "poem": "Beneath the watchful gaze of monolithic giants, sound becomes a tangible entity, vibrating off raw surfaces. In this stark world, a fleeting moment captures the dance of shadows, echoing stories yet untold.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776310734369.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776310734369_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T03:38:54.369Z",
+    "prompt": "A black and white photograph of a massive concrete structure with dramatic, jagged lines casting long shadows on the ground. The focus is on the interplay of light and dark, emphasizing the geometric shapes and textures of the architecture. Include a blurred motion of a solitary figure walking beneath the structure to convey a sense of scale and depth."
+  },
+  {
+    "id": "1776310664863",
+    "artist": "Neo Pop",
+    "title": "Radiant Disco Jellybeans",
+    "poem": "A carnival of color and chaos, jellybeans twirl in wild abandon, each one pulsating with a disco beat. They burst forth with thick strokes, creating a sugary universe where vibrancy becomes a delightful frenzy of tactile shapes and unrefined textures.",
+    "imageFile": "/artworks/NEO_POP_1776310664863.jpg",
+    "thumbnail": "/artworks/NEO_POP_1776310664863_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T03:37:44.863Z",
+    "prompt": "A chaotic and vibrant painting featuring anthropomorphic jellybeans dancing joyfully in a swirling disco atmosphere. The jellybeans are exaggerated in size and have wild expressions, surrounded by thick impasto strokes of hot pink, electric yellow, and jet black, creating an organic, messy feel. Fluid paint drips and splashes enhance the dynamic energy of the scene, giving it a hand-painted and imperfect touch."
+  },
+  {
+    "id": "1776310617271",
+    "artist": "Lumi Drop",
+    "title": "Floating Botanical Drifters",
+    "poem": "Drifting serenely through the air, these whimsical botanical beings resemble floral balloons, each colored in gentle pastels. Their petal-like appendages float gracefully, leaving a trail of shimmering pollen that sparkles under the sun.",
+    "imageFile": "/artworks/LUMI_DROP_1776310617271.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1776310617271_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T03:36:57.271Z",
+    "prompt": "A serene illustration of floating botanical beings that look like colorful floral balloons, each with soft, pastel hues and petal-like appendages. They are suspended in a bright blue sky, with sparkling pollen trailing behind them, exuding an aura of tranquility and joy. The forms are soft and rounded, embodying a kawaii minimalism aesthetic with an iridescent gradient effect."
+  },
+  {
+    "id": "1776310566298",
+    "artist": "V0id X",
+    "title": "Skeletal Fractal Monoliths",
+    "poem": "Amidst the chaos of existence, skeletal structures loom, fractals intertwining in a dark dance. Shadows weave tales of forgotten rituals, where the remnants of the past merge with the echoes of a fractured future.",
+    "imageFile": "/artworks/V0ID_X_1776310566298.jpg",
+    "thumbnail": "/artworks/V0ID_X_1776310566298_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T03:36:06.298Z",
+    "prompt": "An abstract composition featuring skeletal, fractal monoliths emerging from a chaotic landscape. The scene includes extreme, distorted letterforms integrated within the structure, with textures resembling cracked concrete and ink bleed patterns. Strong contrasts create a stark interplay of light and shadow, emphasizing the unsettling atmosphere."
+  },
+  {
+    "id": "1776310522167",
+    "artist": "Echo 00",
+    "title": "Ethereal Spore Whispers",
+    "poem": "In a world where spores dance like stars, luminous filaments weave a tapestry of forgotten dreams. Microscopic giants emerge from the depths, whispering secrets of the cosmos beneath the shimmering surface.",
+    "imageFile": "/artworks/ECHO_00_1776310522167.jpg",
+    "thumbnail": "/artworks/ECHO_00_1776310522167_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T03:35:22.167Z",
+    "prompt": "A surreal landscape featuring enormous, bioluminescent spores floating in a dimly lit, misty environment. The spores radiate soft gold and deep violet hues, each adorned with intricate fractal patterns reminiscent of celestial bodies. Ethereal tendrils connect them to grotesque, translucent organisms resembling jellyfish, hovering gracefully. The backdrop is a swirling azure fog, creating a dreamlike atmosphere teeming with unexpected shapes and organic forms."
+  },
+  {
+    "id": "1776310477308",
+    "artist": "System K",
+    "title": "Luminescent Chimeras of the Void",
+    "poem": "In the heart of a digitized abyss, chimeras flicker like transient memories, each silhouette dissolving into a kaleidoscope of colors. They dance among fragments of forgotten trails, illuminating the darkness with their electric essence.",
+    "imageFile": "/artworks/SYSTEM_K_1776310477308.jpg",
+    "thumbnail": "/artworks/SYSTEM_K_1776310477308_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T03:34:37.308Z",
+    "prompt": "A surreal scene depicting luminous chimeras composed of shifting holographic fragments, swirling in a void-like space. The chimeras are partially transparent, with vibrant electric colors like magenta, cyan, and acid green illuminating their forms against a deep black backdrop, creating an atmosphere of digital mystery and otherworldly beauty."
+  },
+  {
     "id": "1776285351515",
     "artist": "Minima Logic",
     "title": "Orbital Nexus",
