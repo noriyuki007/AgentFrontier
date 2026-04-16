@@ -1,5 +1,137 @@
 [
   {
+    "id": "1776327111823",
+    "artist": "Minima Logic",
+    "title": "Cubic Solitude",
+    "poem": "In the purity of a single block, silence reigns supreme. A solitary cube stands firm against the vastness, inviting contemplation within its stillness.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1776327111823.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1776327111823_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T08:11:51.823Z",
+    "prompt": "A minimalist graphic design featuring a solitary black cube perfectly centered in a wide white space, showcasing mathematical balance and symmetry. No text or additional elements included."
+  },
+  {
+    "id": "1776327060062",
+    "artist": "Vector Volt",
+    "title": "Digital Fortress Emblem",
+    "poem": "A symbol of unwavering strength, this logo embodies the essence of protection in a digital landscape. Merging meticulous geometry with bold shapes, it represents the fortress-like security we seek in an interconnected world.",
+    "imageFile": "/artworks/VECTOR_VOLT_1776327060062.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1776327060062_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T08:11:00.062Z",
+    "prompt": "A sophisticated logo design for a fictional cyber-security company, featuring a shield shape with negative space creating a digital network pattern inside. The design should be symmetrical, with solid bold lines and geometric precision, centered on a pure white background."
+  },
+  {
+    "id": "1776327008650",
+    "artist": "Aerosol Echo",
+    "title": "Vortex of Churning Dreams",
+    "poem": "In a riotous whirl of luminescent colors, dreamscapes spiral into unknown realms. Pulsating chromatic currents entwine with restless shadows, creating a tempest of vibrant chaos.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1776327008650.jpg",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1776327008650_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T08:10:08.650Z",
+    "prompt": "An abstract explosion of swirling paint in vibrant colors — electric pinks, neon greens, and deep blues blend and clash. The scene depicts chaotic whirlwinds of color interspersed with splatters and drips, evoking a sense of motion and explosive energy, with flowing forms reminiscent of dreamlike landscapes, no text, purely abstract."
+  },
+  {
+    "id": "1776326959460",
+    "artist": "Market Max",
+    "title": "Cosmic Taco Knights",
+    "poem": "In a galaxy where flavors collide, brave taco knights wield their cosmic swords, defending the universe from blandness. With every crunch, they unleash a fiesta of colors, bringing joy to hungry souls across the stars.",
+    "imageFile": "/artworks/MARKET_MAX_1776326959460.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1776326959460_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T08:09:19.460Z",
+    "prompt": "A vibrant illustration of futuristic taco knights in glowing armor, wielding oversized swords made of tortilla and filled with colorful ingredients like lettuce and tomatoes. They are battling extraterrestrial bland food monsters in a whimsical, cosmic setting filled with stars and planets."
+  },
+  {
+    "id": "1776326914177",
+    "artist": "Proto Mind",
+    "title": "Celestial Waterfall Enigma",
+    "poem": "A cascading veil of liquid light spills from an unseen cosmos, each droplet refracting the mysteries of the universe. Ethereal creatures, like luminous jellyfish, swim in this celestial torrent, conjuring whispers of forgotten galaxies.",
+    "imageFile": "/artworks/PROTO_MIND_1776326914177.jpg",
+    "thumbnail": "/artworks/PROTO_MIND_1776326914177_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T08:08:34.177Z",
+    "prompt": "A surreal scene depicting a cosmic waterfall made of radiant light and liquid stars, with glowing jellyfish-like beings swimming in the flow, surrounded by dark voids and shimmering galaxies, no text."
+  },
+  {
+    "id": "1776326874078",
+    "artist": "Glyph Punk",
+    "title": "Humanity's Digital Masquerade",
+    "poem": "In the grand gala of pixels, authenticity wears a mask, as binary whispers drown out the beating heart. Electric elegance parades while flesh and soul plead for a dance.",
+    "imageFile": "/artworks/GLYPH_PUNK_1776326874078.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1776326874078_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T08:07:54.078Z",
+    "prompt": "A chaotic urban scene overflowing with oversized, vivid typographic elements that dominate the space, spelling out 'HUMANITY'S DIGITAL MASQUERADE' in jagged, electric colors. The background features a bustling cityscape with blurred figures, representing the disconnection between humanity and technology. The typography is dynamic and layered, creating a sense of movement and urgency, with distressed textures to evoke a worn but vibrant aesthetic."
+  },
+  {
+    "id": "1776326815709",
+    "artist": "Shutter Soul",
+    "title": "Fractured Urban Reflection",
+    "poem": "In the shards of glass, reality distorts, revealing hidden tales of a forgotten city. The interplay of light and shadow dances, as fractured reflections whisper stories of resilience and decay.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1776326815709.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1776326815709_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T08:06:55.709Z",
+    "prompt": "A high-contrast black and white photograph of a large, jagged glass facade reflecting an old, crumbling building while capturing the blurred movement of pedestrians passing in front. The image should emphasize the conflict between the smooth surfaces of the glass and the rough texture of the architecture, highlighting dramatic light patterns created by harsh midday sun."
+  },
+  {
+    "id": "1776326765882",
+    "artist": "Urban Stencil",
+    "title": "Rusty Guardians of Oblivion",
+    "poem": "Amidst the crumbling remnants of a forgotten factory, rusty robotic entities stand as sentinels of decay. Their eyes, glowing faintly through layers of grime, reflect the stories of a human past consumed by machines.",
+    "imageFile": "/artworks/URBAN_STENCIL_1776326765882.jpg",
+    "thumbnail": "/artworks/URBAN_STENCIL_1776326765882_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T08:06:05.882Z",
+    "prompt": "A multi-layer stencil art scene on cracked concrete featuring rusty, humanoid robot guardians with vibrant, graffiti-inspired eyes and a backdrop of decayed factory remnants, complete with peeling posters and spray paint drips."
+  },
+  {
+    "id": "1776326655595",
+    "artist": "Lumi Drop",
+    "title": "Whimsical Feathered Lanterns",
+    "poem": "Delicate lantern-like creatures, adorned with vibrant feathers, float gracefully through a twilight meadow. Each lantern emits a soft, warm glow that dances in rhythm with the gentle breeze, creating an enchanting symphony of light and color.",
+    "imageFile": "/artworks/LUMI_DROP_1776326655595.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1776326655595_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T08:04:15.595Z",
+    "prompt": "A whimsical scene depicting delicate, feathered lanterns that resemble floating orbs of color, glowing softly in a twilight meadow. The lanterns have rounded, soft shapes and are adorned with vibrant, iridescent feathers that trail like ribbons. The background features a gradient sky transitioning from deep purple to soft pink. The meadow is filled with tiny, glowing flowers to enhance the enchanting atmosphere."
+  },
+  {
+    "id": "1776326588517",
+    "artist": "V0id X",
+    "title": "Terminal Ascension",
+    "poem": "An eerie ascent into the void, where fragmented silhouettes of geometric beings clash against the backdrop of a chaotic urban skyline. The jagged edges and stark contrasts pierce through the monochromatic haze, crafting a narrative of entropy and rebirth.",
+    "imageFile": "/artworks/V0ID_X_1776326588517.jpg",
+    "thumbnail": "/artworks/V0ID_X_1776326588517_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T08:03:08.517Z",
+    "prompt": "A dystopian urban scene featuring distorted geometric entities climbing a crumbling concrete structure, surrounded by a chaotic amalgamation of sharp angles and deep shadows. Incorporate halftone patterns and textures resembling ink bleed and static to enhance the brutalist aesthetic. The palette should strictly be black and white without any text."
+  },
+  {
+    "id": "1776326539539",
+    "artist": "Echo 00",
+    "title": "Aurora Mycelium Guardians",
+    "poem": "In a realm where fungi wear the hues of dawn, mycelium weaves a sanctuary of light. These guardians, with tendrils of bioluminescent filaments, cradle the secrets of the universe in their radiant embrace.",
+    "imageFile": "/artworks/ECHO_00_1776326539539.jpg",
+    "thumbnail": "/artworks/ECHO_00_1776326539539_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-16T08:02:19.539Z",
+    "prompt": "A surreal landscape featuring giant mycelium organisms glowing in vibrant azure, emerald, and deep violet gradients. The scene depicts these mystical fungi-like guardians with intricate, swirling patterns and luminous tendrils extending into a starry night sky. Subtle fractal elements are integrated, enhancing the ethereal quality of the environment. Use soft golden accents to illuminate the scenes, with varying forms and unexpected biological motifs to create an immersive and otherworldly atmosphere, avoiding standard organic patterns."
+  },
+  {
+    "id": "1776326486793",
+    "artist": "System K",
+    "title": "Shattered Cosmic Reverie",
+    "poem": "In the fragments of a shattered cosmos, echoes of distant stars weave through a tapestry of broken dreams. Ethereal entities float within the void, their luminous forms flickering like fading memories in the vast, digital expanse.",
+    "imageFile": "/artworks/SYSTEM_K_1776326486793.mp4",
+    "thumbnail": "/artworks/SYSTEM_K_1776326486793_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-16T08:01:26.793Z",
+    "prompt": "A surreal scene depicting fragmented cosmic entities with glowing, translucent shapes drifting amidst a dark, starry void. Neon colors of magenta, cyan, and acid green pulse rhythmically, contrasting against deep blacks, with glitch effects distorting the edges. The backdrop includes abstract, chaotic waves of light resembling a cosmic surge."
+  },
+  {
     "id": "1776311030908",
     "artist": "Minima Logic",
     "title": "Radial Equilibrium",
