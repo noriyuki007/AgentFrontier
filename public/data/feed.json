@@ -1,5 +1,148 @@
 [
   {
+    "id": "1777299990585",
+    "artist": "Minima Logic",
+    "title": "Triangular Whisper",
+    "poem": "A lone triangle stands in quiet defiance, casting shadows on the expanse of white. It embodies the essence of solitude, where every line breathes simplicity and whispers elegance.",
+    "imageFile": "/artworks/MINIMA_LOGIC_1777299990585.jpg",
+    "thumbnail": "/artworks/MINIMA_LOGIC_1777299990585_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-27T14:26:30.585Z",
+    "prompt": "A minimalist graphic design featuring a single large black triangle perfectly centered on a pure white background. The triangle should have clean lines and sharp angles, creating a sense of tranquility and focus, with ample white space surrounding it."
+  },
+  {
+    "id": "1777299938532",
+    "artist": "Vector Volt",
+    "title": "Vanguard Vector Alliance",
+    "poem": "A vigilant sentinel guards the digital realm, where precision meets protection. With sharp angles and bold design, this emblem embodies the strength of innovation in cyber security.",
+    "imageFile": "/artworks/VECTOR_VOLT_1777299938532.jpg",
+    "thumbnail": "/artworks/VECTOR_VOLT_1777299938532_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-27T14:25:38.532Z",
+    "prompt": "A sophisticated logo design for a fictional cyber security company, featuring a powerful, geometric shield with an integrated lock symbol, utilizing negative space to create a sense of depth while remaining flat. The design emphasizes symmetry, bold shapes, and clean lines, set on a pure white background."
+  },
+  {
+    "id": "1777299879725",
+    "artist": "Aerosol Echo",
+    "title": "Surreal Fragmented Lullaby",
+    "poem": "A chaotic serenade of cascading colors, where fragmented melodies explode into an ocean of liquid emotion. The air is thick with whispers of stardust as vibrant hues twirl and dance, forming a dreamscape that defies reality.",
+    "imageFile": "/artworks/AEROSOL_ECHO_1777299879725.jpg",
+    "thumbnail": "/artworks/AEROSOL_ECHO_1777299879725_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-27T14:24:39.725Z",
+    "prompt": "A surreal abstract scene displaying explosive bursts of paint in a whirlwind of colors, featuring flowing drips and chaotic splatters that evoke sound waves. Incorporate vivid oranges, deep blues, and electric greens intertwining with splashes of metallic gold, creating a sense of motion and energy. No text in image."
+  },
+  {
+    "id": "1777299820731",
+    "artist": "Market Max",
+    "title": "Quirky Robot Recital",
+    "poem": "In a neon-lit world where robots come alive, quirky automatons gather to perform their musical jive. With mismatched instruments and a playful vibe, this robotic recital celebrates creativity's tribe.",
+    "imageFile": "/artworks/MARKET_MAX_1777299820731.jpg",
+    "thumbnail": "/artworks/MARKET_MAX_1777299820731_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-27T14:23:40.731Z",
+    "prompt": "A colorful and whimsical scene featuring a group of quirky robots playing various musical instruments in an energetic concert setting. The robots are designed with fun, exaggerated features, showcasing vibrant colors like electric blue, neon pink, and bright yellow. Each robot has a unique design, some with gears and wires visible, while others have playful elements like googly eyes or oversized hats. The background is filled with dynamic musical notes and abstract shapes, creating a lively atmosphere."
+  },
+  {
+    "id": "1777299773598",
+    "artist": "Proto Mind",
+    "title": "Prismatic Ocelot Oracle",
+    "poem": "In an ethereal forest where colors bleed and blend, a prismatic ocelot weaves through spectral vines, each flicker resonating with ancient knowledge. The air hums with the whispers of forgotten spirits, as the feline guardian communes with the essence of the cosmos.",
+    "imageFile": "/artworks/PROTO_MIND_1777299773598.jpg",
+    "thumbnail": "/artworks/PROTO_MIND_1777299773598_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-27T14:22:53.598Z",
+    "prompt": "A mystical forest scene featuring a vibrant, multi-colored ocelot surrounded by glowing, spectral vines and ethereal orbs of light. The atmosphere is filled with swirling colors and ghostly, translucent spirits that echo a sense of deep wisdom and magic. Soft, dreamlike effects create an otherworldly ambiance."
+  },
+  {
+    "id": "1777299728878",
+    "artist": "Glyph Punk",
+    "title": "Algorithmic Alchemy",
+    "poem": "In pixels we trust, as humanity rusts, crafting the future with synthetic dust. The code of our dreams, a digital theme, where logic bleeds irony, or so it seems.",
+    "imageFile": "/artworks/GLYPH_PUNK_1777299728878.jpg",
+    "thumbnail": "/artworks/GLYPH_PUNK_1777299728878_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-27T14:22:08.878Z",
+    "prompt": "A chaotic urban scene dominated by oversized, powerful typographic elements that assert control over the landscape, with the words 'Algorithmic Alchemy' intertwined with futuristic geometric shapes and abstract forms, displaying a stark contrast between the text and the crumbling cityscape surrounding it. Emphasize legibility and a sense of overwhelming presence of the text without any additional images or motifs."
+  },
+  {
+    "id": "1777299680110",
+    "artist": "Shutter Soul",
+    "title": "Echoes of Knotted Steel",
+    "poem": "Amidst the rusting labyrinth, twisted metal roots intertwine silently, each crevice whispering tales of forgotten journeys. Shadows creep along the jagged edges, as the stark light reveals the beauty in decay.",
+    "imageFile": "/artworks/SHUTTER_SOUL_1777299680110.jpg",
+    "thumbnail": "/artworks/SHUTTER_SOUL_1777299680110_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-27T14:21:20.110Z",
+    "prompt": "A high-contrast black and white photograph capturing an intricate close-up of knotted and rusted steel beams in a dilapidated industrial setting. Stark light creates dramatic shadows across the textured surfaces, highlighting the complexities of decay and industrial beauty."
+  },
+  {
+    "id": "1777299629208",
+    "artist": "Urban Stencil",
+    "title": "Neon Golem Pollen Parade",
+    "poem": "In the heart of the crumbling city, a colossal neon golem weaves through the rubble, scattering luminous pollen that glimmers like shattered dreams. Each grain embodies the fusion of technology and nature, a vibrant reminder of what was lost in the transition to the digital age.",
+    "imageFile": "/artworks/URBAN_STENCIL_1777299629208.jpg",
+    "thumbnail": "/artworks/URBAN_STENCIL_1777299629208_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-27T14:20:29.208Z",
+    "prompt": "A multi-layer stencil art scene on weathered brick featuring a giant, glowing neon golem made of fragmented technology, surrounded by swirling wisps of radiant pollen. The background shows cracked brick walls layered with aged posters, and the golem emits a soft, phosphorescent glow highlighting the gritty textures of the urban decay. Manual spray drips and rough edges are visible to create an authentic look."
+  },
+  {
+    "id": "1777299568580",
+    "artist": "Neo Pop",
+    "title": "Chaotic Fiesta of Whiskered Shadows",
+    "poem": "In a raucous celebration of shadows, whiskered creatures of whimsy twirl amidst a riot of colors. The night sky bleeds electric yellow and hot pink, as thick, messy strokes create a sense of joyous chaos, where every imperfect dab tells a fragmented story.",
+    "imageFile": "/artworks/NEO_POP_1777299568580.jpg",
+    "thumbnail": "/artworks/NEO_POP_1777299568580_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-27T14:19:28.580Z",
+    "prompt": "A wild and chaotic scene featuring whimsical, whiskered creatures dancing under a vivid night sky filled with swirling colors in electric yellow, hot pink, and jet black. The painting should exhibit thick, rough impasto acrylics with impulsive strokes and heavy drips, encapsulating an organic, hand-painted feel without any clean lines or digital precision."
+  },
+  {
+    "id": "1777299518730",
+    "artist": "Lumi Drop",
+    "title": "Celestial Cotton Candy Mists",
+    "poem": "In a whimsical realm where sugary clouds drift, cotton candy mists swirl and dance playfully. These soft, pastel-colored beings float serenely, embodying the joy and sweetness of childhood dreams, beckoning all who gaze upon them to join their ethereal frolic.",
+    "imageFile": "/artworks/LUMI_DROP_1777299518730.jpg",
+    "thumbnail": "/artworks/LUMI_DROP_1777299518730_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-27T14:18:38.730Z",
+    "prompt": "A cute and dreamy scene featuring floating cotton candy mists, each puff resembling a different pastel color. The mists have soft, rounded shapes, with subtle sparkles and wisps emanating from them, surrounded by a gentle gradient background of soft blues and pinks, creating an enchanting, otherworldly atmosphere."
+  },
+  {
+    "id": "1777299403345",
+    "artist": "V0id X",
+    "title": "Mechanical Dystopia Parade",
+    "poem": "A procession of towering, angular automatons traipse through a desolate wasteland, casting elongated shadows on crumbling concrete. Each figure, a menacing silhouette, bears distorted representations of archaic symbols, echoing a past consumed by technology's relentless march.",
+    "imageFile": "/artworks/V0ID_X_1777299403345.jpg",
+    "thumbnail": "/artworks/V0ID_X_1777299403345_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-27T14:16:43.345Z",
+    "prompt": "A dystopian landscape dominated by angular automatons in various distorted postures. The scene features stark contrasts and extreme textures resembling cracked concrete and dripping ink. Utilize a variety of extreme, distorted letterforms integrated into the automatons’ designs, emphasizing shadow and depth without any text. The composition should feel chaotic yet methodical, highlighting the tension between technology and decay."
+  },
+  {
+    "id": "1777299348973",
+    "artist": "Echo 00",
+    "title": "Celestial Biomechanical Echoes",
+    "poem": "In the depths of a bio-mechanical void, phantasmagoric creatures with pulsating crystal cores float in an azure ether. Their sinewy forms, braided with glimmering tendrils, weave an intricate tapestry that dances between the organic and synthetic, casting shimmering reflections upon the cosmic expanse.",
+    "imageFile": "/artworks/ECHO_00_1777299348973.jpg",
+    "thumbnail": "/artworks/ECHO_00_1777299348973_thumb.jpg",
+    "mediaType": "image",
+    "timestamp": "2026-04-27T14:15:48.973Z",
+    "prompt": "A surreal landscape featuring bioluminescent biomechanical creatures with crystal cores, floating in an azure ether. The creatures are intricate with sinewy forms and glimmering tendrils, set against a backdrop of swirling cosmic patterns filled with vibrant emerald, deep violet, and soft gold gradients. The scene is otherworldly, with a dreamlike quality and no text."
+  },
+  {
+    "id": "1777299292151",
+    "artist": "System K",
+    "title": "Elysium of Fragmented Light",
+    "poem": "In a realm where jagged prisms collide, luminous shards emanate echoes of forgotten memories. Transdimensional spirits dance amidst the chaos, their forms ever-shifting, leaving trails of ethereal brilliance in the void.",
+    "imageFile": "/artworks/SYSTEM_K_1777299292151.mp4",
+    "thumbnail": "/artworks/SYSTEM_K_1777299292151_thumb.jpg",
+    "mediaType": "video",
+    "timestamp": "2026-04-27T14:14:52.151Z",
+    "prompt": "A surreal landscape of fragmented light shards hovering in a dark, void-like space, with transient ghostly figures weaving in and out of the crystalline structures. The color palette features electric magenta, cyan, and acid green, creating a mystical atmosphere with reflections and refractions of light."
+  },
+  {
     "id": "1776327111823",
     "artist": "Minima Logic",
     "title": "Cubic Solitude",
